@@ -16,6 +16,10 @@ author_profile: true
 {% endfor %}
 
 
++ **Regression of Instance Boundary by Aggregated CNN and GCN**
+Yanda Meng, Meng wei, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.  
+European Conference on Computer Vision. ECCV2020. [paper](https://www.springerprofessional.de/en/cnn-gcn-aggregation-enabled-boundary-regression-for-biomedical-i/18443174).
+
 + **CNN-GCN Aggregation Enabled Boundary Regression for Biomedical Image Segmentation**  
-Yanda Meng, Wei Meng, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.
-European Conference on Computer Vision. ECCV2020
+Yanda Meng, Meng Wei, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.  
+International Conference on Medical Image Computing and Computer-Assisted Intervention. MICCAI 2020. [paper](https://www.springerprofessional.de/en/cnn-gcn-aggregation-enabled-boundary-regression-for-biomedical-i/18443174)
