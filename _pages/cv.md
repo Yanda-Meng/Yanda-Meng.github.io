@@ -18,7 +18,7 @@ Education
 
 Intership
 ======
-1. Jan - Mar 2019: 
+1. 2019 Jan - Mar: 
    + Computer Vision Research Internship, with Remark Holdings, Chengdu, China.
    + Job description: Gender/Age estimation with human face images.
 
