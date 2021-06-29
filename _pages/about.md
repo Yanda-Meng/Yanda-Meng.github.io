@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Yanda Meng's website
+title: "Yanda Meng"
+
 
 
