@@ -32,7 +32,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 + **Regression of Instance Boundary by Aggregated CNN and GCN**  
 **Yanda Meng**, Meng wei, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.  
-European Conference on Computer Vision. ECCV2020. [paper](https://www.springerprofessional.de/en/cnn-gcn-aggregation-enabled-boundary-regression-for-biomedical-i/18443174).
+European Conference on Computer Vision. ECCV2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_12).
 
 
 
