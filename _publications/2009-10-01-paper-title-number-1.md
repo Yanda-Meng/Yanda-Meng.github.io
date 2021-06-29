@@ -1,15 +1,28 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+---
+layout: archive
+title: "--->"
+permalink: /publication/
+author_profile: true
+---
+
+{% include base_path %}
+
+Education
+======
+* B.S. Software Engineering, Captical Normal University, Beijing, China, Sep 2013 - June 2017
+* M.S.C Advanced Computer Science, University of Leeds, Leeds, UK, Sep 2017 - Dec 2018
+* Ph.D student, Biometric and Biomedical Image Computing, University of Liverpool, Liverpool, UK, April 2019 - present
+
+
+Intership
+======
+1. Jan - Mar 2019: 
+   + Computer Vision Research Internship, with Remark Holdings, Chengdu, China.
+   + Job description: Gender/Age estimation with human face images.
+
+
+  
+
+
