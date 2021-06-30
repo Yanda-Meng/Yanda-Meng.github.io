@@ -28,7 +28,7 @@ Recent News
 + July, 2020, One co-author paper **"Introducing the GEV Activation Function for Highly Unbalanced Data to Develop COVID-19 Diagnostic Models"** was accepted by **IEEE-JBHI**.
 + July, 2020, Our paper **"Regression of Instance Boundary by Aggregated CNN and GCN"** was accepted by **ECCV 2020**.
 + May, 2020, Our paper **"CNN-GCN Aggregation Enabled Boundary Regression for Biomedical Image Segmentation"** was accepted by **MICCAI 2020**.
-+ April, 2019, Started my PhD in Uni of Liverpool, thanks for the fully-funded studentship of China Science IntelliCloud Technology Co., Ltd, Shanghai, China
++ April, 2019, Started my PhD in Uni of Liverpool, thanks for the fully-funded studentship from China Science IntelliCloud Technology Co., Ltd, Shanghai, China
 
 
 
