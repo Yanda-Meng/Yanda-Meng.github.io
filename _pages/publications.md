@@ -14,6 +14,11 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
++ **Spatial Uncertainty-Aware Semi-Supervised Crowd Counting**  
+**Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.      
+IEEE International Conference on Computer Vision. ICCV 2021.
+
 + **Unsupervised Parameter-specific Affine Registration for 2D/3D Medical Images using Convolutional Neural Networks**  
 Xu Chen,  **Yanda Meng**, Yitian Zhao, Rachel Williams, Srinivasa Vallabhaneni, Yalin Zheng.    
 International Conference on Medical Image Computing and Computer-Assisted Intervention. MICCAI 2021.
