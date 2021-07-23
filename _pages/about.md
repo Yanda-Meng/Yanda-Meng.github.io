@@ -22,9 +22,9 @@ About Me
 
 Recent News
 ===
-
-+ Jun, 2021, One co-author paper **"Unsupervised Parameter-specific Affine Registration for 2D/3D Medical Images using Convolutional Neural Networks"** was accepted by **MICCAI 2021**.
-+ Mar, 2021, One co-author paper **"A regularization term for slide correlation reduction in whole slide image analysis with deep learning"** was accepted by **MIDL 2021**.
++ July, 2021, Our paper **"Spatial Uncertainty-Aware Semi-Supervised Crowd Counting"** was accepted by **ICCV 2021**.
++ June, 2021, One co-author paper **"Unsupervised Parameter-specific Affine Registration for 2D/3D Medical Images using Convolutional Neural Networks"** was accepted by **MICCAI 2021**.
++ March, 2021, One co-author paper **"A regularization term for slide correlation reduction in whole slide image analysis with deep learning"** was accepted by **MIDL 2021**.
 + July, 2020, One co-author paper **"Introducing the GEV Activation Function for Highly Unbalanced Data to Develop COVID-19 Diagnostic Models"** was accepted by **IEEE-JBHI**.
 + July, 2020, Our paper **"Regression of Instance Boundary by Aggregated CNN and GCN"** was accepted by **ECCV 2020**.
 + May, 2020, Our paper **"CNN-GCN Aggregation Enabled Boundary Regression for Biomedical Image Segmentation"** was accepted by **MICCAI 2020**.
