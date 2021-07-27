@@ -15,7 +15,7 @@ About Me
 
 + I am advised by Dr.[Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) and Dr. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
 
-+ My research mainly focuses on the area of medical image analysis and scene understanding, particularly in Geometric Deep Learning (i.e., graph convolution networks), data-efficient learning.
++ My research mainly focuses on the area of medical image analysis and scene understanding, particularly in Geometric Deep Learning (i.e., graph convolution networks), Data-Efficient Learning.
 
 + Email addres: yanda.meng[at]liverpool.ac.uk
 
