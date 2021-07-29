@@ -17,7 +17,7 @@ author_profile: true
 
 + **Spatial Uncertainty-Aware Semi-Supervised Crowd Counting**  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.      
-IEEE International Conference on Computer Vision. **ICCV 2021**. [paper](https://arxiv.org/abs/2107.13271)
+IEEE International Conference on Computer Vision. **ICCV 2021**. [paper](https://arxiv.org/abs/2107.13271) [code]()
 
 + **Unsupervised Parameter-specific Affine Registration for 2D/3D Medical Images using Convolutional Neural Networks**  
 Xu Chen,  **Yanda Meng**, Yitian Zhao, Rachel Williams, Srinivasa Vallabhaneni, Yalin Zheng.    
@@ -25,11 +25,11 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 + **A regularization term for slide correlation reduction in whole slide image analysis with deep learning**  
 Hongrun Zhang, **Yanda Meng**, Xuesheng Qian, Xiaoyun Yang, Sarah E.Coupland, and Yalin Zheng.  
-Medical Imaging with Deep Learning. **MIDL 2021**. [paper](https://openreview.net/forum?id=2vCFIoWDS6E)
+Medical Imaging with Deep Learning. **MIDL 2021**. [paper](https://openreview.net/forum?id=2vCFIoWDS6E) [code](https://github.com/hrzhang1123/SlideCorrelationReduction)
 
 + **Introducing the GEV Activation Function for Highly Unbalanced Data to Develop COVID-19 Diagnostic Models**  
 Joshua Bridge, **Yanda Meng**, Yitian Zhao, Yong Du, Mingfeng Zhao, Renrong Sun, and Yalin Zheng.  
-IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, VOL. 24, NO. 10, OCTOBER 2020. **IEEE-JBHI** [paper](https://ieeexplore.ieee.org/document/9151288)
+IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, VOL. 24, NO. 10, OCTOBER 2020. **IEEE-JBHI** [paper](https://ieeexplore.ieee.org/document/9151288) [code]()
 
 + **CNN-GCN Aggregation Enabled Boundary Regression for Biomedical Image Segmentation**  
 **Yanda Meng**, Meng Wei, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.  
