@@ -29,7 +29,7 @@ Medical Imaging with Deep Learning. **MIDL 2021**. [paper](https://openreview.ne
 
 + **Introducing the GEV Activation Function for Highly Unbalanced Data to Develop COVID-19 Diagnostic Models**  
 Joshua Bridge, **Yanda Meng**, Yitian Zhao, Yong Du, Mingfeng Zhao, Renrong Sun, and Yalin Zheng.  
-IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, VOL. 24, NO. 10, OCTOBER 2020. **IEEE-JBHI** [paper](https://ieeexplore.ieee.org/document/9151288) [code]()
+IEEE JOURNAL OF BIOMEDICAL AND HEALTH INFORMATICS, VOL. 24, NO. 10, OCTOBER 2020. **IEEE-JBHI** [paper](https://ieeexplore.ieee.org/document/9151288) [code](https://github.com/JTBridge/GEV)
 
 + **CNN-GCN Aggregation Enabled Boundary Regression for Biomedical Image Segmentation**  
 **Yanda Meng**, Meng Wei, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.  
