@@ -22,7 +22,7 @@ About Me
 
 Recent News
 ===
-+ July, 2021, My paper **"Spatial Uncertainty-Aware Semi-Supervised Crowd Counting"** was accepted by **ICCV 2021**.
++ (ICCV) July, 2021, My paper **"Spatial Uncertainty-Aware Semi-Supervised Crowd Counting"** was accepted by **ICCV 2021**.
 + June, 2021, One co-author paper **"Learning Parameter-specific Affine Transformation for Medical Images Registration"** was accepted by **MICCAI 2021**.
 + March, 2021, One co-author paper **"A regularization term for slide correlation reduction in whole slide image analysis with deep learning"** was accepted by **MIDL 2021**.
 + July, 2020, One co-author paper **"Introducing the GEV Activation Function for Highly Unbalanced Data to Develop COVID-19 Diagnostic Models"** was accepted by **IEEE-JBHI**.
