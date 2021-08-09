@@ -22,7 +22,7 @@ About Me
 
 Recent News
 ===
-+ August, 2021, One co-author paper "TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography" was accepted by **ASMUS 2021 (MICCAI Workshop)**, congrats to Kaizhong Deng, who is an undergraduate student.
++ August, 2021, One co-author paper "TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography" was accepted by **ASMUS 2021 (MICCAI Workshop)**, congrats to Kaizhong Deng, who is an undergraduate student in the uni of Liverpool.
 + July, 2021, My paper "Spatial Uncertainty-Aware Semi-Supervised Crowd Counting" was accepted by **ICCV 2021**.
 + June, 2021, One co-author paper "Learning Parameter-specific Affine Transformation for Medical Images Registration" was accepted by **MICCAI 2021**.
 + March, 2021, One co-author paper "A regularization term for slide correlation reduction in whole slide image analysis with deep learning" was accepted by **MIDL 2021**.
