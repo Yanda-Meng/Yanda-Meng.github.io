@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
++ **TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography**
+Kaizhong Deng, **Yanda Meng**, Dongxu Gao, Joshua Bridge, Yaochun Shen, Gregory Lip, Yitian Zhao,Yalin Zheng.
+The 2nd International Workshop of Advances in Simplifying Medical UltraSound. **ASMUS 2021 (MICCAI Workshop)**
+
 + **Spatial Uncertainty-Aware Semi-Supervised Crowd Counting**  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.      
 IEEE International Conference on Computer Vision. **ICCV 2021**. [paper](https://arxiv.org/abs/2107.13271), [code](https://github.com/smallmax00/SUA_crowd_counting)
