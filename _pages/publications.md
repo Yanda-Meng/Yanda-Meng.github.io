@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-+ **TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography**
++ **TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography**  
 Kaizhong Deng, **Yanda Meng**, Dongxu Gao, Joshua Bridge, Yaochun Shen, Gregory Lip, Yitian Zhao,Yalin Zheng.
 The 2nd International Workshop of Advances in Simplifying Medical UltraSound. **ASMUS 2021 (MICCAI Workshop)**
 
