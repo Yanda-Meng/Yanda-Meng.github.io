@@ -11,20 +11,19 @@ redirect_from:
 About Me
 ====
 
-+ A 3rd yead PhD student in department of Eye and Vision Science, University of Liverpool, UK. 
++ A 3rd yead PhD student in department of Eye and Vision Science, University of Liverpool, UK. I am advised by Dr.[Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) and Dr. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
 
 + I obtained my B.S. (Software Engineering) and MSc (Data Analytics) degress in the Captital Normal University, Beijing, China and the Univeristy of Leeds, Leeds, UK in Jun 2017 and Dec 2018.
 
-+ I am advised by Dr.[Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) and Dr. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
 
-+ My research mainly focuses on the area of medical image analysis and scene understanding, particularly in Geometric Deep Learning (i.e., graph convolution networks), Data-Efficient Learning.
++ My current research mainly focuses on the area of medical image analysis and scene understanding, particularly in Geometric Deep Learning (i.e., graph convolution networks), Data-Efficient Learning.
 
 + Email addres: yanda.meng[at]liverpool.ac.uk
 
 
 Recent News
 ===
-+ August, 2021, One co-author paper "TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography" was accepted by **ASMUS 2021 (MICCAI Workshop)**, congrats to Kaizhong Deng, who is an undergraduate student in the uni of Liverpool.
++ August, 2021, One co-author paper "TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography" was accepted by **ASMUS 2021 (MICCAI Workshop)**, congrats to Kaizhong Deng, who is an undergraduate student in the university of Liverpool.
 + July, 2021, My paper "Spatial Uncertainty-Aware Semi-Supervised Crowd Counting" was accepted by **ICCV 2021**.
 + June, 2021, One co-author paper "Learning Parameter-specific Affine Transformation for Medical Images Registration" was accepted by **MICCAI 2021**.
 + March, 2021, One co-author paper "A regularization term for slide correlation reduction in whole slide image analysis with deep learning" was accepted by **MIDL 2021**.
