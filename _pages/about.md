@@ -13,9 +13,6 @@ About Me
 
 + A 3rd yead PhD student in department of Eye and Vision Science, University of Liverpool, UK. I am advised by Dr.[Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) and Dr. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
 
-+ I obtained my B.S. (Software Engineering) and MSc (Data Analytics) degress in the Captital Normal University, Beijing, China and the Univeristy of Leeds, Leeds, UK in Jun 2017 and Dec 2018.
-
-
 + My current research mainly focuses on the area of medical image analysis and scene understanding, particularly in Geometric Deep Learning (i.e., graph convolution networks), Data-Efficient Learning.
 
 + Email addres: yanda.meng[at]liverpool.ac.uk
