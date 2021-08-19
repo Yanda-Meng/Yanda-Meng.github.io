@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ====
 
-+ A 3rd yead PhD student in the department of Eye and Vision Science, University of Liverpool, UK. I am advised by Dr.[Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) and Dr. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
++ A 3rd yead PhD student (2021-2022) in the department of Eye and Vision Science, University of Liverpool, UK. I am advised by Dr.[Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) and Dr. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
 
 + My current research mainly focuses on the area of medical image analysis and scene understanding, particularly in Geometric Deep Learning (i.e., graph convolution networks), Data-Efficient Learning.
 
