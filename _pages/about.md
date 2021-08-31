@@ -34,8 +34,7 @@ Recent News
 Experience:
 ===
 Reviewer: IEEE-JBHI, MICCAI 2021
-
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5pmgjxdkxuo&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yBmx129l7Oga4lgyzQ7q8ccFWOcKud1s7OIG4PqFocY&cl=ffffff&w=a"></script>
 
 
 
