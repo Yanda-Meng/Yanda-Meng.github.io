@@ -27,7 +27,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **Yanda Meng**, Meng wei, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.  
 European Conference on Computer Vision. **ECCV2020**. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_12).
 
-+ TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography
++ TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography  
 Kaizhong Deng, **Yanda Meng**, Dongxu Gao, Joshua Bridge, Yaochun Shen, Gregory Lip, Yitian Zhao,Yalin Zheng.  
 The 2nd International Workshop of Advances in Simplifying Medical UltraSound. **ASMUS 2021 (MICCAI Workshop)**
 
