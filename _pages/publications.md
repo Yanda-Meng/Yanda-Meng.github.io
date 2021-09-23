@@ -29,7 +29,7 @@ European Conference on Computer Vision. **ECCV2020**. [paper](https://link.sprin
 
 + TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography  
 Kaizhong Deng, **Yanda Meng**, Dongxu Gao, Joshua Bridge, Yaochun Shen, Gregory Lip, Yitian Zhao,Yalin Zheng.  
-The 2nd International Workshop of Advances in Simplifying Medical UltraSound. **ASMUS 2021 (MICCAI Workshop)** [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-87583-1_7)
+The 2nd International Workshop of Advances in Simplifying Medical UltraSound. **ASMUS 2021 (MICCAI Workshop)**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-87583-1_7)
 
 + Learning Parameter-specific Affine Transformation for Medical Images Registration  
 Xu Chen,  **Yanda Meng**, Yitian Zhao, Rachel Williams, Srinivasa Vallabhaneni, Yalin Zheng.    
