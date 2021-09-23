@@ -33,7 +33,7 @@ The 2nd International Workshop of Advances in Simplifying Medical UltraSound. **
 
 + Learning Parameter-specific Affine Transformation for Medical Images Registration  
 Xu Chen,  **Yanda Meng**, Yitian Zhao, Rachel Williams, Srinivasa Vallabhaneni, Yalin Zheng.    
-International Conference on Medical Image Computing and Computer-Assisted Intervention. **MICCAI 2021**.
+International Conference on Medical Image Computing and Computer-Assisted Intervention. **MICCAI 2021**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-87202-1_3)
 
 + A regularization term for slide correlation reduction in whole slide image analysis with deep learning  
 Hongrun Zhang, **Yanda Meng**, Xuesheng Qian, Xiaoyun Yang, Sarah E.Coupland, and Yalin Zheng.  
