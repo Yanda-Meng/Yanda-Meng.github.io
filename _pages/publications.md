@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-+ + means equally contribution
++ * means equally contribution
 
 2021  
 + Spatial Uncertainty-Aware Semi-Supervised Crowd Counting  
