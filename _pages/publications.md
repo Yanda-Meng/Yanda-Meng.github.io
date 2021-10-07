@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
++ + means equally contribution
+
 2021  
 + Spatial Uncertainty-Aware Semi-Supervised Crowd Counting  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.      
