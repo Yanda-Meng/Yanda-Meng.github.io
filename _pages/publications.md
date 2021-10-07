@@ -20,7 +20,7 @@ author_profile: true
 2021
 + Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes  
 Frank G Preston*, **Yanda Meng***, Jamie Burgess, Maryam Ferdousi, Shazli Azmi, Ioannis N Petropoulos, Stephen Kaye, Rayaz A Malik, Yalin Zheng, Uazman Alam.  
-**Diabetologia (IF: ~10.122).
+**Diabetologia (IF: ~10.122)**.
 
 
 + Spatial Uncertainty-Aware Semi-Supervised Crowd Counting  
