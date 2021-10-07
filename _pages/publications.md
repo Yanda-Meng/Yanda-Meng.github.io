@@ -17,7 +17,12 @@ author_profile: true
 
 
 
-2021  
+2021
++ Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes  
+Frank G Preston*, **Yanda Meng***, Jamie Burgess, Maryam Ferdousi, Shazli Azmi, Ioannis N Petropoulos, Stephen Kaye, Rayaz A Malik, Yalin Zheng, Uazman Alam.  
+**Diabetologia (IF: ~10.122).
+
+
 + Spatial Uncertainty-Aware Semi-Supervised Crowd Counting  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.      
 IEEE International Conference on Computer Vision.  
