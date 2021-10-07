@@ -20,6 +20,7 @@ About Me
 
 Recent News
 ===
++ Oct, 2021, One paper "Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes" was accepted by **Diabetologia (IF: ~10.122)**
 + August, 2021, One paper "TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography" was accepted by **ASMUS 2021 (MICCAI Workshop)**, congrats to Kaizhong Deng, who is an undergraduate student in the University of Liverpool.
 + Jul, 2021, One paper "Spatial Uncertainty-Aware Semi-Supervised Crowd Counting" was accepted by **ICCV 2021 (accept rate: 25.9%, 6236 submissions)**.
 + Jun, 2021, One paper "Learning Parameter-specific Affine Transformation for Medical Images Registration" was accepted by **MICCAI 2021 (accept rate: 32.6%, 1631 submissions)**.
