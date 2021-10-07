@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications *"
+title: "Publications (* means equal contribution)"
 permalink: /publications/
 author_profile: true
 ---
