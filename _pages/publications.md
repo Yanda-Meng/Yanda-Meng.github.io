@@ -18,8 +18,8 @@ author_profile: true
 
 
 2021
-+ Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation
-**Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Ian J. C. MacCormick, Xiaowei Huang, and Yalin Zheng.
++ Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation  
+**Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Ian J. C. MacCormick, Xiaowei Huang, and Yalin Zheng.  
 **IEEE Transcations on Medical Imaging (IF: ~10.048)**
 
 
