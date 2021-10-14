@@ -20,6 +20,7 @@ About Me
 
 Recent News
 ===
++ Oct, 2021, One paper "Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation" was accepted by **IEEE Transactions on Medical Imaging (IEEE-TMI, IF: ~10.048)**
 + Oct, 2021, One paper "Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes" was accepted by **Diabetologia (IF: ~10.122)**
 + August, 2021, One paper "TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography" was accepted by **ASMUS 2021 (MICCAI Workshop)**, congrats to Kaizhong Deng, who is an undergraduate student in the University of Liverpool.
 + Jul, 2021, One paper "Spatial Uncertainty-Aware Semi-Supervised Crowd Counting" was accepted by **ICCV 2021 (accept rate: 25.9%, 6236 submissions)**.
