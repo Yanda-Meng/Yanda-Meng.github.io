@@ -20,7 +20,7 @@ author_profile: true
 2021
 + Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Ian J. C. MacCormick, Xiaowei Huang, and Yalin Zheng.  
-**IEEE Transcations on Medical Imaging (IF: ~10.048)**
+**IEEE Transcations on Medical Imaging (IF: ~10.048)** [code](https://github.com/smallmax00/Graph_Region_Boudnary)
 
 
 + Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes  
