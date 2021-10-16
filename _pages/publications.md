@@ -18,6 +18,10 @@ author_profile: true
 
 
 2021
++ BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation
+**Yanda Meng**, Hongrun Zhang, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.
+**BMVC2021 Oral (Oral accept rate: 3.3%, 1206 submissions)
+
 + Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Ian J. C. MacCormick, Xiaowei Huang, and Yalin Zheng.  
 **IEEE Transcations on Medical Imaging (IF: ~10.048)** [code](https://github.com/smallmax00/Graph_Region_Boudnary)
