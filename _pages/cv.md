@@ -18,9 +18,26 @@ Education
 
 Internship
 ======
-1. 2019 Jan - Mar: 
-   + Computer Vision Research Internship with Remark Holdings, Chengdu, China.
-   + Job description: Gender/Age estimation with human face images.
+2021.11 - now:  
+Institute of Biomedical Engineering , University of Liverpool, UK. (Research Assistant)   
+Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) on an endoscope polyp segmentation project.  
+
+2021.09 - 2021.11:  
+Department of Eye and Vision Science, University of Liverpool, UK. (Research Assistant)  
+Work with [Dr. Yalin Zheng]() on OCT layer segmentation project.  
+
+2021.02 - 2021.06:  
+Department of Musculoskeletal and Ageing Sciences, University of Liverpool, UK. (Research Assistant)  
+Work with [Dr. D'Aout, Kris]() on a mouse arthrosis keypoint detection project.  
+
+2020.05 - 2020.11:  
+Department of Eye and Vision Science, University of Liverpool, UK. (Research Assistant)  
+Work with [Dr. Yalin Zheng]() on Covid-19 Diagnosis project.
+
+2019 Jan - Mar: 
+Remark Holdings, Chengdu, China. (Computer Vision Engineer)
+
+
 
 
   
