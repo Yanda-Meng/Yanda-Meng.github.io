@@ -24,15 +24,15 @@ Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) on an endosc
 
 2021.09 - 2021.11:  
 **Department of Eye and Vision Science, University of Liverpool, UK. (Research Assistant)**  
-Work with [Dr. Yalin Zheng]() on OCT layer segmentation project.  
+Work with [Dr. Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) on OCT layer segmentation project.  
 
 2021.02 - 2021.06:  
 **Department of Musculoskeletal and Ageing Sciences, University of Liverpool, UK. (Research Assistant)**  
-Work with [Dr. D'Aout, Kris]() on a mouse arthrosis keypoint detection project.  
+Work with [Dr. D'Aout, Kris](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/kris-daout/) on a mouse arthrosis keypoint detection project.  
 
 2020.05 - 2020.11:  
 **Department of Eye and Vision Science, University of Liverpool, UK. (Research Assistant)**  
-Work with [Dr. Yalin Zheng]() on Covid-19 Diagnosis project.
+Work with [Dr. Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) on Covid-19 Diagnosis project.
 
 2019.01 - 2019.03: 
 **Remark Holdings, Chengdu, China. (Computer Vision Engineer)**
