@@ -19,7 +19,7 @@ Education
 Internship
 ======
 2021.11 - now:  
-**Institute of Biomedical Engineering , University of Liverpool, UK. (Research Assistant)**   
+**Institute of Biomedical Engineering , University of Oxford, UK. (Research Assistant)**   
 Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) on an endoscope polyp segmentation project.  
 
 2021.09 - 2021.11:  
