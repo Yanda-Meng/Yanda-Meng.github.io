@@ -32,7 +32,7 @@ Work with [Dr. D'Aout, Kris](https://www.liverpool.ac.uk/life-course-and-medical
 
 2020.05 - 2020.11:  
 **Department of Eye and Vision Science, University of Liverpool, UK. (Research Assistant)**  
-Work with [Dr. Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) on Covid-19 Diagnosis project.
+Work with [Dr. Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) on Covid-19 diagnosis project.
 
 2019.01 - 2019.03: 
 **Remark Holdings, Chengdu, China. (Computer Vision Engineer)**
