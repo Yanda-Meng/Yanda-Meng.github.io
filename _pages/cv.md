@@ -34,8 +34,9 @@ Work with [Dr. D'Aout, Kris]() on a mouse arthrosis keypoint detection project.
 Department of Eye and Vision Science, University of Liverpool, UK. (Research Assistant)  
 Work with [Dr. Yalin Zheng]() on Covid-19 Diagnosis project.
 
-2019 Jan - Mar: 
+2019.01 - 2019.03: 
 Remark Holdings, Chengdu, China. (Computer Vision Engineer)
+Work on a gender, age classification project.
 
 
 
