@@ -18,10 +18,7 @@ Education
 
 Internship
 ======
-2021.11 - now:  
-**Institute of Biomedical Engineering , University of Oxford, UK. (Research Assistant)**   
-Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) on an endoscope polyp segmentation project.  
-
+ 
 2021.09 - 2021.11:  
 **Department of Eye and Vision Science, University of Liverpool, UK. (Research Assistant)**  
 Work with [Dr. Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) on OCT layer segmentation project.  
