@@ -36,7 +36,8 @@ Recent News
 
 Experience:
 ===
-Reviewer: IEEE-JBHI (IF: 5.223),  
+Reviewer:  
+IEEE-JBHI (IF: 5.223),  
 MICCAI,   
 Frontier in Medicine (IF: 5.091)
 
