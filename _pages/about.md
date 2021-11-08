@@ -38,8 +38,9 @@ Experience:
 ===
 + Reviewer:  
 IEEE-JBHI (IF: 5.223),  
-MICCAI,   
-Frontier in Medicine (IF: 5.091)
+Frontier in Medicine (IF: 5.091),  
+MICCAI
+
 
 
 Who is visiting:
