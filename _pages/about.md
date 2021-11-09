@@ -39,8 +39,8 @@ Experience:
 + Reviewer:  
 IEEE-JBHI (IF: 5.223),  
 Frontier in Medicine (IF: 5.091),  
-MICCAI
-CVPR
+MICCAI2021  
+CVPR2022
 
 
 
