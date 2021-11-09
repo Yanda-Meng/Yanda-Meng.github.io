@@ -37,10 +37,10 @@ Recent News
 Experience:
 ===
 + Reviewer:  
-[CVPR](https://www.thecvf.com/)  
-[MICCAI](http://www.miccai.org/)  
-[IEEE-JBHI](https://www.embs.org/jbhi/)  
-[Frontier in Medicine, Ophthalmology](https://www.frontiersin.org/journals/medicine/sections/ophthalmology)  
+CVPR  
+MICCAI  
+IEEE-JBHI  
+Frontier in Medicine (Ophthalmology)
 
 
 
