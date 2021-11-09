@@ -20,7 +20,7 @@ Internship
 ======
 2021.11 - now:  
 **Institute of Biomedical Engineering , University of Oxford (Research Assistant)**  
-Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) on an endoscope polyp segmentation project. 
+Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) on endoscope polyp segmentation project. 
 
 2021.09 - 2021.11:  
 **Department of Eye and Vision Science, University of Liverpool, UK. (Research Assistant)**  
@@ -28,7 +28,7 @@ Work with [Dr. Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-
 
 2021.02 - 2021.06:  
 **Department of Musculoskeletal and Ageing Sciences, University of Liverpool, UK. (Research Assistant)**  
-Work with [Dr. D'Aout, Kris](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/kris-daout/) on a mouse arthrosis keypoint detection project.  
+Work with [Dr. D'Aout, Kris](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/kris-daout/) on mouse arthrosis keypoint detection project.  
 
 2020.05 - 2020.11:  
 **Department of Eye and Vision Science, University of Liverpool, UK. (Research Assistant)**  
@@ -36,7 +36,7 @@ Work with [Dr. Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-
 
 2019.01 - 2019.03: 
 **[Remark Holdings](https://www.remarkholdings.com/), Chengdu, China. (Computer Vision Engineer)**
-Work on a gender, age classification project.
+Work on gender, age classification project.
 
 
 
