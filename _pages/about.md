@@ -39,8 +39,8 @@ Experience:
 + Reviewer:  
 CVPR  
 MICCAI  
-IEEE-JBHI 
-Frontier in Medicine, Ophthalmology
+IEEE-JBHI  
+Frontier in Medicine, Ophthalmology  
 
 
 
