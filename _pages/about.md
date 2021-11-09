@@ -37,10 +37,11 @@ Recent News
 Experience:
 ===
 + Reviewer:  
-IEEE-JBHI (IF: 5.223),  
-Frontier in Medicine (IF: 5.091),  
-MICCAI2021  
-CVPR2022
+CVPR  
+MICCAI  
+IEEE-JBHI 
+Frontier in Medicine, Ophthalmology
+
 
 
 
