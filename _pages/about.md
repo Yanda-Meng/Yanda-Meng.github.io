@@ -40,6 +40,7 @@ Experience:
 IEEE-JBHI (IF: 5.223),  
 Frontier in Medicine (IF: 5.091),  
 MICCAI
+CVPR
 
 
 
