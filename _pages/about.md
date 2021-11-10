@@ -37,10 +37,8 @@ Recent News
 Experience:
 ===
 + Reviewer:  
-CVPR2022  
-MICCAI2021  
-IEEE-JBHI  
-Frontier in Medicine (Ophthalmology)
+**conference**: CVPR2022, MICCAI2021  
+**Journal**: IEEE-JBHI, Frontier in Medicine (Ophthalmology)
 
 
 
