@@ -57,7 +57,7 @@ Co-supervised **Kaizhong Deng** (Now, Master student at Imperial Colleage London
 Co-supervised **Siyu Ren** (Now, Master student at University of Sheffield), on undergraduate final year project (Lung Segmentation with CT images).  
 
 2019.12 - 2020.04:  
-Co-supervised **Meng Wei** (Now, Phd student at King College London), on undergraduate final year project (Optic Disc & Cup Segmentation on Fundus Images).  
+Co-supervised **Meng Wei** (Now, PhD student at King College London), on undergraduate final year project (Optic Disc & Cup Segmentation on Fundus Images).  
 
 
   
