@@ -36,9 +36,28 @@ Work with [Dr. Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-
 
 2019.01 - 2019.03: 
 **[Remark Holdings](https://www.remarkholdings.com/), Chengdu, China. (Computer Vision Engineer)**
-Work on gender, age classification project.
+Work on gender, age classification project.  
 
 
+Supervision Experience
+======
+2021.11 - Now:  
+Co-supervised Patefield, Alastair (Now, Mres Student at University of Liverpool) on a Mres project.  
+
+2021.10 - Now:  
+Co-supervised Shuyue Shen (Now, Undergraduate Student at University of Liverpool) on undergraduate final year project (Lung Segmentation with Xray Images).  
+
+2021.11 - 2021.05:  
+Co-supervised Preston.G.Frank (Now, Mres Student at University of Liverpool) on a Mres project (Peripheral Neuropathy Classification on Corneal Confocal Microscopy Images).  
+
+2020.10 - 2021.04:  
+Co-supervised Kaizhong Deng (Now, Master student at Imperial Colleage London), on undergraduate final year project (Left Ventricle Segmentation on Echocardiography Images).  
+
+2020.10 - 2021.04:  
+Siyu Ren (Now, Master student at University of Sheffield), on undergraduate final year project (Lung Segmentation with CT images).  
+
+2019.12 - 2020.04:  
+Co-supervised Meng Wei (Now, Phd student at King College London), on undergraduate final year project (Optic Disc & Cup Segmentation on Fundus Images).  
 
 
   
