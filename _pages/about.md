@@ -22,6 +22,9 @@ About Me
 
 Recent News
 ===
+
++ Nov, 2021, Start research intern in the Univeristy of Oxford with Dr.[Sharib](https://eng.ox.ac.uk/people/sharib-ali/) and Professor [Jens](https://www.ndm.ox.ac.uk/team/jens-rittscher).
+(Oral accept rate: 3.3%, 1206 submissions)
 + Oct, 2021, One paper "BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation" was accepted by **BMVC 2021** as **Oral**
 (Oral accept rate: 3.3%, 1206 submissions)
 + Oct, 2021, One paper "Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation" was accepted by **IEEE Transactions on Medical Imaging (IEEE-TMI, IF: ~10.048)**
