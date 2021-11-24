@@ -42,22 +42,22 @@ Work on gender, age classification project.
 Supervision Experience
 ======
 2021.11 - Now:  
-Co-supervised **Patefield, Alastair** (Now, Mres Student at University of Liverpool) on a Mres project (Graft Detachment Classification with OCT Images).  
+Co-supervised **Patefield, Alastair(Now, MRes Student at University of Liverpool)**, on a MRes project (Graft Detachment Classification with OCT Images).  
 
 2021.10 - Now:  
-Co-supervised **Shuyue Shen** (Now, Undergraduate Student at University of Liverpool) on undergraduate final year project (Lung Segmentation with Xray Images).  
+Co-supervised **Shuyue Shen (Now, Undergraduate Student at University of Liverpool)**, on undergraduate final year project (Lung Segmentation with Xray Images).  
 
 2021.11 - 2021.05:  
-Co-supervised **Preston.G.Frank** (Now, Mres Student at University of Liverpool) on a Mres project (Peripheral Neuropathy Classification on Corneal Confocal Microscopy Images).  
+Co-supervised **Preston.G.Frank (Now, MRes Student at University of Liverpool)**, on a MRes project (Peripheral Neuropathy Classification on Corneal Confocal Microscopy Images).  
 
 2020.10 - 2021.04:  
-Co-supervised **Kaizhong Deng** (Now, Master student at Imperial Colleage London), on undergraduate final year project (Left Ventricle Segmentation on Echocardiography Images).  
+Co-supervised **Kaizhong Deng (Now, Master student at Imperial Colleage London)**, on undergraduate final year project (Left Ventricle Segmentation on Echocardiography Images).  
 
 2020.10 - 2021.04:  
-Co-supervised **Siyu Ren** (Now, Master student at University of Sheffield), on undergraduate final year project (Lung Segmentation with CT images).  
+Co-supervised **Siyu Ren (Now, Master student at University of Sheffield)**, on undergraduate final year project (Lung Segmentation with CT images).  
 
 2019.12 - 2020.04:  
-Co-supervised **Meng Wei** (Now, PhD student at King College London), on undergraduate final year project (Optic Disc & Cup Segmentation on Fundus Images).  
+Co-supervised **Meng Wei (Now, PhD student at King College London)**, on undergraduate final year project (Optic Disc & Cup Segmentation on Fundus Images).  
 
 
   
