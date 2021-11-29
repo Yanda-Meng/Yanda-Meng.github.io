@@ -24,7 +24,7 @@ Recent News
 === 
 + Nov, 2021, Start as a research intern at the Institute of Biomedical Engineering, University of Oxford, with Dr. [Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) and Prof. [Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher).  
 + Oct, 2021, One paper "BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation" was accepted by **BMVC 2021** as **Oral**
-(Oral accept rate: 3.3%, 1206 submissions)
+**(Oral accept rate: 3.3%, 1206 submissions)**
 + Oct, 2021, One paper "Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation" was accepted by **IEEE Transactions on Medical Imaging (IEEE-TMI, IF: ~10.048)**
 + Oct, 2021, One paper "Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes" was accepted by **Diabetologia (IF: ~10.122)**, congrats to Frank G. Preston, who is a MRes student in the University of Liverpool.
 + August, 2021, One paper "TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography" was accepted by **ASMUS 2021 (MICCAI Workshop)**, congrats to Kaizhong Deng, who is an undergraduate student in the University of Liverpool.
