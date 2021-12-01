@@ -20,7 +20,7 @@ Internship
 ======
 2021.11 - now:  
 **Institute of Biomedical Engineering , University of Oxford (Research Assistant)**  
-Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) and [Prof.  Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher) on endoscope polyp segmentation project. 
+Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) and [Prof.  Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher) on endoscope segmentation project. 
 
 2021.09 - 2021.11:  
 **Department of Eye and Vision Science, University of Liverpool, UK. (Research Assistant)**  
