@@ -39,7 +39,7 @@ Work with [Dr. Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-
 Work on gender, age classification project.  
 
 
-Supervision / Teaching Experience
+Supervision / Teaching Experience (last update 10th Dec 2021)
 ======
 2021.11 - Now:  
 Co-supervised / Taught **Patefield, Alastair(Now, MRes Student at University of Liverpool)**, on a MRes project (Graft Detachment Classification with OCT Images).  
