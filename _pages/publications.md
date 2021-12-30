@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications (* means equal contribution) [ALL](https://scholar.google.com/citations?user=ueNkFakAAAAJ&hl=en&oi=ao)"
+title: "Selected Publications (* means equal contribution) "
 permalink: /publications/
 author_profile: true
 ---
@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
+[ALL Publication](https://scholar.google.com/citations?user=ueNkFakAAAAJ&hl=en&oi=ao)  
 
 2021
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
