@@ -42,7 +42,7 @@ Experience:
 ===
 + Reviewer:  
 **Conference**: CVPR2022, MICCAI2021, MIUA2021, MIDL2022  
-**Journal**: IEEE-JBHI, Frontier in Medicine (Ophthalmology), Dovepress (Diabetes, MetabolicSyndrome and Obesity)
+**Journal**: IEEE-JBHI, Frontier in Medicine (Ophthalmology)
 
 
 
