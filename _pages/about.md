@@ -22,6 +22,9 @@ About Me
 
 Recent News
 === 
++ Jan, 2022, One Co-author paper "Informed consent in facial photograph publishing: a cross-sectional pilot study to determine the effectiveness of deidentification methods" was accepted by **Journal of Empirical Research on Human Research Ethics**.
+
++ Jul, 2021, Our paper "Spatial Uncertainty-Aware Semi-Supervised Crowd Counting" was accepted by **ICCV 2021 (accept rate: 25.9%, 6236 submissions)**.
 + Nov, 2021, Start as a research intern at the Institute of Biomedical Engineering, University of Oxford, with Dr. [Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) and Prof. [Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher).  
 + Oct, 2021, Our paper "BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation" was accepted by **BMVC 2021** as **Oral**
 **(Oral accept rate: 3.3%, 1206 submissions)**
