@@ -15,7 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[ALL Publications](https://scholar.google.com/citations?user=ueNkFakAAAAJ&hl=en&oi=ao)  
+ALL Publications: [Google Scholar](https://scholar.google.com/citations?user=ueNkFakAAAAJ&hl=en&oi=ao), [ORCiD](https://orcid.org/
+0000-0001-7344-2174).  
 
 2021
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
