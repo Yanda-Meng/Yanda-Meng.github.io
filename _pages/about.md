@@ -22,7 +22,7 @@ About Me
 
 Recent News
 === 
-+ Jan, 2022, Our accepted paper "Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes" was selected as the front cover of **Diabetologia (IF: ~10.122)**, in the upcoming volume of Mar 2022.
++ Jan, 2022, Our accepted paper "Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes" was selected as the **front cover** of **Diabetologia (IF: ~10.122)**, in the upcoming volume of Mar 2022.
 + Jan, 2022, One Co-author paper "Informed consent in facial photograph publishing: a cross-sectional pilot study to determine the effectiveness of deidentification methods" was accepted by **Journal of Empirical Research on Human Research Ethics**.
 
 + Jul, 2021, Our paper "Spatial Uncertainty-Aware Semi-Supervised Crowd Counting" was accepted by **ICCV 2021 (accept rate: 25.9%, 6236 submissions)**.
