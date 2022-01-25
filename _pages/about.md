@@ -46,7 +46,7 @@ Experience:
 ===
 + Reviewer:  
 **Conference**: CVPR2022, MICCAI2021, MIUA2021, MIDL2022, MICCAI2022  
-**Journal**: IEEE-JBHI, Frontier in Medicine (Ophthalmology)
+**Journal**: IEEE-JBHI, Frontier in Medicine (Ophthalmology), IEEE-TMI
 
 
 
