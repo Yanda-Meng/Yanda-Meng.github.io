@@ -19,6 +19,15 @@ ALL Publications:
 [Google Scholar](https://scholar.google.com/citations?user=ueNkFakAAAAJ&hl=en&oi=ao), 
 [ORCiD](https://orcid.org/0000-0001-7344-2174).  
 
+
+2022
++ Informed Consent In Facial Photograph Publishing: A Cross-sectional Pilot Study To Determine The Effectiveness Of Deidentification Methods  
+Frank G Preston, **Yanda Meng**, Yalin Zheng, James Hsuan, Kevin J Hamill, Austin G McCormick.    
+Journal of Empirical Research on Human Research Ethics. [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459)  
+
+
+
+
 2021
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.  
