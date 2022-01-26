@@ -41,15 +41,15 @@ IEEE International Conference on Computer Vision.
 
 + TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography  
 Kaizhong Deng, **Yanda Meng**, Dongxu Gao, Joshua Bridge, Yaochun Shen, Gregory Lip, Yitian Zhao,Yalin Zheng.  
-In The 2nd International Workshop of Advances in Simplifying Medical UltraSound. ASMUS 2021 **(MICCAI 2021 Workshop)** [paper]().  
+In The 2nd International Workshop of Advances in Simplifying Medical UltraSound. ASMUS 2021 **(MICCAI 2021 Workshop)** [paper](https://link.springer.com/chapter/10.1007/978-3-030-87583-1_7).  
 
 + Learning Parameter-specific Affine Transformation for Medical Images Registration  
 Xu Chen, **Yanda Meng**, Yitian Zhao, Rachel Williams, Srinivasa Vallabhaneni, Yalin Zheng.  
-In International Conference on Medical Image Computing and Computer-Assisted Intervention **(MICCAI 2021)**. [paper]().  
+In International Conference on Medical Image Computing and Computer-Assisted Intervention **(MICCAI 2021)**. [paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_3), [code](https://github.com/xuuuuuuchen/PASTA).  
 
 + A regularization term for slide correlation reduction in whole slide image analysis with deep learning  
 Hongrun Zhang, **Yanda Meng**, Xuesheng Qian, Xiaoyun Yang, Sarah E.Coupland, and Yalin Zheng.  
-In Medical Imaging with Deep Learning (MIDL), 2021. **(MIDL 2021)** [paper]().  
+In Medical Imaging with Deep Learning (MIDL), 2021. **(MIDL 2021)** [paper](https://openreview.net/forum?id=2vCFIoWDS6E),  [code](https://github.com/hrzhang1123/SlideCorrelationReduction).  
 
 
 
@@ -68,7 +68,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 + Introducing the GEV Activation Function for Highly Unbalanced Data to Develop COVID-19 Diagnostic Models.  
 Bridge, Joshua, **Yanda Meng**, Yitian Zhao, Yong Du, Mingfeng Zhao, Renrong Sun, and Yalin Zheng.  
-IEEE Journal of Biomedical and Health Informatics 24, no. 10 **(IEEE-JBHI)** 2020: 2776-2786. [paper]().  
+IEEE Journal of Biomedical and Health Informatics 24, no. 10 **(IEEE-JBHI)** 2020: 2776-2786. [paper](https://ieeexplore.ieee.org/document/9151288), [code](https://github.com/JTBridge/GEV).  
 
 
 
