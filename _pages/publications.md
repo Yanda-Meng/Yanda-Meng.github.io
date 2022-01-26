@@ -39,6 +39,10 @@ ALL Publications:
 IEEE International Conference on Computer Vision.
 **ICCV 2021 (accept rate: 25.9%, 6236 submissions)**. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Spatial_Uncertainty-Aware_Semi-Supervised_Crowd_Counting_ICCV_2021_paper.pdf), [code](https://github.com/smallmax00/SUA_crowd_counting)  
 
++ TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography  
+Kaizhong Deng, **Yanda Meng**, Dongxu Gao, Joshua Bridge, Yaochun Shen, Gregory Lip, Yitian Zhao,Yalin Zheng.  
+In The 2nd International Workshop of Advances in Simplifying Medical UltraSound. ASMUS 2021 (MICCAI Workshop).  
+
 
 2020  
 + Regression of Instance Boundary by Aggregated CNN and GCN  
