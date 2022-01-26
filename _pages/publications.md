@@ -23,7 +23,7 @@ ALL Publications:
 2022
 + Informed Consent In Facial Photograph Publishing: A Cross-sectional Pilot Study To Determine The Effectiveness Of Deidentification Methods  
 Frank G Preston, **Yanda Meng**, Yalin Zheng, James Hsuan, Kevin J Hamill, Austin G McCormick.    
-Journal of Empirical Research on Human Research Ethics. [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459)  
+Journal of Empirical Research on Human Research Ethics. [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459).  
 
 
 
@@ -31,11 +31,11 @@ Journal of Empirical Research on Human Research Ethics. [paper](https://journals
 2021
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.  
-**BMVC 2021 Oral (Oral accept rate: 3.3%, 1206 submissions)** [paper](https://arxiv.org/abs/2110.14775#), [code](https://github.com/smallmax00/BI-GConv)
+**BMVC 2021 Oral (Oral accept rate: 3.3%, 1206 submissions)** [paper](https://arxiv.org/abs/2110.14775#), [code](https://github.com/smallmax00/BI-GConv).
 
 + Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Ian J. C. MacCormick, Xiaowei Huang, and Yalin Zheng.  
-**IEEE Transcations on Medical Imaging (IF: ~10.048)** [paper](https://ieeexplore.ieee.org/document/9594842), [code](https://github.com/smallmax00/Graph_Region_Boudnary)
+**IEEE Transcations on Medical Imaging (IF: ~10.048)** [paper](https://ieeexplore.ieee.org/document/9594842), [code](https://github.com/smallmax00/Graph_Region_Boudnary).
 
 
 + Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes  
@@ -46,7 +46,7 @@ Journal of Empirical Research on Human Research Ethics. [paper](https://journals
 + Spatial Uncertainty-Aware Semi-Supervised Crowd Counting  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.      
 IEEE International Conference on Computer Vision.
-**ICCV 2021 (accept rate: 25.9%, 6236 submissions)**. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Spatial_Uncertainty-Aware_Semi-Supervised_Crowd_Counting_ICCV_2021_paper.pdf), [code](https://github.com/smallmax00/SUA_crowd_counting)  
+**ICCV 2021 (accept rate: 25.9%, 6236 submissions)**. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Spatial_Uncertainty-Aware_Semi-Supervised_Crowd_Counting_ICCV_2021_paper.pdf), [code](https://github.com/smallmax00/SUA_crowd_counting).  
 
 + TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography  
 Kaizhong Deng, **Yanda Meng**, Dongxu Gao, Joshua Bridge, Yaochun Shen, Gregory Lip, Yitian Zhao,Yalin Zheng.  
