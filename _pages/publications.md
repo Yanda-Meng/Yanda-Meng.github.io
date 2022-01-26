@@ -23,7 +23,7 @@ ALL Publications:
 2022
 + Informed Consent In Facial Photograph Publishing: A Cross-sectional Pilot Study To Determine The Effectiveness Of Deidentification Methods  
 Frank G Preston, **Yanda Meng**, Yalin Zheng, James Hsuan, Kevin J Hamill, Austin G McCormick.    
-Journal of Empirical Research on Human Research Ethics. [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459).  
+Journal of Empirical Research on Human Research Ethics **(J EMPIR RES HUM RES)**. [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459).  
 
 
 
