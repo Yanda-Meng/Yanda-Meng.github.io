@@ -41,7 +41,18 @@ IEEE International Conference on Computer Vision.
 
 + TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography  
 Kaizhong Deng, **Yanda Meng**, Dongxu Gao, Joshua Bridge, Yaochun Shen, Gregory Lip, Yitian Zhao,Yalin Zheng.  
-In The 2nd International Workshop of Advances in Simplifying Medical UltraSound. ASMUS 2021 (MICCAI Workshop).  
+In The 2nd International Workshop of Advances in Simplifying Medical UltraSound. ASMUS 2021 **(MICCAI 2021 Workshop)** [paper]().  
+
++ Learning Parameter-specific Affine Transformation for Medical Images Registration  
+Xu Chen, **Yanda Meng**, Yitian Zhao, Rachel Williams, Srinivasa Vallabhaneni, Yalin Zheng.  
+In International Conference on Medical Image Computing and Computer-Assisted Intervention **(MICCAI 2021)**. [paper]().  
+
++ A regularization term for slide correlation reduction in whole slide image analysis with deep learning  
+Hongrun Zhang, **Yanda Meng**, Xuesheng Qian, Xiaoyun Yang, Sarah E.Coupland, and Yalin Zheng.  
+In Medical Imaging with Deep Learning (MIDL), 2021. **(MIDL 2021)** [paper]().  
+
+
+
 
 
 2020  
@@ -55,7 +66,9 @@ European Conference on Computer Vision.
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
 **MICCAI 2020 (early accept rate: 13.3%, 1809 submissions)**. [paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_35)
 
-
++ Introducing the GEV Activation Function for Highly Unbalanced Data to Develop COVID-19 Diagnostic Models.  
+Bridge, Joshua, **Yanda Meng**, Yitian Zhao, Yong Du, Mingfeng Zhao, Renrong Sun, and Yalin Zheng.  
+IEEE Journal of Biomedical and Health Informatics 24, no. 10 **(IEEE-JBHI)** 2020: 2776-2786. [paper]().  
 
 
 
