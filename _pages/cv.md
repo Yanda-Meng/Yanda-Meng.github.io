@@ -51,7 +51,7 @@ Support / Taught **Shuyue Shen (Now, Undergraduate Student at University of Live
 Support / Taught **Preston.G.Frank (Now, MRes Student at University of Liverpool)**, on a MRes project (Peripheral Neuropathy Classification on Corneal Confocal Microscopy Images).  
 
 2020.10 - 2021.04:  
-Support / Taught **Kaizhong Deng (Now, MSc student at Imperial Colleage London)**, on undergraduate final year project (Left Ventricle Segmentation on Echocardiography Images).  
+Support / Taught **Kaizhong Deng (Now, MSc student at Imperial College London)**, on undergraduate final year project (Left Ventricle Segmentation on Echocardiography Images).  
 
 2020.10 - 2021.04:  
 Support / Taught **Siyu Ren (Now, MSc student at University of Sheffield)**, on undergraduate final year project (Lung Segmentation with CT images).  
