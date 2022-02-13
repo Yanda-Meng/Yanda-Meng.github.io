@@ -43,7 +43,7 @@ Recent News
 Experience:
 ===
 + Reviewer:  
-**Conference**: CVPR2022, MIDL2022, MICCAI2022, MICCAI2021, MIUA2021  
+**Conference**: CVPR, MIDL, MICCAI, MIUA    
 **Journal**: IEEE-TMI, IEEE-JBHI, Frontier in Medicine (Ophthalmology), 
 
 
