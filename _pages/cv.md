@@ -18,7 +18,7 @@ Education
 
 Internship
 ======
-2021.11 - now:  
+2021.11 - 2022.02:  
 **Institute of Biomedical Engineering , University of Oxford (Research Assistant)**  
 Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) and [Prof.  Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher) on endoscope segmentation project. 
 
