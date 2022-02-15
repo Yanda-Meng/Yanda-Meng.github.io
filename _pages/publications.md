@@ -21,6 +21,11 @@ ALL Publications:
 
 
 2022
++ Development and External Validation of a Mixed-Effects Deep Learning Model to Diagnose COVID-19 from CT Imaging  
+Joshua Bridge, **Yanda Meng**, Wenyue Zhu, Thomas Fitzmaurice, Caroline McCann, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Yitian Zhao, Yalin Zheng  
+medRxiv [paper](https://doi.org/10.1101/2022.01.28.22270005)
+
+
 + Informed Consent In Facial Photograph Publishing: A Cross-sectional Pilot Study To Determine The Effectiveness Of Deidentification Methods  
 Frank G Preston, **Yanda Meng**, Yalin Zheng, James Hsuan, Kevin J Hamill, Austin G McCormick.    
 Journal of Empirical Research on Human Research Ethics **(J EMPIR RES HUM RES)**. [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459).  
