@@ -23,7 +23,7 @@ About Me
 Recent News
 === 
 + Mar, 2022, I was invited to be a reviewer for ECCV.
-+ Mar, 2022, One co-author paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was accepted by **CVPR 2022** 
++ Mar, 2022, One co-author paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was accepted by **CVPR 2022 (accept rate: 25.3%, 8161 submissions)** 
 + Feb, 2022, I was invitied to be a reviewer for CVPR.
 + Jan, 2022, Our accepted paper "Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes" was selected as the **front cover** of **Diabetologia (IF: ~10.122)**, in the upcoming volume of Mar 2022.
 + Jan, 2022, I was invited to be a reviewer for IEEE TMI.
