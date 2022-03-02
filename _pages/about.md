@@ -22,8 +22,11 @@ About Me
 
 Recent News
 === 
++ Mar, 2022, I was invited to be a reviewer for ECCV2022.
 + Mar, 2022, One co-author paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was accepted by **CVPR 2022** 
++ Feb, 2022, I was invitied to be a reviewer for CVPR2022.
 + Jan, 2022, Our accepted paper "Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes" was selected as the **front cover** of **Diabetologia (IF: ~10.122)**, in the upcoming volume of Mar 2022.
++ Jan, 2022, I was invited to be a reviewer for IEEE TMI.
 + Jan, 2022, One Co-author paper "Informed consent in facial photograph publishing: a cross-sectional pilot study to determine the effectiveness of deidentification methods" was accepted by **Journal of Empirical Research on Human Research Ethics**.  
 + Nov, 2021, Start as a research intern at the Institute of Biomedical Engineering, University of Oxford, with Dr. [Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) and Prof. [Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher).  
 + Oct, 2021, Our paper "BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation" was accepted by **BMVC 2021** as **Oral**
