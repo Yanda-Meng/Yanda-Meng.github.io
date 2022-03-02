@@ -23,7 +23,7 @@ ALL Publications:
 2022
 + DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Sarah Coupland, Yalin Zheng  
-IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2022**  
+IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2022 (accept rate: 25.3%, 8161 submissions)**  
 
 + Development and External Validation of a Mixed-Effects Deep Learning Model to Diagnose COVID-19 from CT Imaging  
 Joshua Bridge, **Yanda Meng**, Wenyue Zhu, Thomas Fitzmaurice, Caroline McCann, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Yitian Zhao, Yalin Zheng  
