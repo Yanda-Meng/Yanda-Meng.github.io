@@ -21,6 +21,10 @@ ALL Publications:
 
 
 2022
++ DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification  
+Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Sarah Coupland, Yalin Zheng  
+IEEE Conference on Computer Vision and Pattern Recognition **CVPR 2022**  
+
 + Development and External Validation of a Mixed-Effects Deep Learning Model to Diagnose COVID-19 from CT Imaging  
 Joshua Bridge, **Yanda Meng**, Wenyue Zhu, Thomas Fitzmaurice, Caroline McCann, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Yitian Zhao, Yalin Zheng  
 medRxiv [paper](https://doi.org/10.1101/2022.01.28.22270005)
@@ -36,7 +40,7 @@ Journal of Empirical Research on Human Research Ethics **(J EMPIR RES HUM RES)**
 2021
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.  
-**BMVC 2021 Oral (Oral accept rate: 3.3%, 1206 submissions)** [paper](https://arxiv.org/abs/2110.14775#), [code](https://github.com/smallmax00/BI-GConv).
+The British Machine Vision Conference **BMVC 2021 Oral (Oral accept rate: 3.3%, 1206 submissions)** [paper](https://arxiv.org/abs/2110.14775#), [code](https://github.com/smallmax00/BI-GConv).
 
 + Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Ian J. C. MacCormick, Xiaowei Huang, and Yalin Zheng.  
