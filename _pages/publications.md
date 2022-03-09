@@ -21,8 +21,8 @@ ALL Publications:
 
 
 2022  
-+ Counting with Adaptive Auxiliary Learning
-**Yanda Meng**, Joshua Bridge, Meng Wei, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng
++ Counting with Adaptive Auxiliary Learning  
+**Yanda Meng**, Joshua Bridge, Meng Wei, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng  
 Arxiv [paper](https://arxiv.org/abs/2203.04061) [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning)
 
 + DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification  
