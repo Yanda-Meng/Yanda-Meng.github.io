@@ -21,6 +21,10 @@ ALL Publications:
 
 
 2022  
++ 3D Dense Face Alignment with Fused Features by Aggregating CNNs and GCNs    
+**Yanda Meng**, Xu Chen, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Xiaowei Huang, Yalin Zheng  
+Arxiv [paper](https://arxiv.org/abs/2203.04643).
+
 + Counting with Adaptive Auxiliary Learning  
 **Yanda Meng**, Joshua Bridge, Meng Wei, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng  
 Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).
