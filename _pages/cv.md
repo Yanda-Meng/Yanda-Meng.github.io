@@ -41,11 +41,12 @@ Work on gender, age classification project.
 
 Teaching Experience (last update 10th Dec 2021)
 ======
-2021.11 - Now:  
-Support / Taught **Patefield, Alastair(Now, MRes Student at University of Liverpool)**, on a MRes project (Graft Detachment Classification with OCT Images).  
 
 2021.10 - Now:  
-Support / Taught **Shuyue Shen (Now, Undergraduate Student at University of Liverpool)**, on undergraduate final year project (Lung Segmentation with Xray Images).  
+Support / Taught **Shuyue Shen, Taoyi Qi, Yixin Cai, (Now, Undergraduate Students at University of Liverpool)**, on undergraduate final year project (Lung Segmentation with Xray Images).   
+
+2021.11 - 2022.01:  
+Support / Taught **Patefield, Alastair(Now, MRes Student at University of Liverpool)**, on a MRes project (Graft Detachment Classification with OCT Images).   
 
 2021.11 - 2021.05:  
 Support / Taught **Preston.G.Frank (Now, MRes Student at University of Liverpool)**, on a MRes project (Peripheral Neuropathy Classification on Corneal Confocal Microscopy Images).  
