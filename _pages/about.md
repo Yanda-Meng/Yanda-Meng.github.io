@@ -13,7 +13,7 @@ redirect_from:
 About Me
 ====
 
-+ A 3rd yead PhD student (Apr. 2021- Apr. 2022) in the department of Eye and Vision Science, University of Liverpool, UK. He is supervised by Dr.[Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) and Dr. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
++ A 3rd yead PhD student (Apr. 2021- Apr. 2022) in the department of Eye and Vision Science, University of Liverpool, UK. He is supervised by Prof.[Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) and Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
 
 + Yanda's current research mainly focuses on the area of Medical Image Analysis, Scene Understanding, Data-Efficient Learning. He has authored many publications at prestigious journals/conferences, such as ICCV, ECCV, BMVC, MICCAI, IEEE-TMI, Diabetologia, etc.. He serves as reviewers for many journal/conferecens succ as CVPR, ECCV, MICCAI, MIDL, IEEE-TMI, IEEE-JBHI, etc..  
 
