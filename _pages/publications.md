@@ -19,31 +19,28 @@ ALL Publications:
 [Google Scholar](https://scholar.google.com/citations?user=ueNkFakAAAAJ&hl=en&oi=ao), 
 [ORCiD](https://orcid.org/0000-0001-7344-2174).  
 
-
-2022  
+Preprints  
 + 3D Dense Face Alignment with Fused Features by Aggregating CNNs and GCNs    
 **Yanda Meng**, Xu Chen, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Xiaowei Huang, Yalin Zheng  
-Arxiv [paper](https://arxiv.org/abs/2203.04643).
+Arxiv [paper](https://arxiv.org/abs/2203.04643).  
 
 + Counting with Adaptive Auxiliary Learning  
 **Yanda Meng**, Joshua Bridge, Meng Wei, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng  
 Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).
 
-+ DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification  
-Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Sarah Coupland, Yalin Zheng  
-IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2022 (accept rate: 25.3%, 8161 submissions)**  
-
 + Development and External Validation of a Mixed-Effects Deep Learning Model to Diagnose COVID-19 from CT Imaging  
 Joshua Bridge, **Yanda Meng**, Wenyue Zhu, Thomas Fitzmaurice, Caroline McCann, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Yitian Zhao, Yalin Zheng  
 medRxiv [paper](https://doi.org/10.1101/2022.01.28.22270005)
 
+2022  
+
++ DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification  
+Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Sarah Coupland, Yalin Zheng  
+IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2022 (accept rate: 25.3%, 8161 submissions)**  
 
 + Informed Consent In Facial Photograph Publishing: A Cross-sectional Pilot Study To Determine The Effectiveness Of Deidentification Methods  
 Frank G Preston, **Yanda Meng**, Yalin Zheng, James Hsuan, Kevin J Hamill, Austin G McCormick.    
 Journal of Empirical Research on Human Research Ethics **(J EMPIR RES HUM RES)**. [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459).  
-
-
-
 
 2021
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
