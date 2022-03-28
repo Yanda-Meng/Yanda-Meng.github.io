@@ -17,7 +17,7 @@ About Me
 
 + Yanda's current research mainly focuses on the area of Medical Image Analysis, Scene Understanding, Data-Efficient Learning. He has authored many publications at prestigious journals/conferences, such as ICCV, ECCV, BMVC, MICCAI, IEEE-TMI, Diabetologia, etc.. He serves as reviewers for many journal/conferecens succ as CVPR, ECCV, MICCAI, MIDL, IEEE-TMI, IEEE-JBHI, etc..  
 
-+ Email addres: yanda.meng[at]liverpool.ac.uk
++ Email addres: yanda.meng@liverpool.ac.uk
 
 
 Recent News
