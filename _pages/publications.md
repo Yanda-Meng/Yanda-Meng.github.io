@@ -33,14 +33,17 @@ Joshua Bridge, **Yanda Meng**, Wenyue Zhu, Thomas Fitzmaurice, Caroline McCann, 
 medRxiv [paper](https://doi.org/10.1101/2022.01.28.22270005), [code](https://github.com/JTBridge/ME-COVID19)
 
 2022  
++ 3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation  
+Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Xuesheng Qian, Yihong Qiao, Xiaoyun Yang, and Yalin Zheng  
+**IEEE TRANSACTION ON MULTIMEDIA (IF:~).**
 
 + DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification  
-Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Sarah Coupland, Yalin Zheng  
+Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Sarah Coupland, and Yalin Zheng  
 IEEE Conference on Computer Vision and Pattern Recognition.   
 **CVPR 2022 Oral (oral accept rate: xxx%, 8161 submissions)** [paper](https://arxiv.org/abs/2203.12081), [code](https://github.com/hrzhang1123/DTFD-MIL).  
 
 + Informed Consent In Facial Photograph Publishing: A Cross-sectional Pilot Study To Determine The Effectiveness Of Deidentification Methods  
-Frank G Preston, **Yanda Meng**, Yalin Zheng, James Hsuan, Kevin J Hamill, Austin G McCormick.    
+Frank G Preston, **Yanda Meng**, Yalin Zheng, James Hsuan, Kevin J Hamill, and Austin G McCormick.    
 Journal of Empirical Research on Human Research Ethics **(J EMPIR RES HUM RES)**. [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459).  
 
 2021
@@ -63,7 +66,7 @@ IEEE International Conference on Computer Vision.
 **ICCV 2021 (accept rate: 25.9%, 6236 submissions)**. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Spatial_Uncertainty-Aware_Semi-Supervised_Crowd_Counting_ICCV_2021_paper.pdf), [code](https://github.com/smallmax00/SUA_crowd_counting).  
 
 + TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography  
-Kaizhong Deng, **Yanda Meng**, Dongxu Gao, Joshua Bridge, Yaochun Shen, Gregory Lip, Yitian Zhao,Yalin Zheng.  
+Kaizhong Deng, **Yanda Meng**, Dongxu Gao, Joshua Bridge, Yaochun Shen, Gregory Lip, Yitian Zhao, Yalin Zheng.  
 In The 2nd International Workshop of Advances in Simplifying Medical UltraSound. ASMUS 2021 **(MICCAI 2021 Workshop)** [paper](https://link.springer.com/chapter/10.1007/978-3-030-87583-1_7).  
 
 + Learning Parameter-specific Affine Transformation for Medical Images Registration  
