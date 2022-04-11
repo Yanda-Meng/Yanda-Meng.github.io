@@ -22,6 +22,7 @@ About Me
 
 Recent News
 === 
++ Apr, 2022, One paper "3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation" was accepted by **IEEE Transactions on Multimedia (IEEE-TMM, IF: ~ 6.513)**.
 + Mar, 2022, Our accepted **CVPR 2022** paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was selected as an **Oral** presentation.
 + Mar, 2022, I was invited to be a reviewer for ECCV.
 + Mar, 2022, One paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was accepted by **CVPR 2022 (accept rate: 25.3%, 8161 submissions)** 
