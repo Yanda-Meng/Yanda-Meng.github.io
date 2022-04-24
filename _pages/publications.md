@@ -35,7 +35,7 @@ medRxiv [paper](https://doi.org/10.1101/2022.01.28.22270005), [code](https://git
 2022  
 + 3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Xuesheng Qian, Yihong Qiao, Xiaoyun Yang, and Yalin Zheng  
-**IEEE Transaction on Multimedia (IF:~6.513).** [paper]().
+**IEEE Transaction on Multimedia (IF:~6.513).** [paper](https://ieeexplore.ieee.org/document/9759982).
 
 + DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Sarah Coupland, and Yalin Zheng  
