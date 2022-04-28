@@ -94,7 +94,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 + Introducing the GEV Activation Function for Highly Unbalanced Data to Develop COVID-19 Diagnostic Models.  
 Bridge, Joshua, **Yanda Meng**, Yitian Zhao, Yong Du, Mingfeng Zhao, Renrong Sun, and Yalin Zheng.  
-IEEE Journal of Biomedical and Health Informatics 24, no. 10 **(IEEE-JBHI)** 2020: 2776-2786. [paper](https://ieeexplore.ieee.org/document/9151288), [code](https://github.com/JTBridge/GEV).  
+IEEE Journal of Biomedical and Health Informatics 24, no. 10 **(IEEE-JBHI, IF: 5.772)** 2020: 2776-2786. [paper](https://ieeexplore.ieee.org/document/9151288), [code](https://github.com/JTBridge/GEV).  
 
 
 
