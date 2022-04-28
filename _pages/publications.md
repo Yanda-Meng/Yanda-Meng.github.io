@@ -35,16 +35,16 @@ medRxiv [paper](https://doi.org/10.1101/2022.01.28.22270005), [code](https://git
 2022  
 + 3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Xuesheng Qian, Yihong Qiao, Xiaoyun Yang, and Yalin Zheng  
-**IEEE Transaction on Multimedia (IF:~6.513).** [paper](https://ieeexplore.ieee.org/document/9759982).
+IEEE Transaction on Multimedia (IF:~6.513). [paper](https://ieeexplore.ieee.org/document/9759982).
 
 + DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Sarah Coupland, and Yalin Zheng  
 IEEE Conference on Computer Vision and Pattern Recognition.   
-**CVPR 2022 Oral (oral accept rate: xxx%, 8161 submissions)** [paper](https://arxiv.org/abs/2203.12081), [code](https://github.com/hrzhang1123/DTFD-MIL).  
+CVPR 2022 Oral (oral accept rate: xxx%, 8161 submissions) [paper](https://arxiv.org/abs/2203.12081), [code](https://github.com/hrzhang1123/DTFD-MIL).  
 
 + Informed Consent In Facial Photograph Publishing: A Cross-sectional Pilot Study To Determine The Effectiveness Of Deidentification Methods  
 Frank G Preston, **Yanda Meng**, Yalin Zheng, James Hsuan, Kevin J Hamill, and Austin G McCormick.    
-Journal of Empirical Research on Human Research Ethics **(J EMPIR RES HUM RES)**. [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459).  
+Journal of Empirical Research on Human Research Ethics (J EMPIR RES HUM RES). [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459).  
 
 2021
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
@@ -67,15 +67,15 @@ IEEE International Conference on Computer Vision.
 
 + TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography  
 Kaizhong Deng, **Yanda Meng**, Dongxu Gao, Joshua Bridge, Yaochun Shen, Gregory Lip, Yitian Zhao, Yalin Zheng.  
-In The 2nd International Workshop of Advances in Simplifying Medical UltraSound. ASMUS 2021 **(MICCAI 2021 Workshop)** [paper](https://link.springer.com/chapter/10.1007/978-3-030-87583-1_7).  
+In The 2nd International Workshop of Advances in Simplifying Medical UltraSound. ASMUS 2021 (MICCAI 2021 Workshop) [paper](https://link.springer.com/chapter/10.1007/978-3-030-87583-1_7).  
 
 + Learning Parameter-specific Affine Transformation for Medical Images Registration  
 Xu Chen, **Yanda Meng**, Yitian Zhao, Rachel Williams, Srinivasa Vallabhaneni, Yalin Zheng.  
-In International Conference on Medical Image Computing and Computer-Assisted Intervention **(MICCAI 2021)**. [paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_3), [code](https://github.com/xuuuuuuchen/PASTA).  
+In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2021). [paper](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_3), [code](https://github.com/xuuuuuuchen/PASTA).  
 
 + A regularization term for slide correlation reduction in whole slide image analysis with deep learning  
 Hongrun Zhang, **Yanda Meng**, Xuesheng Qian, Xiaoyun Yang, Sarah E.Coupland, and Yalin Zheng.  
-In Medical Imaging with Deep Learning (MIDL), 2021. **(MIDL 2021)** [paper](https://openreview.net/forum?id=2vCFIoWDS6E),  [code](https://github.com/hrzhang1123/SlideCorrelationReduction).  
+In Medical Imaging with Deep Learning (MIDL), 2021. (MIDL 2021) [paper](https://openreview.net/forum?id=2vCFIoWDS6E),  [code](https://github.com/hrzhang1123/SlideCorrelationReduction).  
 
 
 
@@ -94,7 +94,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 + Introducing the GEV Activation Function for Highly Unbalanced Data to Develop COVID-19 Diagnostic Models.  
 Bridge, Joshua, **Yanda Meng**, Yitian Zhao, Yong Du, Mingfeng Zhao, Renrong Sun, and Yalin Zheng.  
-IEEE Journal of Biomedical and Health Informatics 24, no. 10 **(IEEE-JBHI, IF: 5.772)** 2020: 2776-2786. [paper](https://ieeexplore.ieee.org/document/9151288), [code](https://github.com/JTBridge/GEV).  
+IEEE Journal of Biomedical and Health Informatics 24, no. 10 (IEEE-JBHI, IF: 5.772) 2020: 2776-2786. [paper](https://ieeexplore.ieee.org/document/9151288), [code](https://github.com/JTBridge/GEV).  
 
 
 
