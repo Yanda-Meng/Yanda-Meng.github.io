@@ -22,6 +22,7 @@ About Me
 
 Recent News
 === 
++ May, 2022, One paper, "Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency" was early accepted by **MICCAI 2022 (early accept rate: 13%, 1825 submissions)** 
 + Apr, 2022, One paper, "3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation" was accepted by **IEEE Transactions on Multimedia (IEEE-TMM, IF: ~ 6.513)**.
 + Mar, 2022, Our accepted **CVPR 2022** paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was selected as an **Oral** presentation.
 + Mar, 2022, I was invited to be a reviewer for ECCV.
