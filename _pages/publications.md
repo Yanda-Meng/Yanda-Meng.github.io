@@ -36,7 +36,7 @@ medRxiv [paper](https://doi.org/10.1101/2022.01.28.22270005), [code](https://git
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
-**MICCAI 2022 (early accept rate: 13 %, 1825 submissions)**. [paper]()
+**MICCAI 2022 (early accept rate: 13 %, 1825 submissions)**. [paper](), [code] ().
 
 
 
