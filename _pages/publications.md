@@ -33,6 +33,13 @@ Joshua Bridge, **Yanda Meng**, Wenyue Zhu, Thomas Fitzmaurice, Caroline McCann, 
 medRxiv [paper](https://doi.org/10.1101/2022.01.28.22270005), [code](https://github.com/JTBridge/ME-COVID19)
 
 2022  
++ Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
+**Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
+International Conference on Medical Image Computing and Computer-Assisted Intervention.  
+**MICCAI 2022 (early accept rate: 13 %, 1825 submissions)**. [paper]()
+
+
+
 + 3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Xuesheng Qian, Yihong Qiao, Xiaoyun Yang, and Yalin Zheng  
 IEEE Transaction on Multimedia (IF:~6.513). [paper](https://ieeexplore.ieee.org/document/9759982).
