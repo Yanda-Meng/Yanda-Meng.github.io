@@ -36,9 +36,7 @@ medRxiv [paper](https://doi.org/10.1101/2022.01.28.22270005), [code](https://git
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
-**MICCAI 2022 (early accept rate: 13 %, 1825 submissions)**. [paper](), [code] ().
-
-
+**MICCAI 2022 (early accept rate: 13 %, 1825 submissions)**. [paper](), [code]().
 
 + 3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Xuesheng Qian, Yihong Qiao, Xiaoyun Yang, and Yalin Zheng  
@@ -56,7 +54,8 @@ Journal of Empirical Research on Human Research Ethics (J EMPIR RES HUM RES). [p
 2021
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.  
-The British Machine Vision Conference **BMVC 2021 Oral (Oral accept rate: 3.3%, 1206 submissions)** [paper](https://arxiv.org/abs/2110.14775#), [code](https://github.com/smallmax00/BI-GConv).
+The British Machine Vision Conference.  
+**BMVC 2021 Oral (Oral accept rate: 3.3%, 1206 submissions)** [paper](https://arxiv.org/abs/2110.14775#), [code](https://github.com/smallmax00/BI-GConv).
 
 + Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Ian J. C. MacCormick, Xiaowei Huang, and Yalin Zheng.  
