@@ -20,6 +20,7 @@ About Me
 + Email address: yanda.meng@liverpool.ac.uk
 
 
+
 Recent News
 === 
 + May, 2022, One paper, "Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency" was early accepted by **MICCAI 2022 (early accept rate: 13%, 1825 submissions)** 
