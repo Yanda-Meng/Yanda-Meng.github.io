@@ -41,6 +41,8 @@ Work on gender, age classification project.
 
 Teaching Experience (last update 10th Dec 2021)
 ======
+2022.05 - Now:
+Support / Taught **Yuchen Zhang (Now, Undergraduate Student at the Peking University)**, on summer intern project (Left Atrial and Scar Quantification).
 
 2021.10 - Now:  
 Support / Taught **Shuyue Shen, Taoyi Qi, Yixin Cai, (Now, Undergraduate Students at University of Liverpool)**, on undergraduate final year project (GAN-based Domain Adaption on Medical Images, etc..).   
