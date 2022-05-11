@@ -39,7 +39,7 @@ Work with [Dr. Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-
 Work on gender, age classification project.  
 
 
-Teaching Experience (last update 10th Dec 2021)
+Teaching Experience (last update 10th May 2022)
 ======
 2022.05 - Now:
 Support / Taught **Yuchen Zhang (Now, Undergraduate Student at the Peking University)**, on summer intern project (Left Atrial and Scar Quantification).
