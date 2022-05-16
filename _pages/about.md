@@ -13,7 +13,7 @@ redirect_from:
 About Me
 ====
 
-+ A final yead PhD student (submission pending) in the Eye and Vision Science department, University of Liverpool, UK. He is supervised by Prof.[Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/yalin-zheng/) and Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
++ A final yead PhD student (submission pending) in the Eye and Vision Science department, University of Liverpool, UK. He is supervised by Prof.[Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
 
 + Yanda's current research mainly focuses on Medical Image Analysis, Scene Understanding, and Data-Efficient Learning. He has first-authored many publications at prestigious journals/conferences, such as ICCV, ECCV, BMVC, MICCAI, IEEE-TMI, Diabetologia, etc.. He serves as a reviewer for many journals/conferences such as CVPR, ECCV, MICCAI, MIDL, IEEE-TMI, IEE-TIP, IEEE-JBHI, etc..  
 
@@ -23,6 +23,7 @@ About Me
 
 Recent News
 === 
++ May, 2022, I have started to work as a 3-year PDRA under the advise by Prof.[Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr.[Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).
 + May, 2022, One paper, "Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency" was early accepted by **MICCAI 2022 (early accept rate: 13%, 1825 submissions)** 
 + Apr, 2022, One paper, "3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation" was accepted by **IEEE Transactions on Multimedia (IEEE-TMM, IF: ~ 6.513)**.
 + Mar, 2022, Our accepted **CVPR 2022** paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was selected as an **Oral** presentation.
