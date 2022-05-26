@@ -57,7 +57,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 [Google Scholar](https://scholar.google.com/citations?user=ueNkFakAAAAJ&hl=en&oi=ao), 
 [ORCiD](https://orcid.org/0000-0001-7344-2174).  
 
-# Scientific Report:    
+Scientific Report:    
 + 3D Dense Face Alignment with Fused Features by Aggregating CNNs and GCNs    
 **Yanda Meng**, Xu Chen, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Xiaowei Huang, Yalin Zheng  
 Arxiv [paper](https://arxiv.org/abs/2203.04643).  
