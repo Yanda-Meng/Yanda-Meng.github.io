@@ -17,7 +17,7 @@ author_profile: true
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
-**MICCAI 2022 (early accept rate: 13.0%, 1825 submissions)**. [paper](), [code]().  
+**MICCAI 2022 (early accept rate: 13.0%, 1825 submissions)** [paper](), [code]().  
 
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.  
@@ -33,18 +33,18 @@ The British Machine Vision Conference.
 + Spatial Uncertainty-Aware Semi-Supervised Crowd Counting  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.      
 IEEE International Conference on Computer Vision.
-**ICCV 2021 (accept rate: 25.9%, 6236 submissions)**. [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Spatial_Uncertainty-Aware_Semi-Supervised_Crowd_Counting_ICCV_2021_paper.pdf), [code](https://github.com/smallmax00/SUA_crowd_counting).   
+**ICCV 2021 (accept rate: 25.9%, 6236 submissions)** [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Spatial_Uncertainty-Aware_Semi-Supervised_Crowd_Counting_ICCV_2021_paper.pdf), [code](https://github.com/smallmax00/SUA_crowd_counting).   
 
 + Regression of Instance Boundary by Aggregated CNN and GCN  
 **Yanda Meng**, Meng wei, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.  
 European Conference on Computer Vision.  
-**ECCV2020 (accept rate: 26.0%, 5150 submissions)**. [paper](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_12).   
+**ECCV2020 (accept rate: 26.0%, 5150 submissions)** [paper](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_12).   
 
 
 + CNN-GCN Aggregation Enabled Boundary Regression for Biomedical Image Segmentation  
 **Yanda Meng**, Meng Wei, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
-**MICCAI 2020 (early accept rate: 13.3%, 1809 submissions)**. [paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_35)  
+**MICCAI 2020 (early accept rate: 13.3%, 1809 submissions)** [paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_35)  
 
 
 
