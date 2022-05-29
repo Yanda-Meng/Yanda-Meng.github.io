@@ -16,8 +16,12 @@ Education
 * PhD student, Biometric and Biomedical Image Computing, University of Liverpool, Liverpool, UK, April 2019 - present
 
 
-Internship
+Work Experience
 ======
+2022.05 - Now:  
+**Department of Eye and Vision Science, University of Liverpool, UK. (Post-doc Research Associate)**   
+With [Prof. Yalin Zheng]() and [Dr. Nicholas Beare]().  
+
 2021.11 - 2022.02:  
 **Institute of Biomedical Engineering , University of Oxford (Research Assistant)**  
 Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) and [Prof.  Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher) on endoscope segmentation project. 
