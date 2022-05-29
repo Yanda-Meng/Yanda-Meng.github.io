@@ -20,7 +20,7 @@ Work Experience
 ======
 2022.05 - Now:  
 **Department of Eye and Vision Science, University of Liverpool, UK. (Post-doc Research Associate)**   
-With Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).     
+With [Prof.Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and [Dr. Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).     
 
 2021.11 - 2022.02:  
 **Institute of Biomedical Engineering , University of Oxford, UK. (Research Assistant)**  
