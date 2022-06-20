@@ -26,7 +26,7 @@ Recent News
 + May, 2022, I have started to work as a Post-doc Research Associate under the advise by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).  
 + May, 2022, One paper, "Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency" was early accepted by **MICCAI 2022 (early accept rate: 13%, 1825 submissions)** 
 + Apr, 2022, One paper, "3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation" was accepted by **IEEE Transactions on Multimedia (IEEE-TMM, IF: ~ 6.513)**.
-+ Mar, 2022, Our accepted **CVPR 2022** paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was selected as an **Oral** presentation, top 4 % out of 8161 submission.
++ Mar, 2022, Our accepted **CVPR 2022** paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was selected as an **Oral** presentation, top **4 % out of 8161 submission**.
 + Mar, 2022, I was invited to be a reviewer for ECCV.
 + Mar, 2022, One paper, "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was accepted by **CVPR 2022**. 
 + Feb, 2022, I was invited to be a reviewer for CVPR.
