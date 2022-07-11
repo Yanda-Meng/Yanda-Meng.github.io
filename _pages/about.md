@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage of Yanda Meng (孟彦达)"
+title: "Homepage of Yanda Meng (also known as 孟彦达)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
