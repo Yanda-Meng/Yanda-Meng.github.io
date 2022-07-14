@@ -61,10 +61,6 @@ Arxiv [paper](https://arxiv.org/abs/2203.04643).
 **Yanda Meng**, Joshua Bridge, Meng Wei, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng  
 Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).
 
-+ Development and External Validation of a Mixed-Effects Deep Learning Model to Diagnose COVID-19 from CT Imaging  
-Joshua Bridge, **Yanda Meng**, Wenyue Zhu, Thomas Fitzmaurice, Caroline McCann, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Yitian Zhao, Yalin Zheng  
-medRxiv [paper](https://doi.org/10.1101/2022.01.28.22270005), [code](https://github.com/JTBridge/ME-COVID19)
-
 
 
 
