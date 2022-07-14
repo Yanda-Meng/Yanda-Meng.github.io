@@ -36,7 +36,7 @@ The British Machine Vision Conference.
 **BMVC 2021 Oral** (Oral accept rate: 3.3%, 1206 submissions) [paper](https://arxiv.org/abs/2110.14775#), [code](https://github.com/smallmax00/BI-GConv).  
 + Spatial Uncertainty-Aware Semi-Supervised Crowd Counting  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.      
-IEEE International Conference on Computer Vision.
+IEEE International Conference on Computer Vision.  
 **ICCV 2021** (accept rate: 25.9%, 6236 submissions) [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Spatial_Uncertainty-Aware_Semi-Supervised_Crowd_Counting_ICCV_2021_paper.pdf), [code](https://github.com/smallmax00/SUA_crowd_counting).   
 
 + Regression of Instance Boundary by Aggregated CNN and GCN  
