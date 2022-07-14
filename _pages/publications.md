@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications (* means equal contribution) "
+title: "Selected Publications (* means equal contribution) [ALL](https://scholar.google.com/citations?user=ueNkFakAAAAJ&hl=en&oi=ao) "
 permalink: /publications/
 author_profile: true
 ---
