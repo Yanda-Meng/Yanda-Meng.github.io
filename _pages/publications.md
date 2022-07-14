@@ -43,7 +43,7 @@ IEEE International Conference on Computer Vision.
 + Regression of Instance Boundary by Aggregated CNN and GCN  
 **Yanda Meng**, Meng wei, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.  
 European Conference on Computer Vision.  
-**ECCV2020** (accept rate: 26.0%, 5150 submissions) [paper](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_12).   
+**ECCV 2020** (accept rate: 26.0%, 5150 submissions) [paper](https://link.springer.com/chapter/10.1007/978-3-030-58598-3_12).   
 
 + CNN-GCN Aggregation Enabled Boundary Regression for Biomedical Image Segmentation  
 **Yanda Meng**, Meng Wei, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.  
