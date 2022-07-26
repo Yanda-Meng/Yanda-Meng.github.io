@@ -75,7 +75,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 + 3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Xuesheng Qian, Yihong Qiao, Xiaoyun Yang, and Yalin Zheng  
-IEEE Transaction on Multimedia (IF:~6.513). [paper](https://ieeexplore.ieee.org/document/9759982), [code](https://github.com/hrzhang1123/Confidence-Aware-Video-Pose-Estimation)
+IEEE Transaction on Multimedia (IF:~8.182). [paper](https://ieeexplore.ieee.org/document/9759982), [code](https://github.com/hrzhang1123/Confidence-Aware-Video-Pose-Estimation)
 
 + DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Sarah Coupland, and Yalin Zheng  
