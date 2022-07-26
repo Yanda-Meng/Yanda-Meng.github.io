@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-# Journals  
+## Journals  
 + Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Ian J. C. MacCormick, Xiaowei Huang, and Yalin Zheng.  
 **IEEE Transactions on Medical Imaging (2021 IF: ~10.048)** [paper](https://ieeexplore.ieee.org/document/9594842), [code](https://github.com/smallmax00/Graph_Region_Boudnary).  
@@ -25,7 +25,7 @@ author_profile: true
 *Frank G Preston, ***Yanda Meng**, Jamie Burgess, Maryam Ferdousi, Shazli Azmi, Ioannis N Petropoulos, Stephen Kaye, Rayaz A Malik, Yalin Zheng, Uazman Alam.  
 **Diabetologia (2021 IF: ~10.122, Front cover)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf).  
 
-# Conferences  
+## Conferences  
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
@@ -52,7 +52,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **MICCAI 2020** (early accept rate: 13.3%, 1809 submissions) [paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_35)  
 
 
-# Scientific Report: 
+## Scientific Report: 
    
 + 3D Dense Face Alignment with Fused Features by Aggregating CNNs and GCNs    
 **Yanda Meng**, Xu Chen, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Xiaowei Huang, Yalin Zheng  
@@ -62,7 +62,7 @@ Arxiv [paper](https://arxiv.org/abs/2203.04643).
 **Yanda Meng**, Joshua Bridge, Meng Wei, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng  
 Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).
   
-  
+==============
 Document Title
 ==============
 2022  
