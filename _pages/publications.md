@@ -63,7 +63,8 @@ Arxiv [paper](https://arxiv.org/abs/2203.04643).
 Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).
   
   
-## All Publications  
+Document Title
+==============
 2022  
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
