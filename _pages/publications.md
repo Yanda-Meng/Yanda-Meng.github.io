@@ -13,7 +13,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+# Selected publications (* means equal contribution)  
 
 ## Journals  
 + Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation  
