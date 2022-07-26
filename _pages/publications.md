@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Selected Publications (* means equal contribution)"
 permalink: /publications/
 author_profile: true
 ---
