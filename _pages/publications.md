@@ -65,8 +65,8 @@ Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/small
   
 ***
 ***
-All publications
-==============
+# All publications  
+
 2022  
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
