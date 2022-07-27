@@ -46,28 +46,25 @@ Work on gender, age classification project.
 Supervision Experience (last update 25th July 2022)
 ======
 2022.05 - Now:  
-Supervised **Yuchen Zhang (Now, Undergraduate Student at the Peking University)**, on summer intern project (Left Atrial and Scar Quantification).
-
-Teaching Experience (last update 29th May 2022)
-======
+Supervised **Yuchen Zhang (Now, Undergraduate Student at Peking University)**, on summer intern project (Left Atrial and Scar Quantification).
 
 2021.10 - 2022.04:  
-Supported / Taught **Shuyue Shen, Taoyi Qi, Yixin Cai, (Now, Undergraduate Students at University of Liverpool)**, on undergraduate final year project (GAN-based Domain Adaption on Medical Images, etc..).   
+Supervised **Shuyue Shen, Taoyi Qi, Yixin Cai, (Now, Undergraduate Students at University of Liverpool)**, on undergraduate final year project (GAN-based Domain Adaption on Medical Images, etc..).   
 
 2021.11 - 2022.02:  
-Supported / Taught **Patefield, Alastair(Now, MRes Student at University of Liverpool)**, on a MRes project (Graft Detachment Classification with OCT Images).   
+Supervised **Patefield, Alastair(Now, MRes Student at University of Liverpool)**, on a MRes project (Graft Detachment Classification with OCT Images).   
 
 2021.11 - 2021.05:  
-Supported / Taught **Preston.G.Frank (Now, MRes Student at University of Liverpool)**, on a MRes project (Peripheral Neuropathy Classification on Corneal Confocal Microscopy Images).  
+Supervised **Preston.G.Frank (Now, MRes Student at University of Liverpool)**, on a MRes project (Peripheral Neuropathy Classification on Corneal Confocal Microscopy Images).  
 
 2020.10 - 2021.04:  
-Supported / Taught **Kaizhong Deng (Now, MSc student at Imperial College London)**, on undergraduate final year project (Left Ventricle Segmentation on Echocardiography Images).  
+Supervised **Kaizhong Deng (Now, MSc student at Imperial College London)**, on undergraduate final year project (Left Ventricle Segmentation on Echocardiography Images).  
 
 2020.10 - 2021.04:  
-Supported / Taught **Siyu Ren (Now, MSc student at University of Sheffield)**, on undergraduate final year project (Lung Segmentation with CT images).  
+Supervised **Siyu Ren (Now, MSc student at University of Sheffield)**, on undergraduate final year project (Lung Segmentation with CT images).  
 
 2019.12 - 2020.04:  
-Supported / Taught **Meng Wei (Now, PhD student at King College London)**, on undergraduate final year project (Optic Disc & Cup Segmentation on Fundus Images).  
+Supervised **Meng Wei (Now, PhD student at King College London)**, on undergraduate final year project (Optic Disc & Cup Segmentation on Fundus Images).  
 
 
   
