@@ -23,7 +23,8 @@ About Me
 
 Recent News
 === 
-+ Aug, 2022, One paper, 'Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net' was accepted by LAScarQS 2022 (MICCAI challenge). Congrats to Yuchen Zhang, who is an undergraduate student from the Peking University. Yuchen has benn doing summer intern with me and Prof.Zheng this year.
++ Aug, 2022, One paper, 'Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net' was accepted by **LAScarQS 2022 (MICCAI workshop)**.  
+Congrats to Yuchen Zhang, who is an undergraduate student from the Peking University. Yuchen has benn doing summer intern with me and Prof.Zheng this year.
 + May, 2022, I have started to work as a Post-doc Research Associate under the advise by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).  
 + May, 2022, One paper, "Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency" was early accepted by **MICCAI 2022 (early accept rate: 13%, 1825 submissions)** 
 + Apr, 2022, One paper, "3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation" was accepted by **IEEE Transactions on Multimedia (IEEE-TMM, IF: ~ 8.182)**.
