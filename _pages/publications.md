@@ -68,6 +68,10 @@ Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/small
 # All publications  
 
 2022  
++ Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net 
+Yuchen Zhang, **Yanda Meng**, Yalin Zheng   
+In The Left Atrial and Scar Quantification & Segmentation Challenge. LAScarQS 2022 (MICCAI 2022 Workshop) [paper]().  
+
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
