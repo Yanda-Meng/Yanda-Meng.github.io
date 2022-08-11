@@ -68,7 +68,7 @@ Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/small
 # All publications  
 
 2022  
-+ Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net 
++ Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net  
 Yuchen Zhang, **Yanda Meng**, Yalin Zheng   
 In The Left Atrial and Scar Quantification & Segmentation Challenge. LAScarQS 2022 (MICCAI 2022 Workshop) [paper]().  
 
