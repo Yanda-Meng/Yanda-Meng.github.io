@@ -72,6 +72,10 @@ Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/small
 # All publications  
 
 2022  
++ Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks  
+**Yanda Meng**, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, and Yalin Zheng.  
+**IEEE Transactions on Medical Imaging (2022 IF: ~11.037)** [paper](), [code]().  
+
 + Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net  
 Yuchen Zhang, **Yanda Meng**, Yalin Zheng   
 In The Left Atrial and Scar Quantification & Segmentation Challenge. LAScarQS 2022 (MICCAI 2022 Workshop) [paper](), [code]().  
