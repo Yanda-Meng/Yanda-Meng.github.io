@@ -26,7 +26,7 @@ author_profile: true
 
 + Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes  
 *Frank G Preston, ***Yanda Meng**, Jamie Burgess, Maryam Ferdousi, Shazli Azmi, Ioannis N Petropoulos, Stephen Kaye, Rayaz A Malik, Yalin Zheng, Uazman Alam.  
-**Diabetologia (2021 IF: ~10.122, Front cover of Mar 2022)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf).  
+**Diabetologia (2021 IF: ~10.122, Front cover of Mar 2022 issue)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf).  
 
 ### Conferences  
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
