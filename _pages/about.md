@@ -55,7 +55,7 @@ Experience:
 ===
 + Reviewer:  
 **Conference**: CVPR (2022-now), ECCV (2022-now), MICCAI (2021-now), MIDL (2022-now), MIUA (2021-now)    
-**Journal**: IEEE-TMI (2022-now), IEEE-TIP (2022-now), IEEE-TCSVT (2022-now), IEEE-JBHI (2021-now), Frontier in Medicine (2022-now), etc.
+**Journal**: IEEE-TMI (2022-now), IEEE-TIP (2022-now), IEEE-TCSVT (2022-now), IEEE-JBHI (2021-now), Medical Physics (2022-now), Frontier in Medicine (2022-now), etc.
 
 
 
