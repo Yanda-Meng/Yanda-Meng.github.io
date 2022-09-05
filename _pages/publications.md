@@ -22,11 +22,11 @@ author_profile: true
 
 + Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Ian J. C. MacCormick, Xiaowei Huang, and Yalin Zheng.  
-**IEEE Transactions on Medical Imaging (2021 IF: ~10.048)** [paper](https://ieeexplore.ieee.org/document/9594842), [code](https://github.com/smallmax00/Graph_Region_Boudnary).  
+**IEEE Transactions on Medical Imaging (2022 IF: ~11.037)** [paper](https://ieeexplore.ieee.org/document/9594842), [code](https://github.com/smallmax00/Graph_Region_Boudnary).  
 
 + Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes  
 *Frank G Preston, ***Yanda Meng**, Jamie Burgess, Maryam Ferdousi, Shazli Azmi, Ioannis N Petropoulos, Stephen Kaye, Rayaz A Malik, Yalin Zheng, Uazman Alam.  
-**Diabetologia (2021 IF: ~10.122, Front cover of Mar 2022 issue)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf).  
+**Diabetologia (2022 IF: ~10.46, Front cover of Mar 2022 issue)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf).  
 
 ### Conferences  
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
