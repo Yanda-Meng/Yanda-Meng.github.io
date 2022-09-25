@@ -19,9 +19,9 @@ About Me
 
 + Email address: yanda.meng@liverpool.ac.uk
 
-```diff
-- Our group is looking for self-motivated interns, to work on the research areas of medical image analysis, dada efficient learning, etc. Welcome to drop me an email with your CV. Remote collaboration is also welcome.
-```
+
+<font color="#dd0000">Our group is looking for self-motivated interns, to work on the research areas of medical image analysis, dada efficient learning, etc. Welcome to drop me an email with your CV. Remote collaboration is also welcome.：</font><br />  
+
 
 
   
