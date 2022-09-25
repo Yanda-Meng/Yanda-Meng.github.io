@@ -20,6 +20,24 @@ About Me
 + Email address: yanda.meng@liverpool.ac.uk
 
 
+<h2>News</h2>
+<div style="height: 280px; overflow: auto;">
+<ul>
+	<li>
+		[07/2022] One paper on personalized FL is accepted to ECCV.
+	</li>
+	<li>
+		[06/2022] One paper is accepted to IROS.
+	</li>
+	<li>
+    	</li>
+	<!--
+	<li>
+		[06/2019] I finished my PhD defense on June 12th, 2019. 
+	</li>
+-->
+</ul>
+</div>
 
 Recent News
 === 
