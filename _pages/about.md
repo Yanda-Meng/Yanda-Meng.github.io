@@ -27,7 +27,7 @@ About Me
   
 Recent News
 === 
-+ Sep, 2022, Our Work 'Automatically Segmenting the Left Atrium and Scars from LGE-MRIs Using a Boundary-Focused nnU-Net' won the **best paper runner-up award** in **LAScarQS 2022 (MICCAI workshop)**. Congrats to Yuchen Zhang! Well done.
++ Sep, 2022, Our Work 'Automatically Segmenting the Left Atrium and Scars from LGE-MRIs Using a Boundary-Focused nnU-Net' won the **best paper runner-up award** in LAScarQS 2022 (MICCAI workshop). Congrats to Yuchen Zhang! Well done.
 + Sep, 2022, I gave a [talk](https://imed.nimte.ac.cn/view-25467.html) at the **5th Belt and Road Forum for Young World Scholars** at the Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences. Thanks for Prof. Yitian Zhao's invitation!   
 + Aug, 2022, One paper, 'Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks' was accepted by **IEEE Transactions on Medical Imaging (IEEE-TMI, 2022 IF: ~11.037)**
 + Aug, 2022, One paper, 'Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net' was accepted by **LAScarQS 2022 (MICCAI workshop)**. Congrats to Yuchen Zhang, who is an undergraduate student at the Peking University.
