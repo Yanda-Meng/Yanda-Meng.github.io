@@ -26,18 +26,18 @@ author_profile: true
 
 + Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes  
 *Frank G Preston, ***Yanda Meng**, Jamie Burgess, Maryam Ferdousi, Shazli Azmi, Ioannis N Petropoulos, Stephen Kaye, Rayaz A Malik, Yalin Zheng, Uazman Alam.  
-**Diabetologia (2022 IF: ~10.46, Front cover of Mar 2022 issue)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf).  
+**Diabetologia (2022 IF: ~10.46, Front cover of Mar 2022 issue)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf). <font color="#dd0000">(Front Cover).</font><br />    
 
 ### Conferences  
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
-**MICCAI 2022** (early accept rate: 13.0%, 1825 submissions) [paper](), [code]().  
+**MICCAI 2022** (early accept rate: 13.0%, 1825 submissions) [paper](), [code](). <font color="#dd0000">(Early Accept).</font><br />  
 
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.  
 The British Machine Vision Conference.  
-**BMVC 2021 Oral** (Oral accept rate: 3.3%, 1206 submissions) [paper]([https://arxiv.org/abs/2110.14775#](https://www.bmvc2021-virtualconference.com/assets/papers/0097.pdf), [code](https://github.com/smallmax00/BI-GConv).  
+**BMVC 2021 Oral** (Oral accept rate: 3.3%, 1206 submissions) [paper]([https://arxiv.org/abs/2110.14775#](https://www.bmvc2021-virtualconference.com/assets/papers/0097.pdf), [code](https://github.com/smallmax00/BI-GConv). <font color="#dd0000">(Oral).</font><br />  
 
 + Spatial Uncertainty-Aware Semi-Supervised Crowd Counting  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.      
@@ -52,7 +52,7 @@ European Conference on Computer Vision.
 + CNN-GCN Aggregation Enabled Boundary Regression for Biomedical Image Segmentation  
 **Yanda Meng**, Meng Wei, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xiaowei Huang, and Yalin Zheng.  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
-**MICCAI 2020** (early accept rate: 13.3%, 1809 submissions) [paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_35)  
+**MICCAI 2020** (early accept rate: 13.3%, 1809 submissions) [paper](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_35) <font color="#dd0000">(Early Accept).</font><br />  
 
 
 ### Scientific Report: 
@@ -78,7 +78,7 @@ Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/small
 
 + Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net  
 Yuchen Zhang, **Yanda Meng**, Yalin Zheng   
-In The Left Atrial and Scar Quantification & Segmentation Challenge. LAScarQS 2022 (MICCAI 2022 Workshop) [paper](), [code]().  
+In The Left Atrial and Scar Quantification & Segmentation Challenge. LAScarQS 2022 (MICCAI 2022 Workshop) [paper](), [code](). <font color="#dd0000">(Best Paper Runner-Up).</font><br />  
 
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
