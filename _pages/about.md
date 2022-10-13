@@ -27,23 +27,22 @@ About Me
   
 Recent News
 === 
-+ Sep, 2022, Our Work 'Automatically Segmenting the Left Atrium and Scars from LGE-MRIs Using a Boundary-Focused nnU-Net' won the **best paper runner-up award** in LAScarQS 2022 (MICCAI workshop). Congrats to Yuchen Zhang! Well done.
++ Sep, 2022, Our Work 'Automatically Segmenting the Left Atrium and Scars from LGE-MRIs Using a Boundary-Focused nnU-Net' won the <font color="#dd0000">best paper runner-up award</font> in LAScarQS 2022 (MICCAI workshop). Congrats to Yuchen Zhang! Well done.
 + Sep, 2022, I gave a [talk](https://imed.nimte.ac.cn/view-25467.html) at the **5th Belt and Road Forum for Young World Scholars** at the Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences. Thanks for Prof. Yitian Zhao's invitation!   
 + Aug, 2022, One paper, 'Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks' was accepted by **IEEE Transactions on Medical Imaging (IEEE-TMI, 2022 IF: ~11.037)**
 + Aug, 2022, One paper, 'Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net' was accepted by **LAScarQS 2022 (MICCAI workshop)**. Congrats to Yuchen Zhang, who is an undergraduate student at the Peking University.
 + May, 2022, I have started to work as a Post-doc Research Associate under the advise by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).  
-+ May, 2022, One paper, "Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency" was early accepted by **MICCAI 2022 (early accept rate: 13%, 1825 submissions)** 
++ May, 2022, One paper, "Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency" was early accepted by **MICCAI 2022 (<font color="#dd0000">early accept</font> rate: 13%, 1825 submissions)** 
 + Apr, 2022, One paper, "3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation" was accepted by **IEEE Transactions on Multimedia (IEEE-TMM, IF: ~ 8.182)**.
-+ Mar, 2022, Our accepted **CVPR 2022** paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was selected as an **Oral** presentation, top **4 % out of 8161 submission**.
++ Mar, 2022, Our accepted **CVPR 2022** paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was selected as an <font color="#dd0000">Oral</font> presentation, top **4 % out of 8161 submission**.
 + Mar, 2022, I was invited to be a reviewer for ECCV.
 + Mar, 2022, One paper, "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was accepted by **CVPR 2022**. 
 + Feb, 2022, I was invited to be a reviewer for CVPR.
-+ Jan, 2022, Our accepted paper "Artificial intelligence utilizing corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes" was selected as the **front cover** of **Diabetologia (IF: ~10.122)**, in the upcoming volume of Mar 2022.
++ Jan, 2022, Our accepted paper "Artificial intelligence utilizing corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes" was selected as the <font color="#dd0000">front cover</font> of **Diabetologia (IF: ~10.122)**, in the upcoming volume of Mar 2022.
 + Jan, 2022, I was invited to be a reviewer for IEEE TMI.
 + Jan, 2022, One paper, "Informed consent in facial photograph publishing: a cross-sectional pilot study to determine the effectiveness of deidentification methods" was accepted by **Journal of Empirical Research on Human Research Ethics**.  
 + Nov, 2021, Start as a research intern at the Institute of Biomedical Engineering, University of Oxford, with Dr. [Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) and Prof. [Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher).  
-+ Oct, 2021, One paper, "BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation" was accepted by **BMVC 2021** as **Oral**
-**(Oral accept rate: 3.3%, 1206 submissions)**
++ Oct, 2021, One paper, "BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation" was accepted by **BMVC 2021** as <font color="#dd0000">Oral</font> **(Oral accept rate: 3.3%, 1206 submissions)**  
 + Oct, 2021, One paper, "Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation" was accepted by **IEEE Transactions on Medical Imaging (IEEE-TMI, IF: ~10.048)**
 + Oct, 2021, One paper, "Artificial intelligence utilizing corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes" was accepted by **Diabetologia (IF: ~10.122)**
 + August, 2021, One paper, "TransBridge: A lightweight transformer for left ventricle segmentation in echocardiography" was accepted by **ASMUS 2021 (MICCAI Workshop)**, congrats to Kaizhong Deng, who is an undergraduate student at the University of Liverpool.
@@ -52,7 +51,7 @@ Recent News
 + Mar, 2021, One paper, "A regularization term for slide correlation reduction in whole slide image analysis with deep learning" was accepted by **MIDL 2021**.
 + Jul, 2020, One paper, "Introducing the GEV Activation Function for Highly Unbalanced Data to Develop COVID-19 Diagnostic Models" was accepted by **IEEE-JBHI (IF: ~5.223)**.
 + Jul, 2020, One paper, "Regression of Instance Boundary by Aggregated CNN and GCN" was accepted by **ECCV 2020 (accept rate: 26.0%, 5150 submissions)**.
-+ May, 2020, One paper, "CNN-GCN Aggregation Enabled Boundary Regression for Biomedical Image Segmentation" was **early** accepted by **MICCAI 2020 (early accept rate: 13.3%, 1809 submissions)**.
++ May, 2020, One paper, "CNN-GCN Aggregation Enabled Boundary Regression for Biomedical Image Segmentation" was early accepted by **MICCAI 2020 (<font color="#dd0000">early accept</font> rate: 13.3%, 1809 submissions)**.
 + Apr, 2019, Started PhD study at the University of Liverpool; thanks to the fully-funded studentship from China Science IntelliCloud Technology Co., Ltd, Shanghai, China
 + Feb, 2019, Started internship as a machine vision engineer at Remark Holding, Ltd, Chengdu, China.
 
