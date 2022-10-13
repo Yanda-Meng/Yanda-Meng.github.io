@@ -92,7 +92,7 @@ IEEE Transaction on Multimedia (IF:~8.182). [paper](https://ieeexplore.ieee.org/
 + DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Yihong Qiao, Xiaoyun Yang, Sarah Coupland, and Yalin Zheng  
 IEEE Conference on Computer Vision and Pattern Recognition.   
-CVPR 2022 <font color="#dd0000">Oral.</font><br /> (oral accept rate: 4%, 8161 submissions) [paper](https://arxiv.org/abs/2203.12081), [code](https://github.com/hrzhang1123/DTFD-MIL).  
+CVPR 2022 <font color="#dd0000">Oral.</font> (oral accept rate: 4%, 8161 submissions) [paper](https://arxiv.org/abs/2203.12081), [code](https://github.com/hrzhang1123/DTFD-MIL).  
 
 + Informed Consent In Facial Photograph Publishing: A Cross-sectional Pilot Study To Determine The Effectiveness Of Deidentification Methods  
 Frank G Preston, **Yanda Meng**, Yalin Zheng, James Hsuan, Kevin J Hamill, and Austin G McCormick.    
