@@ -72,9 +72,14 @@ Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/small
 # All publications  
 
 2022  
++ Artificial Intelligence and Corneal Confocal Microscopy: the start of a beautiful relationship  
+Uazman Alam, Matthew Ansson, **Yanda Meng**, Frank Preston, Varo Kirthi, Timothy L. Jackson, Paul Nderitu, Daniel J. Cuthbertson, Rayaz Malik, Yalin Zheng, Ioannis N. Petropoulos.  
+**Journal of Clinical Medicine (2022 IF: ~4.964)** [paper](), [code]().  
+
+
 + Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, and Yalin Zheng.  
-**IEEE Transactions on Medical Imaging (2022 IF: ~11.037)** [paper](), [code]().  
+**IEEE Transactions on Medical Imaging (2022 IF: ~11.037)** [paper](https://ieeexplore.ieee.org/document/9870838), [code](https://github.com/smallmax00/Dual_Adaptive_Graph_Reasoning).  
 
 + Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net  
 Yuchen Zhang, **Yanda Meng**, Yalin Zheng   
@@ -83,7 +88,8 @@ In The Left Atrial and Scar Quantification & Segmentation Challenge. LAScarQS 20
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
-**MICCAI 2022** (early accept rate: 13.0%, 1825 submissions). [paper](), [code]().
+**MICCAI 2022** (early accept rate: 13.0%, 1825 submissions) [paper](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_50), [code](https://github.com/smallmax00/Shape_aware_Weakly-Semi_ODOC_seg). <font color="#dd0000">(Early Accept).</font><br />  
+
 
 + 3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Xuesheng Qian, Yihong Qiao, Xiaoyun Yang, and Yalin Zheng  
