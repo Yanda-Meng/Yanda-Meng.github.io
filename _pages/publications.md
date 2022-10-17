@@ -77,7 +77,7 @@ Arxiv [paper](https://arxiv.org/abs/2203.04061), [code](https://github.com/small
 2022  
 + Artificial Intelligence and Corneal Confocal Microscopy: the start of a beautiful relationship  
 Uazman Alam, Matthew Ansson, **Yanda Meng**, Frank Preston, Varo Kirthi, Timothy L. Jackson, Paul Nderitu, Daniel J. Cuthbertson, Rayaz Malik, Yalin Zheng, Ioannis N. Petropoulos.  
-**Journal of Clinical Medicine (2022 IF: ~4.964)** [paper](), [code]().  
+**Journal of Clinical Medicine (2022 IF: ~4.964)** [paper]().  
 
 
 + Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks  
