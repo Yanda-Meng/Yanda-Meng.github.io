@@ -98,6 +98,10 @@ In The Left Atrial and Scar Quantification & Segmentation Challenge. LAScarQS 20
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
 **MICCAI 2022** (early accept rate: 13.0%, 1825 submissions) [paper](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_50), [code](https://github.com/smallmax00/Shape_aware_Weakly-Semi_ODOC_seg). <font color="#dd0000">(Early Accept).</font><br />  
 
++ Diagnosis of Diabetic Neuropathy by Artificial Intelligence using Corneal Confocal Microscopy  
+**Yanda Meng**, Maryam Ferdousi, Ioannis N Petropoulos, Rayaz A Malik, Yitian Zhao, Uazman Alam, Yalin Zheng  
+32nd Meeting of the European Association for Diabetic Eye Complications  
+**EAsDEC2022** [paper](https://journals.sagepub.com/doi/pdf/10.1177/11206721221092575)  
 
 + 3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation  
 Hongrun Zhang, **Yanda Meng**, Yitian Zhao, Xuesheng Qian, Yihong Qiao, Xiaoyun Yang, and Yalin Zheng  
