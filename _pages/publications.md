@@ -35,7 +35,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **MICCAI 2022** (early accept rate: 13.0%, 1825 submissions) [paper](https://link.springer.com/chapter/10.1007/978-3-031-16440-8_50), [code](https://github.com/smallmax00/Shape_aware_Weakly-Semi_ODOC_seg). <font color="#dd0000">(Early Accept).</font><br />  
 
 + Diagnosis of Diabetic Neuropathy by Artificial Intelligence using Corneal Confocal Microscopy  
-**Yanda Meng**, M. Ferdousi, I.N. Peropoulos, R.A. Malik, Y.Zhao, U.Alam, Y. Zheng  
+**Yanda Meng**, M. Ferdousi, I.N. Peropoulos, R.A. Malik, Y. Zhao, U. Alam, Y. Zheng  
 32nd Meeting of the European Association for Diabetic Eye Complications (EAsDEC) [paper](https://journals.sagepub.com/doi/pdf/10.1177/11206721221092575)  
 
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
