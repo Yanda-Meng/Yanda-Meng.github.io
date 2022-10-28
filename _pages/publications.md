@@ -36,7 +36,8 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 + Diagnosis of Diabetic Neuropathy by Artificial Intelligence using Corneal Confocal Microscopy  
 **Yanda Meng**, Maryam Ferdousi, Ioannis N Petropoulos, Rayaz A Malik, Yitian Zhao, Uazman Alam, Yalin Zheng  
-32nd Meeting of the European Association for Diabetic Eye Complications In EUROPEAN JOURNAL OF OPHTHALMOLOGY (Vol. 32, No. 1_ SUPPL, pp. 11-12)
+32nd Meeting of the European Association for Diabetic Eye Complications  
+In EUROPEAN JOURNAL OF OPHTHALMOLOGY (Vol. 32, No. 1_ SUPPL, pp. 11-12)  
 **EAsDEC2022** [paper](https://journals.sagepub.com/doi/pdf/10.1177/11206721221092575)  
 
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
