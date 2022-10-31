@@ -16,6 +16,7 @@ About Me
 + Postdoctoral Research Associate in the Eye and Vision Science Department, University of Liverpool, UK, adviced by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/). 
 + Ph.D in the Eye and Vision Science Department, University of Liverpool, UK. He was supervised by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).  
 + Yanda's current research mainly focuses on Medical Image Analysis, Scene Understanding, and Data-Efficient Learning. He has first-authored many publications at prestigious journals/conferences, such as ICCV, ECCV, BMVC, MICCAI, IEEE-TMI, Diabetologia, etc.. He serves as a reviewer for many journals/conferences such as CVPR, ECCV, MICCAI, Medical Physics, IEEE-TMI, IEE-TIP, IEEE-TCSVT, IEEE-JBHI, etc..  
++ He worked closely with [Dr Alam Uazman](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/uazman-alam/) from the University of Liverpool and [Prof. Yitian Zhao](https://ytianzhao.github.io/) from the Chinese Academy of Science.
 
 + Email address: yanda.meng@liverpool.ac.uk
 
