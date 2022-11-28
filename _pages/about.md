@@ -26,11 +26,11 @@ About Me
   
 Recent News
 === 
-+ Nov, 2022, I gave a [talk](https://sz.ustc.edu.cn/xwgg_show/993.html) at the **2nd Dushu Youth Academic Forum** at Suzhou Institute For Advanced Research, USTC. Thanks for Prof. S.Kevin Zhou's invitation.
++ Nov, 2022, I gave a [talk](https://sz.ustc.edu.cn/xwgg_show/993.html) at the **2nd Dushu (独墅) Youth Academic Forum** at Suzhou Institute For Advanced Research, USTC. Thanks for Prof. S.Kevin Zhou's invitation.
 + Oct, 2022, I pass my Viva and become Dr. Meng now.
 + Oct, 2022, One paper, 'Artificial Intelligence and Corneal Confocal Microscopy: the start of a beautiful relationship' was accepted by **Journal of Clinical Medicine (JCM, 2022 IF: ~ 4.964)**
 + Sep, 2022, Our Work 'Automatically Segmenting the Left Atrium and Scars from LGE-MRIs Using a Boundary-Focused nnU-Net' won the <font color="#dd0000">best paper runner-up award</font> in LAScarQS 2022 (MICCAI workshop). Congrats to Yuchen Zhang! Well done.
-+ Sep, 2022, I gave a [talk](https://imed.nimte.ac.cn/view-25467.html) at the **5th Belt and Road Forum for Young World Scholars** at the Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences. Thanks for Prof. Yitian Zhao's invitation!   
++ Sep, 2022, I gave a [talk](https://imed.nimte.ac.cn/view-25467.html) at the **5th Belt and Road （一带一路）Forum for Young World Scholars** at the Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences. Thanks for Prof. Yitian Zhao's invitation!   
 + Aug, 2022, One paper, 'Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks' was accepted by **IEEE Transactions on Medical Imaging (IEEE-TMI, 2022 IF: ~11.037)**
 + Aug, 2022, One paper, 'Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net' was accepted by **LAScarQS 2022 (MICCAI workshop)**. Congrats to Yuchen Zhang, who is an undergraduate student at the Peking University.
 + May, 2022, I have started to work as a Post-doc Research Associate under the advise by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).  
