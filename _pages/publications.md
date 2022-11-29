@@ -18,7 +18,7 @@ author_profile: true
 ### Journals  
 + Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning  
 **Yanda Meng**, Joshua Bridge, Yitian Zhao, Joddrell Martha, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng.  
-**IEEE Transactions on Intelligent Transportation System (2022 IF: ~9.551)**  [paper](), [code]().
+**IEEE Transactions on Intelligent Transportation System (2022 IF: ~9.551)**  [paper](), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).
 
 + Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, and Yalin Zheng.  
