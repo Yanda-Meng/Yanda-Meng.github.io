@@ -80,6 +80,11 @@ Arxiv [paper](https://arxiv.org/abs/2203.04643).
 # All publications  
 
 2022  
+
++ Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning  
+**Yanda Meng**, Joshua Bridge, Yitian Zhao, Joddrell Martha, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng.  
+**IEEE Transactions on Intelligent Transportation System (2022 IF: ~9.551)**  [paper](), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).  
+
 + Artificial Intelligence and Corneal Confocal Microscopy: the start of a beautiful relationship  
 Uazman Alam, Matthew Anson, **Yanda Meng**, Frank Preston, Varo Kirthi, Timothy L. Jackson, Paul Nderitu, Daniel J. Cuthbertson, Rayaz Malik, Yalin Zheng, Ioannis N. Petropoulos.  
 **Journal of Clinical Medicine (2022 IF: ~4.964)** [paper](https://www.mdpi.com/2077-0383/11/20/6199).  
