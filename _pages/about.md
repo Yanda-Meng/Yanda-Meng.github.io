@@ -26,7 +26,7 @@ About Me
   
 Recent News
 === 
-+ Nov, 2022, One paper, 'Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning Medical Image Analysis' was accepted by **Medical Image Analysis** (MedIA, 2022 IF: ~ 13.828).  
++ Nov, 2022, One paper, 'Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning Medical Image Analysis' was accepted by **Medical Image Analysis (MedIA, 2022 IF: ~ 13.828).**  
 + Nov, 2022, One paper, 'Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning' was accepted by **IEEE-Transactions on Intelligent Transportation System (IEEE-TITS, 2022 IF: ~9.551)**.  
 + Nov, 2022, I gave a [talk](https://sz.ustc.edu.cn/xwgg_show/993.html) at the **2nd Dushu (独墅) Youth Academic Forum** at Suzhou Institute For Advanced Research, USTC. Thanks for Prof. S.Kevin Zhou's invitation.  
 + Oct, 2022, I pass my Viva and become Dr. Meng now.
