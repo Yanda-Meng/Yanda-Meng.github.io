@@ -18,11 +18,11 @@ author_profile: true
 ### Journals  
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning   
 **Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Qiang Li, Yitian Zhao, Yalin Zheng.  
-**Medical Image Analysis (2022 IF:~ 13.828)** [paper](), [code](https://github.com/smallmax00/BAGCN-Covid19).  
+**Medical Image Analysis (2022 IF:~ 13.828)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003504?dgcid=rss_sd_all), [code](https://github.com/smallmax00/BAGCN-Covid19).  
 
 + Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning  
 **Yanda Meng**, Joshua Bridge, Yitian Zhao, Joddrell Martha, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng.  
-**IEEE Transactions on Intelligent Transportation System (2022 IF: ~9.551)**  [paper](), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).
+**IEEE Transactions on Intelligent Transportation System (2022 IF: ~9.551)**  [paper](https://ieeexplore.ieee.org/abstract/document/9990574), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).
 
 + Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, and Yalin Zheng.  
