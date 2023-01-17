@@ -18,7 +18,7 @@ author_profile: true
 ### Journals  
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning   
 **Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Qiang Li, Yitian Zhao, Yalin Zheng.  
-**Medical Image Analysis (2022 IF:~ 13.828)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003504?dgcid=rss_sd_all), [code](https://github.com/smallmax00/BAGCN-Covid19).  
+**Medical Image Analysis (2023 IF:~ 13.828)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003504?dgcid=rss_sd_all), [code](https://github.com/smallmax00/BAGCN-Covid19).  
 
 + Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning  
 **Yanda Meng**, Joshua Bridge, Yitian Zhao, Joddrell Martha, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng.  
@@ -30,11 +30,11 @@ author_profile: true
 
 + Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Ian J. C. MacCormick, Xiaowei Huang, and Yalin Zheng.  
-**IEEE Transactions on Medical Imaging (2022 IF: ~11.037)** [paper](https://ieeexplore.ieee.org/document/9594842), [code](https://github.com/smallmax00/Graph_Region_Boudnary).  
+**IEEE Transactions on Medical Imaging (2021 IF: ~10.048)** [paper](https://ieeexplore.ieee.org/document/9594842), [code](https://github.com/smallmax00/Graph_Region_Boudnary).  
 
 + Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes  
 *Frank G Preston, ***Yanda Meng**, Jamie Burgess, Maryam Ferdousi, Shazli Azmi, Ioannis N Petropoulos, Stephen Kaye, Rayaz A Malik, Yalin Zheng, Uazman Alam.  
-**Diabetologia (2022 IF: ~10.46)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf). <font color="#dd0000">(Front Cover of Mar 2022 Issue).</font><br />    
+**Diabetologia (2021 IF: ~10.122)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf). <font color="#dd0000">(Front Cover of Mar 2022 Issue).</font><br />    
 
 ### Conferences  
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
