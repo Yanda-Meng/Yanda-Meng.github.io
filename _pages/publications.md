@@ -83,23 +83,24 @@ Arxiv [paper](https://arxiv.org/abs/2203.04643).
 
 # All publications  
 
-2022  
+2023    
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning Medical Image Analysis  
 **Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Qiang Li, Yitian Zhao, Yalin Zheng.  
-**Medical Image Analysis (2022 IF:~ 13.828)** [paper](), [code](https://github.com/smallmax00/BAGCN-Covid19).  
+**Medical Image Analysis (IF:~ 13.828)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003504?dgcid=rss_sd_all), [code](https://github.com/smallmax00/BAGCN-Covid19).  
 
+2022
 + Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning  
 **Yanda Meng**, Joshua Bridge, Yitian Zhao, Joddrell Martha, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng.  
-**IEEE Transactions on Intelligent Transportation System (2022 IF: ~9.551)**  [paper](), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).  
+**IEEE Transactions on Intelligent Transportation System (IF: ~9.551)**  [paper](), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).  
 
 + Artificial Intelligence and Corneal Confocal Microscopy: the start of a beautiful relationship  
 Uazman Alam, Matthew Anson, **Yanda Meng**, Frank Preston, Varo Kirthi, Timothy L. Jackson, Paul Nderitu, Daniel J. Cuthbertson, Rayaz Malik, Yalin Zheng, Ioannis N. Petropoulos.  
-**Journal of Clinical Medicine (2022 IF: ~4.964)** [paper](https://www.mdpi.com/2077-0383/11/20/6199).  
+**Journal of Clinical Medicine (IF: ~4.964)** [paper](https://www.mdpi.com/2077-0383/11/20/6199).  
 
 
 + Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, and Yalin Zheng.  
-**IEEE Transactions on Medical Imaging (2022 IF: ~11.037)** [paper](https://ieeexplore.ieee.org/document/9870838), [code](https://github.com/smallmax00/Dual_Adaptive_Graph_Reasoning).  
+**IEEE Transactions on Medical Imaging (IF: ~11.037)** [paper](https://ieeexplore.ieee.org/document/9870838), [code](https://github.com/smallmax00/Dual_Adaptive_Graph_Reasoning).  
 
 + Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net  
 Yuchen Zhang, **Yanda Meng**, Yalin Zheng   
@@ -126,7 +127,7 @@ CVPR 2022 Oral. (oral accept rate: 4%, 8161 submissions) [paper](https://arxiv.o
 
 + Informed Consent In Facial Photograph Publishing: A Cross-sectional Pilot Study To Determine The Effectiveness Of Deidentification Methods  
 Frank G Preston, **Yanda Meng**, Yalin Zheng, James Hsuan, Kevin J Hamill, and Austin G McCormick.    
-Journal of Empirical Research on Human Research Ethics (J EMPIR RES HUM RES). [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459).  
+Journal of Empirical Research on Human Research Ethics (IF: ~1.742). [paper](https://journals.sagepub.com/doi/10.1177/15562646221075459).  
 
 2021
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
