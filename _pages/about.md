@@ -19,7 +19,9 @@ About Me
 + Email address: yanda.meng@liverpool.ac.uk
 
 
-<font color="#dd0000">Our group is looking for self-motivated interns (Undergraduate/Master), to work on the research areas of medical image analysis, data efficient learning, etc. Welcome to drop me an email with your CV. Remote collaboration is also welcome.</font><br />  
+<font color="#dd0000">I am on the academic job market for faculty positions! Please feel free to reach out if you have potential job opportunities in AI for Medical Imaging / Healthcare. [CV](https://drive.google.com/file/d/12Um7JsJu3CcCkxyFztI7g8zhLhPBEiPE/view?usp=sharing)</font><br />  
+
+
 
 
 
