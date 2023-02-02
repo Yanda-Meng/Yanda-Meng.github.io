@@ -16,10 +16,6 @@ author_profile: true
 # Selected publications (* means equal contribution)  
 
 ### Journals  
-+ Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model  
-***Yanda Meng**, *Frank G Preston, Maryam Ferdousi, Shazli Azmi, Ioannis Nikolaos Petropoulos, Stephen Kaye, Rayaz Ahmed Malik, Uazman Alam, Yalin Zheng.  
-**Journal of Clinical Medicine (IF: ~4.964)** [paper]().  
-
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning   
 **Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Qiang Li, Yitian Zhao, Yalin Zheng.  
 **Medical Image Analysis (2023 IF:~ 13.828)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003504?dgcid=rss_sd_all), [code](https://github.com/smallmax00/BAGCN-Covid19).  
@@ -35,6 +31,10 @@ author_profile: true
 + Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Yihong Qiao, Ian J. C. MacCormick, Xiaowei Huang, and Yalin Zheng.  
 **IEEE Transactions on Medical Imaging (2021 IF: ~10.048)** [paper](https://ieeexplore.ieee.org/document/9594842), [code](https://github.com/smallmax00/Graph_Region_Boudnary).  
+
++ Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model  
+***Yanda Meng**, *Frank G Preston, Maryam Ferdousi, Shazli Azmi, Ioannis Nikolaos Petropoulos, Stephen Kaye, Rayaz Ahmed Malik, Uazman Alam, Yalin Zheng.  
+**Journal of Clinical Medicine (2023 IF: ~4.964)** [paper]().  
 
 + Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes  
 *Frank G Preston, ***Yanda Meng**, Jamie Burgess, Maryam Ferdousi, Shazli Azmi, Ioannis N Petropoulos, Stephen Kaye, Rayaz A Malik, Yalin Zheng, Uazman Alam.  
