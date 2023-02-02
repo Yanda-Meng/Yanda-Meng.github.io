@@ -19,7 +19,7 @@ About Me
 + Email address: yanda.meng@liverpool.ac.uk
 
 
-<font color="#dd0000">I am on the job market, please contact me if you have potential job opportunities in AI for Medical Imaging / Healthcare. [CV](https://drive.google.com/file/d/12Um7JsJu3CcCkxyFztI7g8zhLhPBEiPE/view?usp=sharing)</font><br />  
+<font color="#dd0000">I am on the job market, please contact me if you have potential job opportunities in AI for Medical Imaging / Healthcare. </font><br /> [CV](https://drive.google.com/file/d/12Um7JsJu3CcCkxyFztI7g8zhLhPBEiPE/view?usp=sharing)  
 
 
 
