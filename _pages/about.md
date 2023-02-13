@@ -15,7 +15,7 @@ About Me
 
 + Postdoctoral Research Associate (2022.05 - now) in the Eye and Vision Science Department, University of Liverpool, UK, adviced by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/). He worked closely with [Dr Alam Uazman](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/uazman-alam/) from the University of Liverpool and [Prof. Yitian Zhao](https://ytianzhao.github.io/) from the Chinese Academy of Science.  
 + He had a Ph.D (2019-2022) in the Eye and Vision Science Department, University of Liverpool, UK, where he was supervised by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). He had a M.Sc (2017-2018) in the School of Computing, University of Leeds, UK and a B.Eng (2013-2017) in the Software Enginnering Department, Capital Normal Univertisty, China.
-+ Yanda's current research mainly focuses on Medical Image Analysis, Intelligent Transportation, and Data-Efficient Learning. He has published more than 20 papers in peer-reviewed journals and conferences, and first-authored more than 10 publications at prestigious journals/conferences, such as ICCV, ECCV, BMVC, MICCAI, IEEE-TMI, IEEE-TITS, MedIA, Diabetologia, etc.. He serves as a reviewer for many journals/conferences such as CVPR, ECCV, MICCAI, Medical Physics, MedIA, IEEE-TMI, IEE-TIP, IEEE-TCSVT, IEEE-JBHI, etc..  
++ Yanda's current research mainly focuses on Medical Image Analysis, Intelligent Transportation, and Data-Efficient Learning. He has published more than 20 papers in peer-reviewed journals and conferences, and first-authored more than 10 publications at prestigious journals/conferences, such as ICCV, ECCV, BMVC, MICCAI, IEEE-TMI, IEEE-TITS, MedIA, Diabetologia, etc.. He serves as a reviewer for many journals/conferences such as CVPR, ICCV, ECCV, MICCAI, Medical Physics, MedIA, IEEE-TMI, IEE-TIP, IEEE-TCSVT, IEEE-JBHI, etc..  
 + Email address: yanda.meng@liverpool.ac.uk
 
 
@@ -28,7 +28,9 @@ About Me
   
 Recent News
 === 
++ Feb, 2023, I was invited to be a reviewer for ICCV.
 + Feb, 2023, One paper, 'Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model' was accepted by **Journal of Clinical Medicine (JCM, 2022 IF: ~ 4.964)**
++ Jan, 2023, I was invited to be a reviewer for MedIA.
 + Nov, 2022, One paper, 'Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning Medical Image Analysis' was accepted by **Medical Image Analysis (MedIA, 2022 IF: ~ 13.828).**  
 + Nov, 2022, One paper, 'Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning' was accepted by **IEEE-Transactions on Intelligent Transportation System (IEEE-TITS, 2022 IF: ~9.551)**.  
 + Nov, 2022, I gave a [talk](https://sz.ustc.edu.cn/xwgg_show/993.html) at the **2nd Dushu (独墅) Youth Academic Forum** at Suzhou Institute For Advanced Research, USTC (中科大苏州高研院). Thanks for [Prof. S.Kevin Zhou](http://miraclelab.site/?page_id=149)'s invitation.  
@@ -66,8 +68,8 @@ Recent News
 Experience:
 ===
 + Reviewer:  
-**Conference**: CVPR (2022-now), ECCV (2022-now), MICCAI (2021-now), MIDL (2022-now), MIUA (2021-now)    
-**Journal**: IEEE-TMI (2022-now), IEEE-TIP (2022-now), IEEE-TCSVT (2022-now), IEEE-JBHI (2021-now), Medical Physics (2022-now), Frontier in Medicine (2022-now), etc.
+**Conference**: ICCV (2023-now), CVPR (2022-now), ECCV (2022-now), MICCAI (2021-now), MIDL (2022-now), MIUA (2021-now)    
+**Journal**: MedIA (2023-now), IEEE-TMI (2022-now), IEEE-TIP (2022-now), IEEE-TCSVT (2022-now), IEEE-JBHI (2021-now), Medical Physics (2022-now), Frontier in Medicine (2022-now), etc.
 
 
 
