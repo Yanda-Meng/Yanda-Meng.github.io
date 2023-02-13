@@ -28,7 +28,7 @@ About Me
   
 Recent News
 === 
-+ Feb, 2023, I was invited to be a reviewer for ICCV.
++ Feb, 2023, I was invited to be a reviewer for ICCV.  
 + Feb, 2023, One paper, 'Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model' was accepted by **Journal of Clinical Medicine (JCM, 2022 IF: ~ 4.964)**
 + Jan, 2023, I was invited to be a reviewer for MedIA.
 + Nov, 2022, One paper, 'Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning Medical Image Analysis' was accepted by **Medical Image Analysis (MedIA, 2022 IF: ~ 13.828).**  
