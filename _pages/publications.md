@@ -41,11 +41,6 @@ author_profile: true
 **Diabetologia (2021 IF: ~10.122)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf). <font color="#dd0000">(Front Cover of Mar 2022 Issue).</font><br />    
 
 ### Conferences  
-+ Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model  
-Hongrun Zhang, Liam Burrows, **Yanda Meng**, Declan Sclthorpe, Abhik Mukherjee, Sarah E Coupland, Ke Chen, Yalin Zheng.  
-IEEE Conference on Computer Vision and Pattern Recognition.   
-**CVPR 2023** (accept rate: 25.8%, 9155 submissions) [paper](), [code]().  
-
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
