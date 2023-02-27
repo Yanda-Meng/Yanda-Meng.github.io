@@ -42,7 +42,7 @@ author_profile: true
 
 ### Conferences  
 + Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model  
-Hongrun Zhang, Liam Burrows, ^†^**Yanda Meng**, Declan Sclthorpe, Abhik Mukherjee, Sarah E Coupland, Ke Chen, Yalin Zheng.  
+Hongrun Zhang, Liam Burrows, <sup>†</sup>^**Yanda Meng**, Declan Sclthorpe, Abhik Mukherjee, Sarah E Coupland, Ke Chen, Yalin Zheng.  
 IEEE Conference on Computer Vision and Pattern Recognition.   
 **CVPR 2023** (accept rate: 25.8%, 9155 submissions) [paper](), [code]().  
 
