@@ -13,7 +13,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-# Selected publications (* means equal contribution, )  
+# Selected publications (* means equal contribution, † means corresponding author)  
 
 ### Journals  
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning   
@@ -42,7 +42,9 @@ author_profile: true
 
 ### Conferences  
 + Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model  
-Hongrun Zhang, Liam Burrows, **Yanda Meng†**, Declan Sclthorpe, Abhik Mukherjee, Sarah E Coupland, Ke Chen, Yalin Zheng.
+Hongrun Zhang, Liam Burrows, **†Yanda Meng**, Declan Sclthorpe, Abhik Mukherjee, Sarah E Coupland, Ke Chen, Yalin Zheng.  
+IEEE Conference on Computer Vision and Pattern Recognition.   
+**CVPR 2023** (accept rate: 25.8%, 9155 submissions) [paper](), [code]().  
 
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
@@ -91,6 +93,11 @@ Arxiv [paper](https://arxiv.org/abs/2203.04643).
 # All publications  
 
 2023    
++ Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model  
+Hongrun Zhang, Liam Burrows, **†Yanda Meng**, Declan Sclthorpe, Abhik Mukherjee, Sarah E Coupland, Ke Chen, Yalin Zheng.  
+IEEE Conference on Computer Vision and Pattern Recognition.   
+**CVPR 2023** (accept rate: 25.8%, 9155 submissions) [paper](), [code]().  
+
 + Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model  
 ***Yanda Meng**, *Frank G Preston, Maryam Ferdousi, Shazli Azmi, Ioannis Nikolaos Petropoulos, Stephen Kaye, Rayaz Ahmed Malik, Uazman Alam, Yalin Zheng.  
 **Journal of Clinical Medicine (IF: ~4.964)** [paper]().  
