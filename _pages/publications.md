@@ -34,7 +34,7 @@ author_profile: true
 
 + Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model  
 ***Yanda Meng**, *Frank G Preston, Maryam Ferdousi, Shazli Azmi, Ioannis Nikolaos Petropoulos, Stephen Kaye, Rayaz Ahmed Malik, Uazman Alam, Yalin Zheng.  
-**Journal of Clinical Medicine (2023 IF: ~4.964)** [paper]().  
+**Journal of Clinical Medicine (2023 IF: ~4.964)** [paper](https://www.mdpi.com/2077-0383/12/4/1284).  
 
 + Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes  
 *Frank G Preston, ***Yanda Meng**, Jamie Burgess, Maryam Ferdousi, Shazli Azmi, Ioannis N Petropoulos, Stephen Kaye, Rayaz A Malik, Yalin Zheng, Uazman Alam.  
