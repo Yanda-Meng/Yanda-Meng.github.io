@@ -54,7 +54,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 + BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation  
 **Yanda Meng**, Hongrun Zhang, Dongxu Gao, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.  
 The British Machine Vision Conference.  
-**BMVC 2021 Oral** (Oral accept rate: 3.3%, 1206 submissions) [paper](https://www.bmvc2021-virtualconference.com/assets/papers/0097.pdf), [code](https://github.com/smallmax00/BI-GConv). <font color="#dd0000">(Oral).</font><br />  
+**BMVC 2021 Oral** (Oral accept rate: 3.3%, 1206 submissions) [paper](https://www.bmvc2021-virtualconference.com/assets/papers/0097.pdf), [code](https://github.com/smallmax00/BI-GConv). <font color="#dd0000">(Oral, selected as one of the best papers of BMVC2021 and invited to extend a journal version in Special Issue in IJCV).</font><br />  
 
 + Spatial Uncertainty-Aware Semi-Supervised Crowd Counting  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Xiaoyun Yang, Xuesheng Qian, Xiaowei Huang, and Yalin Zheng.      
