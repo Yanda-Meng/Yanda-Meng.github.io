@@ -25,6 +25,7 @@ About Me
   
 Recent News
 === 
+'''
 + Feb, One paper, 'Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model' was accepted by **CVPR 2023**.
 + Feb, 2023, I was invited to be a reviewer for ICCV.  
 + Feb, 2023, One paper, 'Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model' was accepted by **Journal of Clinical Medicine (JCM, 2022 IF: ~ 4.964)**
@@ -61,7 +62,7 @@ Recent News
 + May, 2020, One paper, "CNN-GCN Aggregation Enabled Boundary Regression for Biomedical Image Segmentation" was early accepted by **MICCAI 2020 (<font color="#dd0000">early accept</font> rate: 13.3%, 1809 submissions)**.
 + Apr, 2019, Started PhD study at the University of Liverpool; thanks to the fully-funded studentship from China Science IntelliCloud Technology Co., Ltd, Shanghai, China
 + Feb, 2019, Started internship as a machine vision engineer at Remark Holding, Ltd, Chengdu, China.
-
+'''
 
 Experience:
 ===
