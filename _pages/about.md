@@ -25,6 +25,12 @@ About Me
   
 Recent News
 === 
+```{css, echo=FALSE}
+pre {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
 ```{r}
  + Feb, One paper, 'Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model' was accepted by **CVPR 2023**.
  + Feb, 2023, I was invited to be a reviewer for ICCV.  
