@@ -7,7 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+```{r, include=FALSE}
+options(width = 60)
+local({
+  hook_output <- knitr::knit_hooks$get('output')
+  knitr::knit_hooks$set(output = function(x, options) {
+    if (!is.null(options$max.height)) options$attr.output <- c(
+      options$attr.output,
+      sprintf('style="max-height: %s;"', options$max.height)
+    )
+    hook_output(x, options)
+  })
+})
+```
 
 
 About Me
@@ -24,19 +36,7 @@ About Me
   
 Recent News
 === 
-```{r, include=FALSE}
-options(width = 60)
-local({
-  hook_output <- knitr::knit_hooks$get('output')
-  knitr::knit_hooks$set(output = function(x, options) {
-    if (!is.null(options$max.height)) options$attr.output <- c(
-      options$attr.output,
-      sprintf('style="max-height: %s;"', options$max.height)
-    )
-    hook_output(x, options)
-  })
-})
-```
+
 ```
 + Feb, One paper, 'Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model' was accepted by **CVPR 2023**.  
 + Feb, 2023, I was invited to be a reviewer for ICCV.  
