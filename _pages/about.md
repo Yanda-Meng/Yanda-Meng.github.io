@@ -13,13 +13,13 @@ redirect_from:
 About Me
 ====
 ```{r, max.height='100px'}
-1:100
-```
+
 + Postdoctoral Research Associate (2022.03 - now) in the Eye and Vision Science Department, University of Liverpool, UK, adviced by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/). He worked closely with [Dr Alam Uazman](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/uazman-alam/) from the University of Liverpool and [Prof. Yitian Zhao](https://ytianzhao.github.io/) from the Chinese Academy of Science.  
 + He had a Ph.D (2019-2022) in the Eye and Vision Science Department, University of Liverpool, UK, where he was supervised by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). He had a M.Sc (2017-2018) in the School of Computing, University of Leeds, UK and a B.Eng (2013-2017) in the Software Enginnering Department, Capital Normal Univertisty, China.
 + Yanda's current research mainly focuses on Medical Image Analysis, Intelligent Transportation, and Data-Efficient Learning. He has published more than 20 papers in peer-reviewed journals and conferences, and first-authored more than 10 publications at prestigious journals/conferences, such as ICCV, ECCV, BMVC, MICCAI, IEEE-TMI, IEEE-TITS, MedIA, Diabetologia, etc.. He serves as a reviewer for many journals/conferences such as CVPR, ICCV, ECCV, MICCAI, Medical Physics, MedIA, IEEE-TMI, IEE-TIP, IEEE-TCSVT, IEEE-JBHI, etc..  
 + Email address: yanda.meng@liverpool.ac.uk
-
+1:100
+```
 
 
 
