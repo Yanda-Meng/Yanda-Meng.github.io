@@ -82,6 +82,10 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 # All publications  
 
 2023    
++ Retinal Imaging Technologies in Cerebral Malaria: A Systematic Review  
++ Kyle J. Wilson, Amit Dhalla, **Yanda Meng**, Zhanhan Tu, Yalin Zheng, Priscilla P. Mhango, Karl B. Seydel, Nicholas A. V. Beare  
++ **Malaria Journal (IF: ~3.369)**  
+
 + Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model  
 Hongrun Zhang, Liam Burrows, **Yanda Meng**, Declan Sclthorpe, Abhik Mukherjee, Sarah E Coupland, Ke Chen, Yalin Zheng.  
 IEEE Conference on Computer Vision and Pattern Recognition.   
