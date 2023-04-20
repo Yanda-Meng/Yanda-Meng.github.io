@@ -17,7 +17,7 @@ author_profile: true
 
 ### Journals  
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning   
-**Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Qiang Li, Thomas Fitzmaurice, Caroline McCann, Yitian Zhao, Yalin Zheng.  
+**Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Thomas Fitzmaurice, Caroline McCann, Qiang Li, Yitian Zhao, Yalin Zheng.  
 **Medical Image Analysis (2023 IF:~ 13.828, SCI 1区)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003504?dgcid=rss_sd_all), [code](https://github.com/smallmax00/BAGCN-Covid19).  
 
 + Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning  
