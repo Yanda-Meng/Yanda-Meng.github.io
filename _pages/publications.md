@@ -96,7 +96,7 @@ IEEE Conference on Computer Vision and Pattern Recognition.
 **Journal of Clinical Medicine (IF: ~4.964)** [paper](https://www.mdpi.com/2077-0383/12/4/1284).  
 
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning Medical Image Analysis  
-**Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Qiang Li, Thomas Fitzmaurice, Caroline McCann, Yitian Zhao, Yalin Zheng.  
+**Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Thomas Fitzmaurice, Caroline McCann, Qiang Li, Yitian Zhao, Yalin Zheng.  
 **Medical Image Analysis (IF:~ 13.828)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003504?dgcid=rss_sd_all), [code](https://github.com/smallmax00/BAGCN-Covid19).  
 
 2022
