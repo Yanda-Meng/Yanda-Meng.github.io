@@ -87,6 +87,11 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 # All publications  
 
 2023    
+
++ Deep-learning using preoperative AS-OCT predicts graft detachment in DMEK  
+*Alastair Patefield, ***Yanda Meng**, Matteo Airaldi, Giulia Coco, Sabrina Vaccaro, Mohit Parekh, Francesco Semeraro, Kunal A Gadhvi, Stephen B Kaye, Yalin Zheng, Vito Romano  
+**Translational Vision Science and Technology (2023 IF: ~3.048, SCI 3区)** [paper]()  
+
 + Retinal Imaging Technologies in Cerebral Malaria: A Systematic Review  
   Kyle J. Wilson, Amit Dhalla, **Yanda Meng**, Zhanhan Tu, Yalin Zheng, Priscilla P. Mhango, Karl B. Seydel, Nicholas A. V. Beare  
   **Malaria Journal (IF: ~3.369)**  
