@@ -24,6 +24,7 @@ About Me
   
 Recent News
 === 
++ Apr, One paper, 'Deep-learning using preoperative AS-OCT predicts graft detachment in DMEK' was accepted by **TVST (2022 IF: 3.048)**
 + Apr, One paper, 'Retinal Imaging Technologies in Cerebral Malaria: A Systematic Review' was accepted by **Malaria Journal (2022 IF: 3.469)**.
 + Feb, One paper, 'Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model' was accepted by **CVPR 2023**.  
 + Feb, 2023, I was invited to be a reviewer for ICCV.  
