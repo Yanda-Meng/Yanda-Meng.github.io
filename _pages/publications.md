@@ -99,7 +99,7 @@ Malaria Journal (IF: ~3.369) [paper](https://malariajournal.biomedcentral.com/ar
 + Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model  
 Hongrun Zhang, Liam Burrows, **Yanda Meng**, Declan Sclthorpe, Abhik Mukherjee, Sarah E Coupland, Ke Chen, Yalin Zheng.  
 IEEE Conference on Computer Vision and Pattern Recognition.   
-CVPR 2023 (accept rate: 25.8%, 9155 submissions) [paper](), [code]().  
+CVPR 2023 (accept rate: 25.8%, 9155 submissions) [paper](https://arxiv.org/pdf/2304.03572.pdf), [code]().  
 
 + Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model  
 ***Yanda Meng**, *Frank G Preston, Maryam Ferdousi, Shazli Azmi, Ioannis Nikolaos Petropoulos, Stephen Kaye, Rayaz Ahmed Malik, Uazman Alam, Yalin Zheng.  
