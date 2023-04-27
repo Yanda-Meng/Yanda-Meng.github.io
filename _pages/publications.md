@@ -93,8 +93,8 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **Translational Vision Science and Technology (2023 IF: ~3.048, SCI 3区)** [paper]()  
 
 + Retinal Imaging Technologies in Cerebral Malaria: A Systematic Review  
-  Kyle J. Wilson, Amit Dhalla, **Yanda Meng**, Zhanhan Tu, Yalin Zheng, Priscilla P. Mhango, Karl B. Seydel, Nicholas A. V. Beare  
-  Malaria Journal (IF: ~3.369)   
+Kyle J. Wilson, Amit Dhalla, **Yanda Meng**, Zhanhan Tu, Yalin Zheng, Priscilla P. Mhango, Karl B. Seydel, Nicholas A. V. Beare  
+Malaria Journal (IF: ~3.369) [paper](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-023-04566-7)   
 
 + Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model  
 Hongrun Zhang, Liam Burrows, **Yanda Meng**, Declan Sclthorpe, Abhik Mukherjee, Sarah E Coupland, Ke Chen, Yalin Zheng.  
@@ -125,7 +125,7 @@ Journal of Clinical Medicine (IF: ~4.964) [paper](https://www.mdpi.com/2077-0383
 
 + Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net  
 Yuchen Zhang, **Yanda Meng**, Yalin Zheng   
-In The Left Atrial and Scar Quantification & Segmentation Challenge. LAScarQS 2022 (MICCAI 2022 Workshop) [paper](), [code](). <font color="#dd0000">(Best Paper Runner-Up).</font><br />  
+In The Left Atrial and Scar Quantification & Segmentation Challenge. LAScarQS 2022 (MICCAI 2022 Workshop) [paper](), [code](https://github.com/level6626/Boundary-focused-nnU-Net). <font color="#dd0000">(Best Paper Runner-Up).</font><br />  
 
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
