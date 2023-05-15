@@ -33,7 +33,6 @@ Recent News
 + Nov, 2022, One paper, 'Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning Medical Image Analysis' was accepted by **Medical Image Analysis (MedIA, 2022 IF: ~ 13.828).**  
 + Nov, 2022, One paper, 'Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning' was accepted by **IEEE-Transactions on Intelligent Transportation System (IEEE-TITS, 2022 IF: ~9.551)**.  
 + Nov, 2022, I gave a [talk](https://sz.ustc.edu.cn/xwgg_show/993.html) at the **2nd Dushu (独墅) Youth Academic Forum** at Suzhou Institute For Advanced Research, USTC (中科大苏州高研院). Thanks for [Prof. S.Kevin Zhou](http://miraclelab.site/?page_id=149)'s invitation.  
-+ Oct, 2022, I pass my Viva and become Dr. Meng now.
 + Oct, 2022, One paper, 'Artificial Intelligence and Corneal Confocal Microscopy: the start of a beautiful relationship' was accepted by **Journal of Clinical Medicine (JCM, 2022 IF: ~ 4.964)**
 + Sep, 2022, Our Work 'Automatically Segmenting the Left Atrium and Scars from LGE-MRIs Using a Boundary-Focused nnU-Net' won the <font color="#dd0000">best paper runner-up award</font> in LAScarQS 2022 (MICCAI workshop). Congrats to Yuchen Zhang! Well done.
 + Sep, 2022, I gave a [talk](https://imed.nimte.ac.cn/view-25467.html) at the **5th Belt and Road （一带一路）Forum for Young World Scholars** at the Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences （中科院慈溪医工所）. Thanks for [Prof. Yitian Zhao](https://ytianzhao.github.io/)'s invitation!   
