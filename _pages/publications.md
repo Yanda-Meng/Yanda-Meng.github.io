@@ -42,7 +42,7 @@ author_profile: true
 
 + Deep-learning using preoperative AS-OCT predicts graft detachment in DMEK  
 *Alastair Patefield, ***Yanda Meng**, Matteo Airaldi, Giulia Coco, Sabrina Vaccaro, Mohit Parekh, Francesco Semeraro, Kunal A Gadhvi, Stephen B Kaye, Yalin Zheng, Vito Romano  
-**Translational Vision Science and Technology (2023 IF: ~3.048, SCI 3区)** [paper]()  
+**Translational Vision Science and Technology (2023 IF: ~3.048, SCI 3区)** [paper](https://tvst.arvojournals.org/article.aspx?articleid=2785617)  
 
 
 ### Conferences  
