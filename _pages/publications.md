@@ -125,7 +125,7 @@ Journal of Clinical Medicine (IF: ~4.964) [paper](https://www.mdpi.com/2077-0383
 
 + Automatically Segment the Left Atrium and Scars from LGE-MRIs Using a Boundary-focused nnU-Net  
 Yuchen Zhang, **Yanda Meng**, Yalin Zheng   
-In The Left Atrial and Scar Quantification & Segmentation Challenge. LAScarQS 2022 (MICCAI 2022 Workshop) [paper](https://arxiv.org/pdf/2304.14071.pdf), [code](https://github.com/level6626/Boundary-focused-nnU-Net). <font color="#dd0000">(Best Paper Runner-Up).</font><br />  
+In The Left Atrial and Scar Quantification & Segmentation Challenge. LAScarQS 2022 (MICCAI 2022 Workshop) [paper](https://link.springer.com/chapter/10.1007/978-3-031-31778-1_5), [code](https://github.com/level6626/Boundary-focused-nnU-Net). <font color="#dd0000">(Best Paper Runner-Up).</font><br />  
 
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
 **Yanda Meng**, Xu Chen, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, Yalin Zheng  
