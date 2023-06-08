@@ -62,12 +62,6 @@ Recent News
 + Feb, 2019, Started internship as a machine vision engineer at Remark Holding, Ltd, Chengdu, China.
 
 
-Experience:
-===
-+ Reviewer:  
-**Conference**: ICCV (2023-now), CVPR (2022-now), ECCV (2022-now), MICCAI (2021-now), MIDL (2022-now), MIUA (2021-now)    
-**Journal**: MedIA (2023-now), IEEE-TMI (2022-now), IEEE-TIP (2022-now), IEEE-TCSVT (2022-now), IEEE-JBHI (2021-now), Medical Physics (2022-now), Frontier in Medicine (2022-now), etc.
-
 
 
 
