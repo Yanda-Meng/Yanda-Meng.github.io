@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. Software Engineering, Capital Normal University, Beijing, China, Sep 2013 - June 2017
-* M.Sc Advanced Computer Science, University of Leeds, Leeds, UK, Sep 2017 - Dec 2018
-* Ph.D, Biometric and Biomedical Image Computing, University of Liverpool, Liverpool, UK, April 2019 - Oct 2022
+* B.Eng. Software Engineering, Capital Normal University, Beijing, China, 2013 - June 2017
+* M.Sc. Advanced Computer Science, University of Leeds, Leeds, UK, 2017 - 2018
+* Ph.D. Biometric and Biomedical Image Computing, University of Liverpool, Liverpool, UK, 2019 - 2022
 
 
 Work Experience
