@@ -22,7 +22,7 @@ About Me
 
 
   
-Recent News
+News
 === 
 + Apr, One paper, 'Deep-learning using preoperative AS-OCT predicts graft detachment in DMEK' was accepted by **Translational Vision Science and Technology (TVST, 2023 IF: 3.048)**
 + Apr, One paper, 'Retinal Imaging Technologies in Cerebral Malaria: A Systematic Review' was accepted by **Malaria Journal (2023 IF: 3.469)**.
