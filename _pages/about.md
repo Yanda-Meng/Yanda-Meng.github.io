@@ -26,10 +26,8 @@ News
 === 
 + Apr, One paper, 'Deep-learning using preoperative AS-OCT predicts graft detachment in DMEK' was accepted by **Translational Vision Science and Technology (TVST, 2023 IF: 3.048)**
 + Apr, One paper, 'Retinal Imaging Technologies in Cerebral Malaria: A Systematic Review' was accepted by **Malaria Journal (2023 IF: 3.469)**.
-+ Feb, One paper, 'Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model' was accepted by **CVPR 2023**.  
-+ Feb, 2023, I was invited to be a reviewer for ICCV.  
++ Feb, One paper, 'Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model' was accepted by **CVPR 2023**.   
 + Feb, 2023, One paper, 'Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model' was accepted by **Journal of Clinical Medicine (JCM, 2023 IF: ~ 4.964)**  
-+ Jan, 2023, I was invited to be a reviewer for MedIA.  
 + Nov, 2022, One paper, 'Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning Medical Image Analysis' was accepted by **Medical Image Analysis (MedIA, 2022 IF: ~ 13.828).**  
 + Nov, 2022, One paper, 'Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning' was accepted by **IEEE-Transactions on Intelligent Transportation System (IEEE-TITS, 2022 IF: ~9.551)**.  
 + Nov, 2022, I gave a [talk](https://sz.ustc.edu.cn/xwgg_show/993.html) at the **2nd Dushu (独墅) Youth Academic Forum** at Suzhou Institute For Advanced Research, University of Science and Technology of China (中科大苏州高研院). Thanks for [Prof. S.Kevin Zhou](http://miraclelab.site/?page_id=149)'s invitation.  
@@ -41,11 +39,8 @@ News
 + Apr, 2022, One paper, "3D Human Pose and Shape Reconstruction from Videos via Confidence-Aware Temporal Feature Aggregation" was accepted by **IEEE Transactions on Multimedia (IEEE-TMM, IF: ~ 8.182)**.
 + Mar, 2022, I have started to work as a Post-doc Research Associate under the advise by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).  
 + Mar, 2022, Our accepted **CVPR 2022** paper "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was selected as an <font color="#dd0000">Oral</font> presentation, top **4 % out of 8161 submission**.
-+ Mar, 2022, I was invited to be a reviewer for ECCV.
 + Mar, 2022, One paper, "DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification" was accepted by **CVPR 2022**. 
-+ Feb, 2022, I was invited to be a reviewer for CVPR.
 + Jan, 2022, Our accepted paper "Artificial intelligence utilizing corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes" was selected as the <font color="#dd0000">front cover</font> of **Diabetologia (IF: ~10.122)**, in the upcoming volume of Mar 2022.
-+ Jan, 2022, I was invited to be a reviewer for IEEE TMI.
 + Jan, 2022, One paper, "Informed consent in facial photograph publishing: a cross-sectional pilot study to determine the effectiveness of deidentification methods" was accepted by **Journal of Empirical Research on Human Research Ethics**.  
 + Nov, 2021, Start as a research intern at the Institute of Biomedical Engineering, University of Oxford, with Dr. [Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) and Prof. [Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher).  
 + Oct, 2021, One paper, "BI-GCN: Boundary-Aware Input-Dependent Graph Convolution Network for Biomedical Image Segmentation" was accepted by **BMVC 2021** as <font color="#dd0000">Oral</font> **(Oral accept rate: 3.3%, 1206 submissions)**  
