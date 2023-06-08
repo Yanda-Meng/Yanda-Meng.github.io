@@ -43,7 +43,18 @@ Work with [Dr. Yalin Zheng](https://www.liverpool.ac.uk/life-course-and-medical-
 Work on gender, age classification project.  
 
 
+Talks
+======
+Nov, 2022, I gave a [talk](https://sz.ustc.edu.cn/xwgg_show/993.html) at the **2nd Dushu (独墅) Youth Academic Forum** at Suzhou Institute For Advanced Research, University of Science and Technology of China (中科大苏州高研院). Thanks for [Prof. S.Kevin Zhou](http://miraclelab.site/?page_id=149)'s invitation.  
+Sep, 2022, I gave a [talk](https://imed.nimte.ac.cn/view-25467.html) at the **5th Belt and Road （一带一路）Forum for Young World Scholars** at the Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences （中科院慈溪医工所）. Thanks for [Prof. Yitian Zhao](https://ytianzhao.github.io/)'s invitation!   
 
-  
+
+Academic Services
+======
++ Reviewer:  
+Conference: ICCV (2023-now), CVPR (2022-now), ECCV (2022-now), MICCAI (2021-now), MIDL (2022-now), MIUA (2021-now)    
+Journal: MedIA (2023-now), IEEE-TMI (2022-now), IEEE-TIP (2022-now), IEEE-TCSVT (2022-now), IEEE-JBHI (2021-now), Medical Physics (2022-now), Frontier in Medicine (2022-now), etc.  
++ Guest Editor:
+Special Issue of 'Efficient AI in Ophthalmic Imaging' for Frontier in Medicine (ophthalmology) 
 
 
