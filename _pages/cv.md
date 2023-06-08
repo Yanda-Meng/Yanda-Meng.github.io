@@ -45,8 +45,8 @@ Work on gender, age classification project.
 
 Talks
 ======
-Nov, 2022, I gave a [talk](https://sz.ustc.edu.cn/xwgg_show/993.html) at the **2nd Dushu (独墅) Youth Academic Forum** at Suzhou Institute For Advanced Research, University of Science and Technology of China (中科大苏州高研院). Thanks for [Prof. S.Kevin Zhou](http://miraclelab.site/?page_id=149)'s invitation.  
-Sep, 2022, I gave a [talk](https://imed.nimte.ac.cn/view-25467.html) at the **5th Belt and Road （一带一路）Forum for Young World Scholars** at the Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences （中科院慈溪医工所）. Thanks for [Prof. Yitian Zhao](https://ytianzhao.github.io/)'s invitation!   
++ Nov, 2022, I gave a [talk](https://sz.ustc.edu.cn/xwgg_show/993.html) at the **2nd Dushu (独墅) Youth Academic Forum** at Suzhou Institute For Advanced Research, University of Science and Technology of China (中科大苏州高研院). Thanks for [Prof. S.Kevin Zhou](http://miraclelab.site/?page_id=149)'s invitation.  
++ Sep, 2022, I gave a [talk](https://imed.nimte.ac.cn/view-25467.html) at the **5th Belt and Road （一带一路）Forum for Young World Scholars** at the Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences （中科院慈溪医工所）. Thanks for [Prof. Yitian Zhao](https://ytianzhao.github.io/)'s invitation!   
 
 
 Academic Services
