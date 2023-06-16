@@ -24,10 +24,10 @@ About Me
   
 News
 === 
-+ June, We are organizing a special issue of [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging) on Frontiers in Medicine Ophthalmology.
-+ Apr, One paper, 'Deep-learning using preoperative AS-OCT predicts graft detachment in DMEK' was accepted by **Translational Vision Science and Technology (TVST, 2023 IF: 3.048)**
++ June 2023, We are organizing a special issue of [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging) on Frontiers in Medicine Ophthalmology.
++ Apr 2023, One paper, 'Deep-learning using preoperative AS-OCT predicts graft detachment in DMEK' was accepted by **Translational Vision Science and Technology (TVST, 2023 IF: 3.048)**
 + Apr, One paper, 'Retinal Imaging Technologies in Cerebral Malaria: A Systematic Review' was accepted by **Malaria Journal (2023 IF: 3.469)**.
-+ Feb, One paper, 'Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model' was accepted by **CVPR 2023**.   
++ Feb 2023, One paper, 'Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model' was accepted by **CVPR 2023**.   
 + Feb, 2023, One paper, 'Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model' was accepted by **Journal of Clinical Medicine (JCM, 2023 IF: ~ 4.964)**  
 + Nov, 2022, One paper, 'Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning Medical Image Analysis' was accepted by **Medical Image Analysis (MedIA, 2022 IF: ~ 13.828).**  
 + Nov, 2022, One paper, 'Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning' was accepted by **IEEE-Transactions on Intelligent Transportation System (IEEE-TITS, 2022 IF: ~9.551)**.  
