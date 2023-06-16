@@ -51,10 +51,11 @@ Talks
 
 Academic Services
 ======
++ Guest Editor:
+Frontiers in Medcine Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging)  
 + Reviewer:  
 Conference: ICCV (2023-now), CVPR (2022-now), ECCV (2022-now), MICCAI (2021-now), MIDL (2022-now), MIUA (2021-now)    
-Journal: MedIA (2023-now), IEEE-TMI (2022-now), IEEE-TIP (2022-now), IEEE-TCSVT (2022-now), IEEE-JBHI (2021-now), Medical Physics (2022-now), Frontier in Medicine (2022-now), etc.  
-+ Guest Editor:  
-Special Issue of 'Efficient AI in Ophthalmic Imaging' for Frontier in Medicine (ophthalmology), IF:~ 5.058
+Journal: MedIA (2023-now), IEEE-TMI (2022-now), IEEE-TIP (2022-now), IEEE-TCSVT (2022-now), IEEE-JBHI (2021-now), Medical Physics (2022-now), Frontier in Medicine (2022-now), Artificial Intelligence in Medicine (2023-now) etc.  
+
 
 
