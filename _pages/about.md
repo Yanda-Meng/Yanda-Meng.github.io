@@ -24,6 +24,7 @@ About Me
   
 News
 === 
++ June, We are organizing a special issue of [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging) on Frontiers in Medicine Ophthalmology.
 + Apr, One paper, 'Deep-learning using preoperative AS-OCT predicts graft detachment in DMEK' was accepted by **Translational Vision Science and Technology (TVST, 2023 IF: 3.048)**
 + Apr, One paper, 'Retinal Imaging Technologies in Cerebral Malaria: A Systematic Review' was accepted by **Malaria Journal (2023 IF: 3.469)**.
 + Feb, One paper, 'Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model' was accepted by **CVPR 2023**.   
