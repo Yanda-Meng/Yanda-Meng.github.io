@@ -51,7 +51,7 @@ Talks
 
 Academic Services
 ======
-+ Guest Editor:
++ Lead Guest Editor:
 Frontiers in Medcine Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging)  
 + Reviewer:  
 Conference: ICCV (2023-now), CVPR (2022-now), ECCV (2022-now), MICCAI (2021-now), MIDL (2022-now), MIUA (2021-now)    
