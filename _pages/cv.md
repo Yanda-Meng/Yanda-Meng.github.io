@@ -23,8 +23,8 @@ Work Experience
 With [Prof.Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and [Dr. Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).     
 
 2021.11 - 2022.02:  
-**Institute of Biomedical Engineering , University of Oxford, UK. (Research Assistant)**  
-Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) and [Prof.  Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher) on endoscope segmentation project. 
+**Institute of Biomedical Engineering, University of Oxford, UK. (Research Assistant)**  
+Work with [Dr. Sharib Ali](https://eng.ox.ac.uk/people/sharib-ali/) and [Prof.  Jens Rittscher](https://www.ndm.ox.ac.uk/team/jens-rittscher) on an endoscope segmentation project. 
 
 2021.09 - 2021.11:  
 **Department of Eye and Vision Science, University of Liverpool, UK. (Research Assistant)**  
@@ -52,10 +52,10 @@ Talks
 Academic Services
 ======
 + Lead Guest Editor:
-Frontiers in Medcine Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging)  
+Frontiers in Medicine Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging)  
 + Reviewer:  
-Conference: ICCV (2023-now), CVPR (2022-now), ECCV (2022-now), MICCAI (2021-now), MIDL (2022-now), MIUA (2021-now)    
-Journal: MedIA (2023-now), IEEE-TMI (2022-now), IEEE-TIP (2022-now), IEEE-TCSVT (2022-now), IEEE-JBHI (2021-now), Medical Physics (2022-now), Frontier in Medicine (2022-now), Artificial Intelligence in Medicine (2023-now) etc.  
+Conference: ICCV, CVPR, ECCV, MICCAI, MIDL    
+Journal: MedIA, IEEE-TMI, IEEE-TIP, IEEE-TCSVT, IEEE-JBHI, Medical Physics, Frontier in Medicine, Artificial Intelligence in Medicine, CMIG, etc.  
 
 
 
