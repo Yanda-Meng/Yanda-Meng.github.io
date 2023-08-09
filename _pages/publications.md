@@ -88,7 +88,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 2023    
 + Development and External Validation of a Mixed-Effects Deep Learning Model to Diagnose COVID-19 from CT Imaging  
-Joshua Beidge, **Yanda Meng**, Wenyue Zhu, Thomas Fitzmaurice, Caroline McCann, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Yitian Zhao, Yalin Zheng
+Joshua Beidge, **Yanda Meng**, Wenyue Zhu, Thomas Fitzmaurice, Caroline McCann, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Yitian Zhao, Yalin Zheng  
 Frontiers in Medicine, section Nuclear Medicine (2023 IF: 5.058) [paper](), [code](https://github.com/JTBridge/ME-COVID19)    
 
 + Deep-learning using preoperative AS-OCT predicts graft detachment in DMEK  
