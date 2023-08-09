@@ -87,10 +87,13 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 # All publications  
 
 2023    
++ Development and External Validation of a Mixed-Effects Deep Learning Model to Diagnose COVID-19 from CT Imaging  
+Joshua Beidge, **Yanda Meng**, Wenyue Zhu, Thomas Fitzmaurice, Caroline McCann, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Yitian Zhao, Yalin Zheng  
+Frontiers in Medicine, section Nuclear Medicine (2023 IF: 5.058) [paper]()  
 
 + Deep-learning using preoperative AS-OCT predicts graft detachment in DMEK  
 *Alastair Patefield, ***Yanda Meng**, Matteo Airaldi, Giulia Coco, Sabrina Vaccaro, Mohit Parekh, Francesco Semeraro, Kunal A Gadhvi, Stephen B Kaye, Yalin Zheng, Vito Romano  
-**Translational Vision Science and Technology (2023 IF: ~3.048)** [paper]()  
+**Translational Vision Science and Technology (2023 IF: ~3.048)** [paper](https://pubmed.ncbi.nlm.nih.gov/37184500/)  
 
 + Retinal Imaging Technologies in Cerebral Malaria: A Systematic Review  
 Kyle J. Wilson, Amit Dhalla, **Yanda Meng**, Zhanhan Tu, Yalin Zheng, Priscilla P. Mhango, Karl B. Seydel, Nicholas A. V. Beare  
