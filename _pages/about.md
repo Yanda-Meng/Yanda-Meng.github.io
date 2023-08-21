@@ -24,6 +24,7 @@ About Me
   
 News
 === 
++ Aug 2023, One paper, 'Weakly/Semi-supervised Left Ventricle Segmentation in 2D Echocardiography with Uncertain Region-aware Contrastive Learning' was accepted by **PRCV 2023**.
 + Aug 2023, One paper, 'Development and External Validation of a Mixed-Effects Deep Learning Model to Diagnose COVID-19 from CT Imaging' was accepted by Frontiers in Medicine, section Nuclear Medicine (2023 IF: 3.9).  
 + June 2023, I am the leading guest editor for a special issue of [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging) on Frontiers in Medicine, section Ophthalmology (2023 IF: 5.058).
 + Apr 2023, One paper, 'Deep-learning using preoperative AS-OCT predicts graft detachment in DMEK' was accepted by **Translational Vision Science and Technology (TVST, 2023 IF: 3.048)**
