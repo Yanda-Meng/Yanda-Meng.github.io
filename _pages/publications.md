@@ -49,7 +49,7 @@ author_profile: true
 + Weakly/Semi-supervised Left Ventricle Segmentation in 2D Echocardiography with Uncertain Region-aware Contrastive Learning  
 ***Yanda Meng**, *Yuchen Zhang, Jianyang Xie, Jinming Duan, Yitian Zhao, Yalin Zheng  
 Chinese Conference on Pattern Recognition and Computer Vision.  
-**PRCV 2023** (CCF-C)[paper](),[code]().  
+**PRCV 2023** (CCF-C) [paper](), [code]().  
 
 
 + Shape-Aware Weakly/Semi-Supervised Optic Disc and Cup Segmentation with Regional/Marginal Consistency  
@@ -96,7 +96,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 + Weakly/Semi-supervised Left Ventricle Segmentation in 2D Echocardiography with Uncertain Region-aware Contrastive Learning  
 ***Yanda Meng**, *Yuchen Zhang, Jianyang Xie, Jinming Duan, Yitian Zhao, Yalin Zheng  
 Chinese Conference on Pattern Recognition and Computer Vision.  
-**PRCV 2023** (CCF-C)[paper](),[code]().
+**PRCV 2023** (CCF-C) [paper](), [code]().
   
 + Development and External Validation of a Mixed-Effects Deep Learning Model to Diagnose COVID-19 from CT Imaging  
 Joshua Beidge, **Yanda Meng**, Wenyue Zhu, Thomas Fitzmaurice, Caroline McCann, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Yitian Zhao, Yalin Zheng  
