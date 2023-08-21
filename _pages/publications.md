@@ -46,9 +46,9 @@ author_profile: true
 
 
 ### Conferences  
-+ Weakly/Semi-supervised Left Ventricle Segmentation in 2D Echocardiography with Uncertain Region-aware Contrastive Learning
-***Yanda Meng**, *Yuchen Zhang, Jianyang Xie, Jinming Duan, Yitian Zhao, Yalin Zheng
-Chinese Conference on Pattern Recognition and Computer Vision.
++ Weakly/Semi-supervised Left Ventricle Segmentation in 2D Echocardiography with Uncertain Region-aware Contrastive Learning  
+***Yanda Meng**, *Yuchen Zhang, Jianyang Xie, Jinming Duan, Yitian Zhao, Yalin Zheng  
+Chinese Conference on Pattern Recognition and Computer Vision.  
 **PRCV 2023** (CCF-C)[paper](),[code]().  
 
 
