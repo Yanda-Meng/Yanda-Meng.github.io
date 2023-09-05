@@ -45,8 +45,9 @@ Work on gender, age classification project.
 
 Talks
 ======
++ May, 2023, I gave a talk at the 1st AI in Healthcare Workshop at the University of Portsmouth, School of Computing. Thanks for [Dr. Dongxu Gao](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/dongxu-gao)’s invitation.  
 + Nov, 2022, I gave a [talk](https://sz.ustc.edu.cn/xwgg_show/993.html) at the **2nd Dushu (独墅) Youth Academic Forum** at Suzhou Institute For Advanced Research, University of Science and Technology of China (中科大苏州高研院). Thanks for [Prof. S.Kevin Zhou](http://miraclelab.site/?page_id=149)'s invitation.  
-+ Sep, 2022, I gave a [talk](https://imed.nimte.ac.cn/view-25467.html) at the **5th Belt and Road （一带一路）Forum for Young World Scholars** at the Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences （中科院慈溪医工所）. Thanks for [Prof. Yitian Zhao](https://ytianzhao.github.io/)'s invitation!   
++ Sep, 2022, I gave a [talk](https://imed.nimte.ac.cn/view-25467.html) at the **5th Belt and Road （一带一路）Forum for Young World Scholars** at the Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences （中科院慈溪医工所）. Thanks for [Prof. Yitian Zhao](https://ytianzhao.github.io/)'s invitation.   
 
 
 Academic Services
@@ -55,7 +56,7 @@ Academic Services
 Frontiers in Medicine Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging)  
 + Reviewer:  
 Conference: ICCV, CVPR, ECCV, AAAI, MICCAI, MIDL    
-Journal: MedIA, IEEE-TMI, IEEE-TIP, IEEE-TCSVT, IEEE-JBHI, Medical Physics, Frontier in Medicine, Artificial Intelligence in Medicine, CMIG, etc.  
+Journal: MedIA, IEEE-TMI, IEEE-TIP, IEEE-TCSVT, IEEE-JBHI, Medical Physics, Frontier in Medicine, Artificial Intelligence in Medicine, Computerized Medical Imaging and Graphics, Computers in Biology and Medicine, etc.  
 
 
 
