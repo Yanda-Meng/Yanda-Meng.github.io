@@ -26,6 +26,7 @@ About Me
   
 News
 === 
++ Nov 2023, I gave a talk at the **6th Forum for Young World Scholars** at the Cixi Institute of Biomedical Engineering, Chinese Academy of Sciences （中科院慈溪医工所）. Thanks for [Prof. Yitian Zhao](https://ytianzhao.github.io/)'s invitation!
 + Aug 2023, One paper, 'Weakly/Semi-supervised Left Ventricle Segmentation in 2D Echocardiography with Uncertain Region-aware Contrastive Learning' was accepted by **PRCV 2023 (accept rate: 37.95% out of 1420 submissions)**.
 + Aug 2023, One paper, 'Development and External Validation of a Mixed-Effects Deep Learning Model to Diagnose COVID-19 from CT Imaging' was accepted by **Frontiers in Medicine, section Nuclear Medicine (2023 IF: 3.9)**.  
 + June 2023, I am the leading guest editor for a special issue of [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging) on **Frontiers in Medicine, section Ophthalmology (2023 IF: 5.058)**.
