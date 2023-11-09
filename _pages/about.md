@@ -19,7 +19,8 @@ About Me
 + Email address: myd@liverpool.ac.uk  
 
 
-<font color="#dd0000">I will join the Department of Computer Science, University of Exeter in 2024 Spring. I am looking for self-motivated MRes and Ph. D students. If you are interested in working with me, please send me an email about your interests and background (CV, transcripts, etc..) 欢迎 CSC,联培, 访问的学生和老师联系我 </font>  
+<font color="#dd0000">I will join the Department of Computer Science, University of Exeter in 2024 Spring. I am looking for self-motivated MRes and Ph. D students. If you are interested in working with me, please send me an email about your interests and background (CV, transcripts, etc..)  
+欢迎 CSC,联培, 访问的学生和老师联系我 </font>  
 
 
   
