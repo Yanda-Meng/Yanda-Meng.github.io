@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanda Meng"
 title_separator          : "-"
 name                     : &name "Yanda Meng"
-description              : &description "3rd PhD at University of Liverpool"
+description              : &description "Lecturer @CS Uni of Exeter"
 url                      : https://Yanda-Meng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yanda-Meng/Yanda-Meng.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yanda Meng"
-  avatar           : "yanda.jpeg"
+  avatar           : "mugshot.jpeg"
   bio              : "A fun guy"
   location         : "Liverpool, UK"
   employer         :
