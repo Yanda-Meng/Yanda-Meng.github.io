@@ -19,11 +19,6 @@ author_profile: true
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning   
 **Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Thomas Fitzmaurice, Caroline McCann, Qiang Li, Yitian Zhao, Yalin Zheng.  
 **Medical Image Analysis (2023 IF:~ 13.828, SCI 1区)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003504?dgcid=rss_sd_all), [code](https://github.com/smallmax00/BAGCN-Covid19).  
-
-+ Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning  
-**Yanda Meng**, Joshua Bridge, Yitian Zhao, Joddrell Martha, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng.  
-**IEEE Transactions on Intelligent Transportation System (2022 IF: ~9.551, SCI 1区)**  [paper](https://ieeexplore.ieee.org/abstract/document/9990574), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).
-
 + Dual Consistency Enabled Weakly and Semi-Supervised Optic Disc and Cup Segmentation with Dual Adaptive Graph Convolutional Networks  
 **Yanda Meng**, Hongrun Zhang, Yitian Zhao, Dongxu Gao, Barbra Hamill, Godhuli Patri, Tunde Peto, Savita Madhusudhan, and Yalin Zheng.  
 **IEEE Transactions on Medical Imaging (2022 IF: ~11.037, SCI 1区)** [paper](https://ieeexplore.ieee.org/document/9870838), [code](https://github.com/smallmax00/Dual_Adaptive_Graph_Reasoning).  
@@ -34,7 +29,11 @@ author_profile: true
 
 + Artificial intelligence utilising corneal confocal microscopy for the diagnosis of peripheral neuropathy in diabetes mellitus and prediabetes  
 *Frank G Preston, ***Yanda Meng**, Jamie Burgess, Maryam Ferdousi, Shazli Azmi, Ioannis N Petropoulos, Stephen Kaye, Rayaz A Malik, Yalin Zheng, Uazman Alam.  
-**Diabetologia (2021 IF: ~10.122, SCI 1区)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf). <font color="#dd0000">(Front Cover of Mar 2022 Issue).</font><br />  
+**Diabetologia (2021 IF: ~10.122, SCI 1区)** [paper](https://link.springer.com/content/pdf/10.1007/s00125-021-05617-x.pdf). <font color="#dd0000">(封面文章，Front Cover of Mar 2022 Issue).</font><br />  
+
++ Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning  
+**Yanda Meng**, Joshua Bridge, Yitian Zhao, Joddrell Martha, Yihong Qiao, Xiaoyun Yang, Xiaowei Huang, Yalin Zheng.  
+**IEEE Transactions on Intelligent Transportation System (2022 IF: ~9.551, SCI 1区)**  [paper](https://ieeexplore.ieee.org/abstract/document/9990574), [code](https://github.com/smallmax00/Counting_With_Adaptive_Auxiliary_Learning).  
 
 + Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model  
 ***Yanda Meng**, *Frank G Preston, Maryam Ferdousi, Shazli Azmi, Ioannis Nikolaos Petropoulos, Stephen Kaye, Rayaz Ahmed Malik, Uazman Alam, Yalin Zheng.  
