@@ -46,6 +46,11 @@ author_profile: true
 
 
 ### Conferences  
++ Dynamic Semantic-based Graph Convolution Network for Skeleton-based Human Action Recognition
+Jianyang Xie, Yanda Meng†, Yitian Zhao, Anh Nguyen, Xiaoyun Yang, Yalin Zheng†
+Thirty-Eighth AAAI Conference on Artificial Intelligence
+**AAAI 2024** (CCF-A) [paper](),  [code]().  
+
 + Weakly/Semi-supervised Left Ventricle Segmentation in 2D Echocardiography with Uncertain Region-aware Contrastive Learning  
 ***Yanda Meng**, *Yuchen Zhang, Jianyang Xie, Jinming Duan, Yitian Zhao, Yalin Zheng  
 Chinese Conference on Pattern Recognition and Computer Vision.  
