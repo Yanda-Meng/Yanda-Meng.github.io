@@ -96,13 +96,15 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 # All publications  
 
-2023    
+2024  
 
 + Dynamic Semantic-based Graph Convolution Network for Skeleton-based Human Action Recognition  
 Jianyang Xie, **Yanda Meng<sup>†</sup>**, Yitian Zhao, Anh Nguyen, Xiaoyun Yang, Yalin Zheng<sup>†</sup>  
 Thirty-Eighth AAAI Conference on Artificial Intelligence  
-**AAAI 2024** (CCF-A) [paper](),  [code]().  
+**AAAI 2024** (CCF-A) [paper](),  [code]().
   
+2023    
+
 + Weakly/Semi-supervised Left Ventricle Segmentation in 2D Echocardiography with Uncertain Region-aware Contrastive Learning  
 ***Yanda Meng**, *Yuchen Zhang, Jianyang Xie, Jinming Duan, Yitian Zhao, Yalin Zheng  
 Chinese Conference on Pattern Recognition and Computer Vision.  
