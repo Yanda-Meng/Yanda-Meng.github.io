@@ -47,7 +47,7 @@ author_profile: true
 
 ### Conferences  
 + Dynamic Semantic-based Graph Convolution Network for Skeleton-based Human Action Recognition  
-Jianyang Xie, Yanda Meng†, Yitian Zhao, Anh Nguyen, Xiaoyun Yang, Yalin Zheng†  
+Jianyang Xie, Yanda Meng<sup>†</sup>, Yitian Zhao, Anh Nguyen, Xiaoyun Yang, Yalin Zheng<sup>†</sup>  
 Thirty-Eighth AAAI Conference on Artificial Intelligence  
 **AAAI 2024** (CCF-A) [paper](),  [code]().  
 
