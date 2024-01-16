@@ -18,7 +18,7 @@ Education
 
 Work Experience
 ======
-2024.02 - now:
+2024.02 - now:  
 **Department of Computer Science, University of Exeter, UK. (Lecturer/Assistant Professor)**   
 Medical Image Analysis, Computer Vision, AI for Healthcare.  
 
