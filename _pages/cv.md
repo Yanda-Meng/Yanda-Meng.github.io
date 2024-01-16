@@ -21,6 +21,7 @@ Work Experience
 2024.02 - now:
 **Department of Computer Science, University of Exeter, UK. (Lecturer/Assistant Professor)**   
 Medical Image Analysis, Computer Vision, AI for Healthcare.  
+
 2022.05 - 2024.01:  
 **Department of Eye and Vision Science, University of Liverpool, UK. (Post-doc Research Associate)**   
 With [Prof.Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and [Dr. Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).     
