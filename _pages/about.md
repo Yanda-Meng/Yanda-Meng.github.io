@@ -20,8 +20,7 @@ About Me
 + Email address: y.m.meng@exeter.ac.uk  
 
 
-<font color="#dd0000">I will join the Department of Computer Science, University of Exeter in 2024 Feb. I am looking for self-motivated MRes and Ph. D students. If you are interested in working with me, please send me an email about your background (CV, transcripts, etc..)  
-欢迎有意向申请CSC的学生联系我 </font>  
+<font color="#dd0000">I am looking for self-motivated MRes and Ph. D students. If you are interested in working with me, please send me an email about your background (CV, transcripts, etc..)   </font>  
 
 
 
