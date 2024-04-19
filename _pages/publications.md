@@ -16,7 +16,7 @@ author_profile: true
 # Selected publications (* means equal contribution, <sup>†</sup> means corresponding author)  
 
 ### Journals  
-+ Multi-Granularity Learning of Explicit Geometric Constraint and Contrast for Label-Efficient Medical Image Segmentation and Differentiable Clinical Function Assessment
++ Multi-Granularity Learning of Explicit Geometric Constraint and Contrast for Label-Efficient Medical Image Segmentation and Differentiable Clinical Function Assessment  
 Yanda Meng, Yuchen Zhang, Jianyang Xie, Jinming Duan, Martha Joddrell, Savita Madhusudhan, Tunde Peto, Yitian Zhao, Yalin Zheng.
 **Medical Image Analysis (2024, IF:~ 10.9, SCI 1 区)** [paper](), [code]()  
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning   
