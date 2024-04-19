@@ -16,6 +16,9 @@ author_profile: true
 # Selected publications (* means equal contribution, <sup>†</sup> means corresponding author)  
 
 ### Journals  
++ Multi-Granularity Learning of Explicit Geometric Constraint and Contrast for Label-Efficient Medical Image Segmentation and Differentiable Clinical Function Assessment
+Yanda Meng, Yuchen Zhang, Jianyang Xie, Jinming Duan, Martha Joddrell, Savita Madhusudhan, Tunde Peto, Yitian Zhao, Yalin Zheng.
+**Medical Image Analysis (2024, IF:~ 10.9, SCI 1 区)** [paper](), [code]()  
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning   
 **Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Thomas Fitzmaurice, Caroline McCann, Qiang Li, Yitian Zhao, Yalin Zheng.  
 **Medical Image Analysis (2023 IF:~ 13.828, SCI 1区)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003504?dgcid=rss_sd_all), [code](https://github.com/smallmax00/BAGCN-Covid19).  
