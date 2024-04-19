@@ -101,6 +101,10 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 2024  
 
++ Multi-Granularity Learning of Explicit Geometric Constraint and Contrast for Label-Efficient Medical Image Segmentation and Differentiable Clinical Function Assessment  
+Yanda Meng, Yuchen Zhang, Jianyang Xie, Jinming Duan, Martha Joddrell, Savita Madhusudhan, Tunde Peto, Yitian Zhao, Yalin Zheng.  
+**Medical Image Analysis (2024, IF:~ 10.9, SCI 1 区)** [paper](), [code]()
+  
 + Dynamic Semantic-based Graph Convolution Network for Skeleton-based Human Action Recognition  
 Jianyang Xie, **Yanda Meng<sup>†</sup>**, Yitian Zhao, Anh Nguyen, Xiaoyun Yang, Yalin Zheng<sup>†</sup>  
 Thirty-Eighth AAAI Conference on Artificial Intelligence  
