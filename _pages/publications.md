@@ -17,8 +17,8 @@ author_profile: true
 
 ### Journals  
 + Multi-Granularity Learning of Explicit Geometric Constraint and Contrast for Label-Efficient Medical Image Segmentation and Differentiable Clinical Function Assessment  
-Yanda Meng, Yuchen Zhang, Jianyang Xie, Jinming Duan, Martha Joddrell, Savita Madhusudhan, Tunde Peto, Yitian Zhao, Yalin Zheng.  
-**Medical Image Analysis (2024, IF:~ 10.9, SCI 1 区)** [paper](), [code]()  
+**Yanda Meng**, Yuchen Zhang, Jianyang Xie, Jinming Duan, Martha Joddrell, Savita Madhusudhan, Tunde Peto, Yitian Zhao, Yalin Zheng.  
+**Medical Image Analysis (2024, IF:~ 10.9, SCI 1 区)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841524001087), [code](https://github.com/smallmax00/Multi_Granularity_Segmentation_Clinical_Function_Assessment)  
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning   
 **Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Thomas Fitzmaurice, Caroline McCann, Qiang Li, Yitian Zhao, Yalin Zheng.  
 **Medical Image Analysis (2023 IF:~ 13.828, SCI 1区)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003504?dgcid=rss_sd_all), [code](https://github.com/smallmax00/BAGCN-Covid19).  
@@ -102,8 +102,8 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 2024  
 
 + Multi-Granularity Learning of Explicit Geometric Constraint and Contrast for Label-Efficient Medical Image Segmentation and Differentiable Clinical Function Assessment  
-Yanda Meng, Yuchen Zhang, Jianyang Xie, Jinming Duan, Martha Joddrell, Savita Madhusudhan, Tunde Peto, Yitian Zhao, Yalin Zheng.  
-**Medical Image Analysis (2024, IF:~ 10.9, SCI 1 区)** [paper](), [code]()
+**Yanda Meng**, Yuchen Zhang, Jianyang Xie, Jinming Duan, Martha Joddrell, Savita Madhusudhan, Tunde Peto, Yitian Zhao, Yalin Zheng.  
+**Medical Image Analysis (2024, IF:~ 10.9, SCI 1 区)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841524001087), [code](https://github.com/smallmax00/Multi_Granularity_Segmentation_Clinical_Function_Assessment)
   
 + Dynamic Semantic-based Graph Convolution Network for Skeleton-based Human Action Recognition  
 Jianyang Xie, **Yanda Meng<sup>†</sup>**, Yitian Zhao, Anh Nguyen, Xiaoyun Yang, Yalin Zheng<sup>†</sup>  
