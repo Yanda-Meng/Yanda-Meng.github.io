@@ -26,7 +26,7 @@ About Me
 
 News
 ====
-+ One fully funded PhD. studentship at the UK tuition fee and UKRI stipend rate is available in my group. The deadline to apply is 15th May 2024. [link](https://www.findaphd.com/phds/project/an-llm-enhanced-language-vision-model-for-atrial-fibrillation-prevention-with-ecg-record-images-and-clinical-data/?p171679).  
++ One fully funded Ph.D. studentship at the UK tuition fee and UKRI stipend rate is available in my group. The deadline to apply is 15th May 2024. [link](https://www.findaphd.com/phds/project/an-llm-enhanced-language-vision-model-for-atrial-fibrillation-prevention-with-ecg-record-images-and-clinical-data/?p171679).  
 
 
 
