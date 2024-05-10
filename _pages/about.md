@@ -24,6 +24,9 @@ About Me
 <font color="#dd0000">I am looking for self-motivated MRes and Ph. D students. If you are interested in working with me, please send me an email about your background (CV, transcripts, etc..)   </font>  
 
 
+News
+====
++ One fully funded PhD. studentship at the UK tuition fee and UKRI stipend rate is available in my group. The deadline to apply is 15th May 2024. [link](https://www.findaphd.com/phds/project/an-llm-enhanced-language-vision-model-for-atrial-fibrillation-prevention-with-ecg-record-images-and-clinical-data/?p171679).  
 
 
 
