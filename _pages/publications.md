@@ -101,7 +101,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 2024  
 + The Impact of Reasoning Step Length on Large Language Models.  
-Mingyu Jin, Qingkai Yu, Dong Shu, Haiyan Zhao, Wenyue Hua, Yanda Meng, Yongfeng Zhang, Mengnan Du.  
+Mingyu Jin, Qingkai Yu, Dong Shu, Haiyan Zhao, Wenyue Hua, **Yanda Meng**, Yongfeng Zhang, Mengnan Du.  
 ACL 2024 (CCF A) [paper](https://arxiv.org/abs/2401.04925), [code](https://github.com/MingyuJ666/The-Impact-of-Reasoning-Step-Length-on-Large-Language-Models).  
 
 + Multi-Granularity Learning of Explicit Geometric Constraint and Contrast for Label-Efficient Medical Image Segmentation and Differentiable Clinical Function Assessment  
