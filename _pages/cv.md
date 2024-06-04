@@ -54,7 +54,7 @@ Academic Services
 Frontiers in Medicine Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging)  
 + Reviewer:  
 Conference: ICCV, CVPR, ECCV, AAAI, MICCAI, MIDL    
-Journal: MedIA, IEEE-TMI, IEEE-TIP, IEEE-TCSVT, IEEE-JBHI, Medical Physics, Frontier in Medicine, Artificial Intelligence in Medicine, Computerized Medical Imaging and Graphics, Computers in Biology and Medicine, etc.  
+Journal: MedIA, IEEE-TMI, IEEE-TIP, IEEE-TCSVT, IEEE-JBHI, npj Digital Medicine, Medical Physics, Frontier in Medicine, Artificial Intelligence in Medicine, Computerized Medical Imaging and Graphics, Computers in Biology and Medicine, etc.  
 
 
 
