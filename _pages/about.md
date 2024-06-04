@@ -26,9 +26,10 @@ About Me
 
 News
 ====
-+ May 2024, One paper 'The impact of reasoning step length on large language models' is accepted by ACL 2024.  
-+ April 2024, One fully funded 3.5 years Ph.D. studentship at the UK tuition fee and UKRI stipend rate is available in my group. The deadline to apply is <font color="#dd0000">15th May 2024. </font> [link](https://www.findaphd.com/phds/project/an-llm-enhanced-language-vision-model-for-atrial-fibrillation-prevention-with-ecg-record-images-and-clinical-data/?p171679).  
-+ April 2024, One paper 'Multi-granularity learning of explicit geometric constraint and contrast for label-efficient medical image segmentation and differentiable clinical function assessment' is accepted by Medical Image Analysis.  
++ May 2024, Acceptance of 2024 SeedCorn Fund of Health Technologies@Exeter as PI.
++ May 2024, One paper, 'The impact of reasoning step length on large language models', is accepted by ACL 2024 as Findings; congrats to Mingyu and Qinkai as their first-author publications!  
++ April 2024, One industry-funded 3.5-year PhD studentship at the UK tuition fee and UKRI stipend rate are available in my group. The deadline to apply is <font color="#dd0000">15th May 2024. </font> [link](https://www.findaphd.com/phds/project/an-llm-enhanced-language-vision-model-for-atrial-fibrillation-prevention-with-ecg-record-images-and-clinical-data/?p171679).  
++ April 2024, One paper, 'Multi-granularity learning of explicit geometric constraint and contrast for label-efficient medical image segmentation and differentiable clinical function assessment', is accepted by Medical Image Analysis.  
 
 
 
