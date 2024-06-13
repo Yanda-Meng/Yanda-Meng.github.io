@@ -12,7 +12,7 @@ redirect_from:
 
 About Me
 ====
-+ Lecturer (Assistant Professor) (2024.02 - now) in Computer Vision/AI/Medical Image Analysis, at the [Department of Computer Science, University of Exeter](https://computerscience.exeter.ac.uk/).
++ Assistant Professor (UK Lecturer) (2024.02 - now) in Computer Vision/AI/Medical Image Analysis, at the [Department of Computer Science, University of Exeter](https://computerscience.exeter.ac.uk/).
 + Honorary Lecturer (2024.05 - now) at the [Cardiovascular & Metabolic Medicine Department, University of Liverpool](https://www.liverpool.ac.uk/life-course-and-medical-sciences/about/cardiovascular-and-metabolic-medicine/).
 + Member of Liverpool Centre for Cardiovascular Science (LCCS), led by Prof. [Gregory Lip](https://www.liverpool.ac.uk/health-and-life-sciences/staff/gregory-lip/).  
 +  Postdoctoral Research Associate (2022.05 - 2024.01) in the Eye and Vision Science Department, University of Liverpool, UK, advised by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).  
