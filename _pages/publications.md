@@ -50,16 +50,10 @@ author_profile: true
 ### Conferences  
 
 + CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting  
-Qinkai Yu, Jianyang Xie, Anh Nguyen, He Zhao, Jiong Zhang, Huazhu Fu, Yitian Zhao, Yalin Zheng, Yanda Meng  
+Qinkai Yu, Jianyang Xie, Anh Nguyen, He Zhao, Jiong Zhang, Huazhu Fu, Yitian Zhao, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
 **MICCAI 2024** (CCF-B) [paper](), [code]()  
 
-+ Multi-disease Detection in Retinal Images Guided by Disease Causal Estimation  
-Jianyang xie, Xiuju Chen, Yitian Zhao, Yanda Meng, He Zhao, Anh Nguyen, Xiaoxin Lin, Yalin Zheng  
-International Conference on Medical Image Computing and Computer-Assisted Intervention.  
-**MICCAI 2024** (CCF-B) [paper](), [code]()  
-
-  
 + Dynamic Semantic-based Graph Convolution Network for Skeleton-based Human Action Recognition  
 Jianyang Xie, **Yanda Meng<sup>†</sup>**, Yitian Zhao, Anh Nguyen, Xiaoyun Yang, Yalin Zheng<sup>†</sup>  
 Thirty-Eighth AAAI Conference on Artificial Intelligence  
@@ -112,6 +106,17 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 # All publications  
 
 2024  
+
++ CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting  
+Qinkai Yu, Jianyang Xie, Anh Nguyen, He Zhao, Jiong Zhang, Huazhu Fu, Yitian Zhao, Yalin Zheng, Yanda Meng  
+International Conference on Medical Image Computing and Computer-Assisted Intervention.  
+**MICCAI 2024** (CCF-B) [paper](), [code]()  
+
++ Multi-disease Detection in Retinal Images Guided by Disease Causal Estimation  
+Jianyang xie, Xiuju Chen, Yitian Zhao, Yanda Meng, He Zhao, Anh Nguyen, Xiaoxin Lin, Yalin Zheng  
+International Conference on Medical Image Computing and Computer-Assisted Intervention.  
+**MICCAI 2024** (CCF-B) [paper](), [code]()  
+  
 + The Impact of Reasoning Step Length on Large Language Models.  
 Mingyu Jin, Qingkai Yu, Dong Shu, Haiyan Zhao, Wenyue Hua, **Yanda Meng**, Yongfeng Zhang, Mengnan Du.  
 ACL 2024 (CCF A) [paper](https://arxiv.org/abs/2401.04925), [code](https://github.com/MingyuJ666/The-Impact-of-Reasoning-Step-Length-on-Large-Language-Models).  
