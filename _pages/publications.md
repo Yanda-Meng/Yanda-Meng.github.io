@@ -48,6 +48,18 @@ author_profile: true
 
 
 ### Conferences  
+
++ CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting  
+Qinkai Yu, Jianyang Xie, Anh Nguyen, He Zhao, Jiong Zhang, Huazhu Fu, Yitian Zhao, Yalin Zheng, Yanda Meng  
+International Conference on Medical Image Computing and Computer-Assisted Intervention.  
+**MICCAI 2024** (CCF-B) [paper](), [code]()  
+
++ Multi-disease Detection in Retinal Images Guided by Disease Causal Estimation  
+Jianyang xie, Xiuju Chen, Yitian Zhao, Yanda Meng, He Zhao, Anh Nguyen, Xiaoxin Lin, Yalin Zheng  
+International Conference on Medical Image Computing and Computer-Assisted Intervention.  
+**MICCAI 2024** (CCF-B) [paper](), [code]()  
+
+  
 + Dynamic Semantic-based Graph Convolution Network for Skeleton-based Human Action Recognition  
 Jianyang Xie, **Yanda Meng<sup>†</sup>**, Yitian Zhao, Anh Nguyen, Xiaoyun Yang, Yalin Zheng<sup>†</sup>  
 Thirty-Eighth AAAI Conference on Artificial Intelligence  
