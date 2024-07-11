@@ -26,8 +26,10 @@ About Me
 
 News
 ====
-+ July, 2024, Acceptance of an Industry-funded UK-rate full PhD studentship as <font color="#dd0000"> PI </font>, the student is expected to start in January 2025. 
-+ June 2024, Two papers are accepted by MICCAI2024, 'CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting' and 'Multi-disease Detection in Retinal Images Guided by Disease Causal Estimation'.
++ July, 2024, Acceptance of an Industry-funded UK-rate full PhD studentship as <font color="#dd0000"> PI </font>, the student is expected to start in January 2025.
++ June 2024, One paper 'AI-Driven Generalised Polynomial Transformation Models for Unsupervised Fundus Image Registration' is accepted by Frontiers in Medicine, section Ophthalmology.  
++ June 2024, Two papers are accepted by MICCAI2024, 'CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting' and 'Multi-disease Detection in Retinal Images Guided by Disease Causal Estimation'.  
++ May 2024, One paper, 'Self-Guided Adversarial Network for Domain Adaptive Retinal Layer Segmentation' is accepted by IEEE Transactions on Instrumentation & Measurement.  
 + May 2024, Acceptance of 2024 SeedCorn Fund of Health Technologies@Exeter as <font color="#dd0000"> PI </font>.
 + May 2024, One paper, 'The impact of reasoning step length on large language models', is accepted by ACL 2024 as Findings; congrats to Mingyu and Qinkai as their first-author publications!  
 + April 2024, One industry-funded 3.5-year PhD studentship at the UK tuition fee and UKRI stipend rate are available in my group. The deadline to apply is <font color="#dd0000">15th May 2024. </font> [link](https://www.findaphd.com/phds/project/an-llm-enhanced-language-vision-model-for-atrial-fibrillation-prevention-with-ecg-record-images-and-clinical-data/?p171679).  
