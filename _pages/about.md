@@ -26,6 +26,7 @@ About Me
 
 News
 ====
++ July, 2024, One paper 'Artificial intelligence – based classification of cardiac autonomic neuropathy from retinal fundus images in patients with diabetes - The Silesia Diabetes Heart Study' is accepted by Cardiovascular Diabetology.  
 + July, 2024, Acceptance of an Industry-funded UK-rate full PhD studentship as <font color="#dd0000"> PI </font>, the student is expected to start in January 2025.
 + June 2024, One paper 'AI-Driven Generalised Polynomial Transformation Models for Unsupervised Fundus Image Registration' is accepted by Frontiers in Medicine, section Ophthalmology.  
 + June 2024, Two papers are accepted by MICCAI2024, 'CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting' and 'Multi-disease Detection in Retinal Images Guided by Disease Causal Estimation'.  
