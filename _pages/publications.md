@@ -115,7 +115,11 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 + Artificial intelligence-based classification of cardiac autonomic neuropathy from retinal fundus images in patients with diabetes - The Silesia Diabetes Heart Study  
 *Katarzyna Nabrdalik, *Krzysztof Irlik, ***Yanda Meng**, Hanna Kwiendacz, Julia Piaśnik, Mirela Hendel, Paweł Ignacy, Justyna Kulpa, Kamil Kegler, Mikołaj Herba, Sylwia Boczek, Effendy Bin Hashim, Zhuangzhi Gao, Janusz Gumprecht, Yalin Zheng, Gregory Y.H. Lip, Uazman Alam。  
 **Cardiovascular Diabetology (2024 IF: ~8.5, SCI 1 区)** [paper]().  
-  
+
++ AI-Driven Generalised Polynomial Transformation Models for Unsupervised Fundus Image Registration   
+Xu Chen, Xiaochen Fan, **Yanda Meng**, Yalin Zheng  
+Frontiers in Medicine, Ophthalmology (2024, IF: 3.1) [paper]()  
+
 + CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting  
 Qinkai Yu, Jianyang Xie, Anh Nguyen, He Zhao, Jiong Zhang, Huazhu Fu, Yitian Zhao, Yalin Zheng, Yanda Meng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
