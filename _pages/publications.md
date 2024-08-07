@@ -43,6 +43,9 @@ author_profile: true
 *Katarzyna Nabrdalik, *Krzysztof Irlik, ***Yanda Meng**, Hanna Kwiendacz, Julia Piaśnik, Mirela Hendel, Paweł Ignacy, Justyna Kulpa, Kamil Kegler, Mikołaj Herba, Sylwia Boczek, Effendy Bin Hashim, Zhuangzhi Gao, Janusz Gumprecht, Yalin Zheng, Gregory Y.H. Lip, Uazman Alam.  
 **Cardiovascular Diabetology (2024 IF: ~8.5, SCI 1 区)** [paper]().  
 
++ Self-Guided Adversarial Network for Domain Adaptive Retinal Layer Segmentation  
+Jiong Zhang, **Yanda Meng<sup>†</sup>**, Chenggang Lu, Ran Song, Yalin Zheng, Huaying Hao, Dan Zhang, Yitian Zhao<sup>†</sup>.   
+**IEEE Transactions on Instrumentation & Measurement. (2024 IF: ~5.6, SCI 2 区 )** [paper]()    
 
 + Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model  
 ***Yanda Meng**, *Frank G Preston, Maryam Ferdousi, Shazli Azmi, Ioannis Nikolaos Petropoulos, Stephen Kaye, Rayaz Ahmed Malik, Uazman Alam, Yalin Zheng.  
@@ -116,6 +119,11 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 + Artificial intelligence-based classification of cardiac autonomic neuropathy from retinal fundus images in patients with diabetes - The Silesia Diabetes Heart Study  
 *Katarzyna Nabrdalik, *Krzysztof Irlik, ***Yanda Meng**, Hanna Kwiendacz, Julia Piaśnik, Mirela Hendel, Paweł Ignacy, Justyna Kulpa, Kamil Kegler, Mikołaj Herba, Sylwia Boczek, Effendy Bin Hashim, Zhuangzhi Gao, Janusz Gumprecht, Yalin Zheng, Gregory Y.H. Lip, Uazman Alam.    
 **Cardiovascular Diabetology (2024 IF: ~8.5, SCI 1 区)** [paper]().  
+
++ Self-Guided Adversarial Network for Domain Adaptive Retinal Layer Segmentation  
+Jiong Zhang, **Yanda Meng<sup>†</sup>**, Chenggang Lu, Ran Song, Yalin Zheng, Huaying Hao, Dan Zhang, Yitian Zhao<sup>†</sup>.   
+**IEEE Transactions on Instrumentation & Measurement. (2024 IF: ~5.6, SCI 2 区 )** [paper]()    
+
 
 + AI-Driven Generalised Polynomial Transformation Models for Unsupervised Fundus Image Registration   
 Xu Chen, Xiaochen Fan, **Yanda Meng**, Yalin Zheng  
