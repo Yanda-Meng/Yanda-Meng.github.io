@@ -130,7 +130,7 @@ Xu Chen, Xiaochen Fan, **Yanda Meng**, Yalin Zheng
 Frontiers in Medicine, Ophthalmology (2024, IF: 3.1) [paper]()  
 
 + CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting  
-Qinkai Yu, Jianyang Xie, Anh Nguyen, He Zhao, Jiong Zhang, Huazhu Fu, Yitian Zhao, Yalin Zheng, Yanda Meng  
+Qinkai Yu, Jianyang Xie, Anh Nguyen, He Zhao, Jiong Zhang, Huazhu Fu, Yitian Zhao, Yalin Zheng, **Yanda Meng<sup>†</sup>**    
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
 **MICCAI 2024** (CCF-B) [paper](), [code]()  
 
