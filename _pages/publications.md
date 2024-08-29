@@ -44,7 +44,7 @@ author_profile: true
 **Cardiovascular Diabetology (2024 IF: ~8.5, SCI 1 区)** [paper]().  
 
 + Self-Guided Adversarial Network for Domain Adaptive Retinal Layer Segmentation  
-Jiong Zhang, **Yanda Meng<sup>†</sup>**, Chenggang Lu, Ran Song, Yalin Zheng, Huaying Hao, Dan Zhang, Yitian Zhao<sup>†</sup>.   
+Jiong Zhang, Chenggang Lu, Ran Song, Yalin Zheng, Huaying Hao, **Yanda Meng<sup>†</sup>**, Yitian Zhao<sup>†</sup>.   
 **IEEE Transactions on Instrumentation & Measurement. (2024 IF: ~5.6, SCI 2 区 )** [paper]()    
 
 + Artificial Intelligence Based Analysis of Corneal Confocal Microscopy Images for Diagnosing Peripheral Neuropathy: A Binary Classification Model  
@@ -121,7 +121,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 **Cardiovascular Diabetology (2024 IF: ~8.5, SCI 1 区)** [paper]().  
 
 + Self-Guided Adversarial Network for Domain Adaptive Retinal Layer Segmentation  
-Jiong Zhang, **Yanda Meng<sup>†</sup>**, Chenggang Lu, Ran Song, Yalin Zheng, Huaying Hao, Dan Zhang, Yitian Zhao<sup>†</sup>.   
+Jiong Zhang, Chenggang Lu, Ran Song, Yalin Zheng, Huaying Hao, **Yanda Meng<sup>†</sup>**, Yitian Zhao<sup>†</sup>.   
 **IEEE Transactions on Instrumentation & Measurement. (2024 IF: ~5.6, SCI 2 区 )** [paper]()    
 
 
