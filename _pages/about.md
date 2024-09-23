@@ -26,6 +26,7 @@ About Me
 
 News
 ====
++ Sep, 2024, One paper 'MR2 -Net: Retinal OCTA Image Stitching via Multi-Scale Representation Learning and Dynamic Location Guidance' is accepted by IEEE Journal of Biomedical and Health Informatics.
 + July, 2024, One industry-funded 3-year PhD studentship at the UK tuition fee and UKRI stipend rate is available in my group. The application deadline is <font color="#dd0000">25th Aug 2024. </font> [link](https://www.exeter.ac.uk/study/funding/award/?id=5194).  
 + July, 2024, One paper 'Artificial intelligence – based classification of cardiac autonomic neuropathy from retinal fundus images in patients with diabetes - The Silesia Diabetes Heart Study' is accepted by Cardiovascular Diabetology.  
 + July, 2024, Acceptance of an Industry-funded UK-rate full PhD studentship as <font color="#dd0000"> PI </font>, the student is expected to start in January 2025.
