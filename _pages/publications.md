@@ -116,6 +116,11 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 2024  
 
++ MR2 -Net: Retinal OCTA Image Stitching via Multi-Scale Representation Learning and Dynamic Location Guidance  
+Haiting Mao, Yuhui Ma, Dan Zhang, **Yanda Meng**, Shaodong Ma, Yuchuan Qiao, Huazhu Fu, Caifeng Shan, Da Chen, Yitian Zhao, Jiong Zhang.  
+IEEE Journal of Biomedical and Health Informatics. (IEEE-JBHI).  
+
+
 + Artificial intelligence-based classification of cardiac autonomic neuropathy from retinal fundus images in patients with diabetes - The Silesia Diabetes Heart Study  
 *Katarzyna Nabrdalik, *Krzysztof Irlik, ***Yanda Meng**, Hanna Kwiendacz, Julia Piaśnik, Mirela Hendel, Paweł Ignacy, Justyna Kulpa, Kamil Kegler, Mikołaj Herba, Sylwia Boczek, Effendy Bin Hashim, Zhuangzhi Gao, Janusz Gumprecht, Yalin Zheng, Gregory Y.H. Lip, Uazman Alam.    
 **Cardiovascular Diabetology (2024 IF: ~8.5, SCI 1 区)** [paper]().  
