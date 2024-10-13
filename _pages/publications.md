@@ -118,7 +118,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 + MR2 -Net: Retinal OCTA Image Stitching via Multi-Scale Representation Learning and Dynamic Location Guidance  
 Haiting Mao, Yuhui Ma, Dan Zhang, **Yanda Meng**, Shaodong Ma, Yuchuan Qiao, Huazhu Fu, Caifeng Shan, Da Chen, Yitian Zhao, Jiong Zhang.  
-IEEE Journal of Biomedical and Health Informatics. (IEEE-JBHI，2024 IF: 7.1).  
+IEEE Journal of Biomedical and Health Informatics. (IEEE-JBHI，2024 IF: 7.1，SCI 1区).  
 
 
 + Artificial intelligence-based classification of cardiac autonomic neuropathy from retinal fundus images in patients with diabetes - The Silesia Diabetes Heart Study  
