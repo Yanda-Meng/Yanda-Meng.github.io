@@ -115,8 +115,8 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 # All publications  
 
 2024  
-+ Clinical Insight-Augmented Multi-View Learning for Alzheimer’s Detection in Retinal OCTA Images.
-Yuandi Zhang, Jinkui Hao, Yonghuai Liu, **Yanda Meng**, Jiong Zhang, Yang Chen, and Yitian Zhao.
++ Clinical Insight-Augmented Multi-View Learning for Alzheimer’s Detection in Retinal OCTA Images.  
+Yuandi Zhang, Jinkui Hao, Yonghuai Liu, **Yanda Meng**, Jiong Zhang, Yang Chen, and Yitian Zhao.  
 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024, CCF B).  
 
 + MR2 -Net: Retinal OCTA Image Stitching via Multi-Scale Representation Learning and Dynamic Location Guidance  
