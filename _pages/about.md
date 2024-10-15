@@ -26,6 +26,7 @@ About Me
 
 News
 ====
++ Oct, 2024, I am recognized as an IEEE TMI Distinguished Reviewer Bronze Level 2023 – 2024.  
 + Oct, 2024, One paper 'Clinical Insight-Augmented Multi-View Learning for Alzheimer's Detection in Retinal OCTA Images' is accepted by the IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024)   
 + Sep, 2024, One paper 'MR2 -Net: Retinal OCTA Image Stitching via Multi-Scale Representation Learning and Dynamic Location Guidance' is accepted by IEEE Journal of Biomedical and Health Informatics.
 + July, 2024, One industry-funded 3-year PhD studentship at the UK tuition fee and UKRI stipend rate is available in my group. The application deadline is <font color="#dd0000">25th Aug 2024. </font> [link](https://www.exeter.ac.uk/study/funding/award/?id=5194).  
