@@ -145,7 +145,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 + Multi-disease Detection in Retinal Images Guided by Disease Causal Estimation  
 Jianyang xie, Xiuju Chen, Yitian Zhao, **Yanda Meng**, He Zhao, Anh Nguyen, Xiaoxin Lin, Yalin Zheng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention.  
-**MICCAI 2024** (CCF-B) [paper](), [code]()  
+MICCAI 2024 (CCF-B) [paper](), [code]()  
   
 + The Impact of Reasoning Step Length on Large Language Models.  
 Mingyu Jin, Qingkai Yu, Dong Shu, Haiyan Zhao, Wenyue Hua, **Yanda Meng**, Yongfeng Zhang, Mengnan Du.  
