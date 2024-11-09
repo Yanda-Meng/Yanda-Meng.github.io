@@ -21,26 +21,27 @@ About Me
 + Email address: y.m.meng@exeter.ac.uk  
 
 
-<font color="#dd0000">I am looking for self-motivated MRes and Ph. D students. If you are interested in working with me, please send me an email about your background (CV, transcripts, etc..)   </font>  
+<font color="#dd0000">I am seeking self-motivated MRes and Ph. D students. If you are interested in working with me, please send me an email about your background (CV, transcripts, etc..)   </font>  
 
 
 News
 ====
-+ Nov, 2024, One paper 'Randomness-restricted Diffusion Model for Ocular Surface Structure Segmentation' is accepted by the IEEE Transactions on Medical Imaging (IEEE TMI)   
-+ Oct, 2024, I am recognized as an IEEE TMI Distinguished Reviewer Bronze Level 2023 – 2024.  
-+ Oct, 2024, One paper 'Clinical Insight-Augmented Multi-View Learning for Alzheimer's Detection in Retinal OCTA Images' is accepted by the IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024)   
-+ Sep, 2024, One paper 'MR2 -Net: Retinal OCTA Image Stitching via Multi-Scale Representation Learning and Dynamic Location Guidance' is accepted by IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI).
-+ July, 2024, One industry-funded 3-year PhD studentship at the UK tuition fee and UKRI stipend rate is available in my group. The application deadline is <font color="#dd0000">25th Aug 2024. </font> [link](https://www.findaphd.com/phds/project/unravelling-atrial-fibrillation-complexity-advanced-statistics-and-machine-learning-integration-of-electrophysiology-clinical-data-and-big-data-sources-artificial-intelligence-biostatistics-machine-learning-digital-healthcare/?p173547).  
-+ July, 2024, One paper 'Artificial intelligence – based classification of cardiac autonomic neuropathy from retinal fundus images in patients with diabetes - The Silesia Diabetes Heart Study' is accepted by Cardiovascular Diabetology.  
-+ July, 2024, Acceptance of an Industry-funded UK-rate full PhD studentship as <font color="#dd0000"> PI </font>, the student is expected to start in January 2025.
++ Nov 2024, One paper, 'Dynamic Semantic-based Spatial-Temporal Graph Convolution Network for Skeleton-based Human Action Recognition' is accepted by the IEEE Transactions on Image Processing (IEEE-TIP)  
++ Nov 2024, One paper, 'Randomness-restricted Diffusion Model for Ocular Surface Structure Segmentation' is accepted by the IEEE Transactions on Medical Imaging (IEEE TMI)   
++ Oct 2024, I am recognized as an IEEE TMI Distinguished Reviewer Bronze Level 2023 – 2024.  
++ Oct 2024, One paper, 'Clinical Insight-Augmented Multi-View Learning for Alzheimer's Detection in Retinal OCTA Images' is accepted by the IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024)   
++ Sep 2024, One paper, 'MR2 -Net: Retinal OCTA Image Stitching via Multi-Scale Representation Learning and Dynamic Location Guidance', is accepted by the IEEE Journal of Biomedical and Health Informatics (IEEE-JBHI).
++ July 2024, One industry-funded 3-year PhD studentship at the UK tuition fee and UKRI stipend rate are available in my group. The application deadline is <font color="#dd0000">25th Aug 2024. </font> [link](https://www.findaphd.com/phds/project/unravelling-atrial-fibrillation-complexity-advanced-statistics-and-machine-learning-integration-of-electrophysiology-clinical-data-and-big-data-sources-artificial-intelligence-biostatistics-machine-learning-digital-healthcare/?p173547).  
++ July 2024, One paper, 'Artificial intelligence – based classification of cardiac autonomic neuropathy from retinal fundus images in patients with diabetes - The Silesia Diabetes Heart Study', is accepted by Cardiovascular Diabetology.  
++ July 2024, Acceptance of an Industry-funded UK-rate full PhD studentship as <font color="#dd0000"> PI </font>, the student is expected to start in January 2025.
 + June 2024, One paper 'AI-Driven Generalised Polynomial Transformation Models for Unsupervised Fundus Image Registration' is accepted by Frontiers in Medicine, section Ophthalmology.  
 + June 2024, Two papers are accepted by Medical Image Computing and Computer Assisted Interventions (MICCAI2024), 'CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting' and 'Multi-disease Detection in Retinal Images Guided by Disease Causal Estimation'.  
-+ May 2024, One paper, 'Self-Guided Adversarial Network for Domain Adaptive Retinal Layer Segmentation' is accepted by IEEE Transactions on Instrumentation & Measurement (IEEE-TIM).  
++ May 2024, One paper, 'Self-Guided Adversarial Network for Domain Adaptive Retinal Layer Segmentation,' is accepted by IEEE Transactions on Instrumentation & Measurement (IEEE-TIM).  
 + May 2024, Acceptance of 2024 SeedCorn Fund of Health Technologies@Exeter as <font color="#dd0000"> PI </font>.
 + May 2024, One paper, 'The impact of reasoning step length on large language models', is accepted by ACL 2024 as Findings; congrats to Mingyu and Qinkai as their first-author publications!  
 + April 2024, One industry-funded 3.5-year PhD studentship at the UK tuition fee and UKRI stipend rate is available in my group. The deadline to apply is <font color="#dd0000">15th May 2024. </font> [link](https://www.findaphd.com/phds/project/an-llm-enhanced-language-vision-model-for-atrial-fibrillation-prevention-with-ecg-record-images-and-clinical-data/?p171679).  
 + April 2024, One paper, 'Multi-granularity learning of explicit geometric constraint and contrast for label-efficient medical image segmentation and differentiable clinical function assessment', is accepted by Medical Image Analysis.  
-+ April, 2024, Acceptance of an Industry-funded UK-rate full PhD studentship as <font color="#dd0000"> PI </font>, the student is expected to start in September 2024. 
++ April 2024, Acceptance of an Industry-funded UK-rate full PhD studentship as <font color="#dd0000"> PI </font>, the student is expected to start in September 2024. 
 
 
 
