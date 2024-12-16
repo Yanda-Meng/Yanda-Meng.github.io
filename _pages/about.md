@@ -26,7 +26,7 @@ About Me
 
 News
 ====
-+ Dec 2024, Acceptance of the Royal Society International Exchanges Grant with NSFC as <font color="#dd0000"> PI </font>.  
++ Dec 2024, Acceptance of the Royal Society International Exchanges Grant with NSFC as <font color="#dd0000"> PI </font> [link](https://royalsociety.org/grants/international-exchanges/).  
 + Nov 2024, One paper, 'Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?' is accepted by the 31st International Conference on Computational Linguistics (COLING 2025).  
 + Nov 2024, One paper, 'Dynamic Semantic-based Spatial-Temporal Graph Convolution Network for Skeleton-based Human Action Recognition' is accepted by the IEEE Transactions on Image Processing (IEEE-TIP)  
 + Nov 2024, One paper, 'Randomness-restricted Diffusion Model for Ocular Surface Structure Segmentation' is accepted by the IEEE Transactions on Medical Imaging (IEEE TMI)   
