@@ -123,9 +123,24 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 + Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading and Diagnosis  
 Chengzhi Liu, Zile Huang, Zhe Chen, Feilong Tang, Yu Tian, Zhongxing Xu, Zihong Luo, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
 39th AAAI Conference on Artificial Intelligence.  
-**AAAI 2025** (CCF-A) [paper](), [code](), [project link](https://imdr-aaai.github.io/)  
+**AAAI 2025** (CCF-A) [paper](), [code](), [project link](https://imdr-aaai.github.io/)
+
++ Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers.
+Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, **Yanda Meng**, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng, Zhang.  
+International Conference on Computational Linguistics  
+COLING 2025 (CCF B)  
 
 2024  
+
+
++ Dynamic Semantic-based Spatial-Temporal Graph Convolution Network for Skeleton-based Human Action Recognition  
+Jianyang Xie, **Yanda Meng**, Yitian Zhao, Anh Nguyen, Xiaoyun Yang, Yalin Zheng  
+IEEE Transactions on Image Processing (IEEE-TIP, 2024 IF: 10.8, SCI 1 区)
+
++ Randomness-restricted Diffusion Model for Ocular Surface Structure Segmentation
+Xinyu Guo, Han Wen, Huaying Hao, Yifan Zhao, **Yanda Meng**, Jiang Liu, Yalin Zheng, Wei Chen and Yitian Zhao
+IEEE Transactions on Medical Imaging （IEEE-TMI, 2024 IF: 8.9, SCI 1 区）
+
 + Clinical Insight-Augmented Multi-View Learning for Alzheimer’s Detection in Retinal OCTA Images.  
 Yuandi Zhang, Jinkui Hao, Yonghuai Liu, **Yanda Meng**, Jiong Zhang, Yang Chen, and Yitian Zhao.  
 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024, CCF B).  
