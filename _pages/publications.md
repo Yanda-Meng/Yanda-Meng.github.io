@@ -119,6 +119,12 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 # All publications  
 
+2025  
++ Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading and Diagnosis  
+Chengzhi Liu, Zile Huang, Zhe Chen, Feilong Tang, Yu Tian, Zhongxing Xu, Zihong Luo, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
+39th AAAI Conference on Artificial Intelligence.  
+**AAAI 2025** (CCF-A) [paper](), [code](), [project link](https://imdr-aaai.github.io/)  
+
 2024  
 + Clinical Insight-Augmented Multi-View Learning for Alzheimer’s Detection in Retinal OCTA Images.  
 Yuandi Zhang, Jinkui Hao, Yonghuai Liu, **Yanda Meng**, Jiong Zhang, Yang Chen, and Yitian Zhao.  
@@ -128,7 +134,6 @@ IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2024,
 Haiting Mao, Yuhui Ma, Dan Zhang, **Yanda Meng**, Shaodong Ma, Yuchuan Qiao, Huazhu Fu, Caifeng Shan, Da Chen, Yitian Zhao, Jiong Zhang.  
 IEEE Journal of Biomedical and Health Informatics. (IEEE-JBHI，2024 IF: 7.1，SCI 1区).  
 
-
 + Artificial intelligence-based classification of cardiac autonomic neuropathy from retinal fundus images in patients with diabetes - The Silesia Diabetes Heart Study  
 *Katarzyna Nabrdalik, *Krzysztof Irlik, ***Yanda Meng**, Hanna Kwiendacz, Julia Piaśnik, Mirela Hendel, Paweł Ignacy, Justyna Kulpa, Kamil Kegler, Mikołaj Herba, Sylwia Boczek, Effendy Bin Hashim, Zhuangzhi Gao, Janusz Gumprecht, Yalin Zheng, Gregory Y.H. Lip, Uazman Alam.    
 **Cardiovascular Diabetology (2024 IF: ~8.5, SCI 1 区)** [paper]().  
@@ -136,7 +141,6 @@ IEEE Journal of Biomedical and Health Informatics. (IEEE-JBHI，2024 IF: 7.1，S
 + Self-Guided Adversarial Network for Domain Adaptive Retinal Layer Segmentation  
 Jiong Zhang, Chenggang Lu, Ran Song, Yalin Zheng, Huaying Hao, **Yanda Meng<sup>†</sup>**, Yitian Zhao<sup>†</sup>.   
 **IEEE Transactions on Instrumentation & Measurement. (2024 IF: ~5.6, SCI 2 区 )** [paper]()    
-
 
 + AI-Driven Generalised Polynomial Transformation Models for Unsupervised Fundus Image Registration   
 Xu Chen, Xiaochen Fan, **Yanda Meng**, Yalin Zheng  
