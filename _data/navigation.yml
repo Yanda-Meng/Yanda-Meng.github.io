@@ -6,4 +6,5 @@ main:
   - title: "Education and Experience"
     url: /cv/    
 
-    
+  - title: "Team"
+    url: /talks/    
