@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.Eng. Software Engineering, Capital Normal University, Beijing, China, 2013 - June 2017
-* M.Sc. Advanced Computer Science, University of Leeds, Leeds, UK, 2017 - 2018
-* Ph.D. Biometric and Biomedical Image Computing, University of Liverpool, Liverpool, UK, 2019 - 2022
-
 
 Work Experience
 ======
@@ -54,7 +48,7 @@ Academic Services
 Frontiers in Medicine Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging)  
 + Reviewer:  
 Conference: ICCV, CVPR, ECCV, AAAI, MICCAI, MIDL    
-Journal: MedIA, IEEE-TMI, IEEE-TIP, IEEE-TCSVT, IEEE-JBHI, npj Digital Medicine, Medical Physics, Frontier in Medicine, Artificial Intelligence in Medicine, Computerized Medical Imaging and Graphics, Computers in Biology and Medicine, etc.  
+Journal: IEEE-JBHI, IEEE-TMI, IEEE-TIP, IEEE-TCSVT, MedIA, JACC:Asia, npj Digital Medicine, npj Parkinson’s Disease, JACA, Medical Physics, Artificial Intelligence in Medicine, Frontiers in Medicine (Ophthalmology), Computerized Medical Imaging and Graphics, Computers in Biology and Medicine, etc.  
 
 
 
