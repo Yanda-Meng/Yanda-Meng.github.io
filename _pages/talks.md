@@ -23,8 +23,9 @@ Mr Zheng Gong (Co-supervised with Prof Xujiong Ye, 2025-)
 
 PhD Studentship opportunity:
 ======
-(Open, deadline to apply 9th Feb) 2025 Jan, EPSRC DLA studentship, [Unveiling hidden patterns: Integrating Clinical Biomarkers and ECG Data with
-AI to combat cardiovascular disease](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Unveiling_hidden_patterns_Integrating_Clinical_Biomarkers_and_ECG_Data_with_AI_to_combat_cardiovascular_disease_EPSRC_DLA_Project_September_2025_Entry.pdf)
+(Open) 2025 Jan, EPSRC DLA studentship, [Unveiling hidden patterns: Integrating Clinical Biomarkers and ECG Data with
+AI to combat cardiovascular disease](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Unveiling_hidden_patterns_Integrating_Clinical_Biomarkers_and_ECG_Data_with_AI_to_combat_cardiovascular_disease_EPSRC_DLA_Project_September_2025_Entry.pdf), the deadline to apply is 9th Feb 2025. Please email me your CV if you are interested.  
+
 (closed) 2024 Dec, For the CSC-Exeter 2025 PhD application, please email me your CV if you are interested in working with me.  
 
 (closed) 2024 Oct, [An efficient medical Vision Language Models (VLM) for medical applications](https://www.findaphd.com/phds/project/an-efficient-medical-vision-language-models-vlm-for-medical-applications-artificial-intelligence-computer-vision-medical-imaging-digital-healthcare-phd-in-computer-science-phd-funded-student-worldwide/?p175114=)  
