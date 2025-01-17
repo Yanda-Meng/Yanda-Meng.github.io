@@ -26,6 +26,7 @@ About Me
 
 News
 ====
++ Jan 2025, I will be serving as an Area Chair for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp), which will be hold in South Korean DAEJEON .  
 + Jan 2025, One Mathematics special issue that I am serving as the guest editor is now available to submit, [Application of Computational Intelligence and Mathematical Methods to Medical Image Analysis](https://www.mdpi.com/si/mathematics/00WJQQUB8K), deadline <font color="#dd0000"> 30th Sep 2025. </font>  
 + Jan 2025, One EPSRC Doctoral Landscape Award (EPSRC DLA) 3.5-year PhD studentship at the UK/international tuition fee and UKRI stipend rate are available in my group. The application deadline is <font color="#dd0000">9th Feb 2025. </font> [link](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Unveiling_hidden_patterns_Integrating_Clinical_Biomarkers_and_ECG_Data_with_AI_to_combat_cardiovascular_disease_EPSRC_DLA_Project_September_2025_Entry.pdf).
 + Jan 2025, One Frontiers in Medicine (Ophthalmology) special issue that I am serving as the guest editor is now available to submit, [Efficient Artificial Intelligence in Ophthalmic Imaging – Volume II](https://www.frontiersin.org/research-topics/68723/efficient-artificial-intelligence-in-ophthalmic-imaging---volume-ii), deadline <font color="#dd0000"> 21st June 2025. </font> 
