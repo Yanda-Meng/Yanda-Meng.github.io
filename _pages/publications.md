@@ -61,7 +61,7 @@ Jiong Zhang, Chenggang Lu, Ran Song, Yalin Zheng, Huaying Hao, **Yanda Meng<sup>
 + Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading and Diagnosis  
 Chengzhi Liu, Zile Huang, Zhe Chen, Feilong Tang, Yu Tian, Zhongxing Xu, Zihong Luo, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
 39th AAAI Conference on Artificial Intelligence.  
-**AAAI 2025** (CCF-A) [paper](), [code](), [project link](https://imdr-aaai.github.io/)  
+**AAAI 2025** (CCF-A) [paper](), [code](), [project link](https://imdr-aaai.github.io/) <font color="#dd0000">(Oral).</font><br />  
   
 + CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting  
 Qinkai Yu, Jianyang Xie, Anh Nguyen, He Zhao, Jiong Zhang, Huazhu Fu, Yitian Zhao, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
@@ -123,7 +123,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 + Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading and Diagnosis  
 Chengzhi Liu, Zile Huang, Zhe Chen, Feilong Tang, Yu Tian, Zhongxing Xu, Zihong Luo, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
 39th AAAI Conference on Artificial Intelligence.  
-**AAAI 2025** (CCF-A) [paper](), [code](), [project link](https://imdr-aaai.github.io/)
+**AAAI 2025** (CCF-A) [paper](), [code](), [project link](https://imdr-aaai.github.io/) <font color="#dd0000">(Oral).</font><br />  
 
 + Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers.
 Mingyu Jin, Qinkai Yu, Jingyuan Huang, Qingcheng Zeng, Zhenting Wang, Wenyue Hua, Haiyan Zhao, Kai Mei, **Yanda Meng**, Kaize Ding, Fan Yang, Mengnan Du, Yongfeng, Zhang.  
