@@ -41,7 +41,7 @@ author_profile: true
 
 + Artificial intelligence – based classification of cardiac autonomic neuropathy from retinal fundus images in patients with diabetes - The Silesia Diabetes Heart Study  
 *Katarzyna Nabrdalik, *Krzysztof Irlik, ***Yanda Meng**, Hanna Kwiendacz, Julia Piaśnik, Mirela Hendel, Paweł Ignacy, Justyna Kulpa, Kamil Kegler, Mikołaj Herba, Sylwia Boczek, Effendy Bin Hashim, Zhuangzhi Gao, Janusz Gumprecht, Yalin Zheng, Gregory Y.H. Lip, Uazman Alam.  
-**Cardiovascular Diabetology (2024 IF: ~8.5, SCI 1 区)** [paper]().  
+**Cardiovascular Diabetology (2024 IF: ~8.5, SCI 1 区)** [paper](https://cardiab.biomedcentral.com/articles/10.1186/s12933-024-02367-z).  
 
 + Self-Guided Adversarial Network for Domain Adaptive Retinal Layer Segmentation  
 Jiong Zhang, Chenggang Lu, Ran Song, Yalin Zheng, Huaying Hao, **Yanda Meng<sup>†</sup>**, Yitian Zhao<sup>†</sup>.   
