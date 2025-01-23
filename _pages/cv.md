@@ -44,8 +44,12 @@ Work on gender, and age classification project.
 
 Academic Services
 ======
-+ Lead Guest Editor:
-Frontiers in Medicine Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging)  
++ Guest Editor:
+Frontiers in Medicine (Ophthalmology) Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging)  
+Frontiers in Medicine (Ophthalmology) Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging Volume II](https://www.frontiersin.org/research-topics/68723/efficient-artificial-intelligence-in-ophthalmic-imaging---volume-ii)
+Mathematics Special Issue on [Application of Computational Intelligence and Mathematical Methods to Medical Image Analysis](https://www.mdpi.com/si/mathematics/00WJQQUB8K)
+IEEE-JBHI Special Issue on [Synergizing Multi-modal Agents and Large Foundation Models for Healthcare](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2025/01/Special-Issue-on-Synergizing-Multi-modal-Agents-and-Large-Foundation-Models-for-Healthcare.pdf)  
+
 + Reviewer:  
 Conference: ICCV, CVPR, ECCV, AAAI, MICCAI, MIDL    
 Journal: IEEE-JBHI, IEEE-TMI, IEEE-TIP, IEEE-TCSVT, MedIA, JACC:Asia, npj Digital Medicine, npj Parkinson’s Disease, JACA, Medical Physics, Artificial Intelligence in Medicine, Frontiers in Medicine (Ophthalmology), Computerized Medical Imaging and Graphics, Computers in Biology and Medicine, etc.  
