@@ -26,6 +26,7 @@ About Me
 
 News
 ====
++ Feb 2025, Acceptance of an NHS-funded UK-rate full PhD studentship as <font color="#dd0000"> PI </font> (£45,000 external), the student is expected to start in Sep 2025.  
 + Jan 2025, Our accepted AAAI 2025 paper 'Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading and Diagnosis', is accepted by the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025) [project link](https://imdr-aaai.github.io/) is selected as <font color="#dd0000"> Oral </font>! Congrats to the first-author Chengzhi Liu, who is now a final-year undergraduate student.  
 + Jan 2025, I will be serving as an <font color="#dd0000"> Area Chair </font> for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp), which will be held in South Korean DAEJEON .  
 + Jan 2025, One Mathematics special issue that I am serving as the guest editor is now available to submit, [Application of Computational Intelligence and Mathematical Methods to Medical Image Analysis](https://www.mdpi.com/si/mathematics/00WJQQUB8K), deadline <font color="#dd0000"> 30th Sep 2025. </font>  
