@@ -120,6 +120,11 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 # All publications  
 
 2025  
++ Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized ?  
+Jianyang Xie, Yitian Zhao, Yanda Meng, He Zhao, Anh Nguyen, Yalin Zheng.
+IEEE Conference on Computer Vision and Pattern Recognition.   
+CVPR 2025 (accept rate: 22.1%, 13,008 submissions) [paper](), [code]().  
+
 + Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading and Diagnosis  
 Chengzhi Liu, Zile Huang, Zhe Chen, Feilong Tang, Yu Tian, Zhongxing Xu, Zihong Luo, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
 39th AAAI Conference on Artificial Intelligence.  
