@@ -46,8 +46,8 @@ Academic Services
 ======
 + Guest Editor:
 Frontiers in Medicine (Ophthalmology) Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging](https://www.frontiersin.org/research-topics/57558/efficient-artificial-intelligence-ai-in-ophthalmic-imaging)  
-Frontiers in Medicine (Ophthalmology) Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging Volume II](https://www.frontiersin.org/research-topics/68723/efficient-artificial-intelligence-in-ophthalmic-imaging---volume-ii)
-Mathematics Special Issue on [Application of Computational Intelligence and Mathematical Methods to Medical Image Analysis](https://www.mdpi.com/si/mathematics/00WJQQUB8K)
+Frontiers in Medicine (Ophthalmology) Special Issue on [Efficient Artificial Intelligence (AI) in Ophthalmic Imaging Volume II](https://www.frontiersin.org/research-topics/68723/efficient-artificial-intelligence-in-ophthalmic-imaging---volume-ii)  
+Mathematics Special Issue on [Application of Computational Intelligence and Mathematical Methods to Medical Image Analysis](https://www.mdpi.com/si/mathematics/00WJQQUB8K)  
 IEEE-JBHI Special Issue on [Synergizing Multi-modal Agents and Large Foundation Models for Healthcare](https://www.embs.org/jbhi/wp-content/uploads/sites/18/2025/01/Special-Issue-on-Synergizing-Multi-modal-Agents-and-Large-Foundation-Models-for-Healthcare.pdf)  
 
 + Reviewer:  
