@@ -57,6 +57,20 @@ Jiong Zhang, Chenggang Lu, Ran Song, Yalin Zheng, Huaying Hao, **Yanda Meng<sup>
 
 
 ### Conferences  
++ Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading  
+Qinkai Yu, Wei Zhou, Hantao Liu, Yanyu Xu, Meng Wang, Yitian Zhao, Huazhu Fu, Xujiong Ye, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
+International Conference on Medical Image Computing and Computer-Assisted Intervention  
+**MICCAI 2025** (CCF-B) [paper](), [code]()  
+
++ Robust Incomplete-Modality Alignment for Ophthalmic Disease Grading and Diagnosis via Labeled Optimal Transport  
+Qinkai Yu, Jianyang Xie, Yitian Zhao, Cheng Chen, Lijun Zhang, Liming Chen, Jun Cheng, Lu Liu, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
+International Conference on Medical Image Computing and Computer-Assisted Intervention  
+**MICCAI 2025** (CCF-B) [paper](), [code]()  
+
++ Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein  
+Deqian Yang, Xiaotong Guo, Ying Zhu, Dan Wang, Haochen Zhao, Yuan Li, Zhilin Sui, Tao Zhou, Hui Meng, Lijun Zhang, **Yanda Meng<sup>†</sup>**    
+International Conference on Medical Image Computing and Computer-Assisted Intervention  
+**MICCAI 2025** (CCF-B) [paper](), [code]()  
 
 + Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading and Diagnosis  
 Chengzhi Liu, Zile Huang, Zhe Chen, Feilong Tang, Yu Tian, Zhongxing Xu, Zihong Luo, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
@@ -120,6 +134,27 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 # All publications  
 
 2025  
+
++ Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading  
+Qinkai Yu, Wei Zhou, Hantao Liu, Yanyu Xu, Meng Wang, Yitian Zhao, Huazhu Fu, Xujiong Ye, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
+International Conference on Medical Image Computing and Computer-Assisted Intervention  
+**MICCAI 2025** (CCF-B) [paper](), [code]()  
+
++ Robust Incomplete-Modality Alignment for Ophthalmic Disease Grading and Diagnosis via Labeled Optimal Transport  
+Qinkai Yu, Jianyang Xie, Yitian Zhao, Cheng Chen, Lijun Zhang, Liming Chen, Jun Cheng, Lu Liu, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
+International Conference on Medical Image Computing and Computer-Assisted Intervention  
+**MICCAI 2025** (CCF-B) [paper](), [code]()  
+
++ Self-adaptive Vision-Language Model for 3D Segmentation of Pulmonary Artery and Vein  
+Deqian Yang, Xiaotong Guo, Ying Zhu, Dan Wang, Haochen Zhao, Yuan Li, Zhilin Sui, Tao Zhou, Hui Meng, Lijun Zhang, **Yanda Meng<sup>†</sup>**    
+International Conference on Medical Image Computing and Computer-Assisted Intervention  
+**MICCAI 2025** (CCF-B) [paper](), [code]()
+
++ GLCP: Global-to-Local Connectivity Preservation for Tubular Structure Segmentation
+Feixiang Zhou, Zhuangzhi Gao, He Zhao, Jianyang Xie, Yanda Meng, Yitian Zhao, Gregory Lip, Yalin Zheng
+International Conference on Medical Image Computing and Computer-Assisted Intervention  
+**MICCAI 2025** (CCF-B) [paper](), [code]()  
+  
 + Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized ?  
 Jianyang Xie, Yitian Zhao, **Yanda Meng**, He Zhao, Anh Nguyen, Yalin Zheng.  
 IEEE Conference on Computer Vision and Pattern Recognition.   
