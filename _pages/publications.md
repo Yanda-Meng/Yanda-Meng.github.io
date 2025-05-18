@@ -150,8 +150,8 @@ Deqian Yang, Xiaotong Guo, Ying Zhu, Dan Wang, Haochen Zhao, Yuan Li, Zhilin Sui
 International Conference on Medical Image Computing and Computer-Assisted Intervention  
 **MICCAI 2025** (CCF-B) [paper](), [code]()
 
-+ GLCP: Global-to-Local Connectivity Preservation for Tubular Structure Segmentation
-Feixiang Zhou, Zhuangzhi Gao, He Zhao, Jianyang Xie, Yanda Meng, Yitian Zhao, Gregory Lip, Yalin Zheng
++ GLCP: Global-to-Local Connectivity Preservation for Tubular Structure Segmentation  
+Feixiang Zhou, Zhuangzhi Gao, He Zhao, Jianyang Xie, Yanda Meng, Yitian Zhao, Gregory Lip, Yalin Zheng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention  
 **MICCAI 2025** (CCF-B) [paper](), [code]()  
   
