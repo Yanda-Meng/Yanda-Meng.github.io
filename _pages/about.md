@@ -26,6 +26,7 @@ About Me
 
 News
 ====
++ May 2025, Happy to share that four papers have been early accepted by MICCAI 2025!  
 + Apr 2025, Deligated to join the Program Committee board of IEEE 23rd International Symposium on Biomedical Imaging (ISBI 2026), which will be held in London, UK, April 8-11, 2026.  
 + Mar 2025, One paper, 'Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?' is accepted by CVPR2025.  
 + Feb 2025, Acceptance of an NHS-funded UK-rate full PhD studentship as <font color="#dd0000"> PI </font> (£45,000 external), the student is expected to start in Sep 2025.  
