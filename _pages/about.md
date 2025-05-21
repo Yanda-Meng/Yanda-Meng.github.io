@@ -29,7 +29,7 @@ News
 + May 2025, one paper, 'Health-LLM: Personalized Retrieval-Augmented Disease Prediction System' is accepted by 4th workshop on NLP for Postive Impact, which will be held in ACL2025 in Vienna.  
 + May 2025, Happy to be invited as an Associate Editor of [Frontiers in Medicine (Ophthalmology)](https://www.frontiersin.org/journals/medicine/sections/ophthalmology), IF=3.1.  
 + May 2025, Our Workshop on [Synergizing Multi-modal Agents and Large Foundation Models for Bioinformatics and Biomedicine](https://bibm-mafm.github.io/) is accepted by IEEE BIBM 2025.  
-+ May 2025, Happy to share that four papers have been early accepted by MICCAI 2025!  
++ May 2025, Happy to share that four papers have been early accepted (top 9%) by MICCAI 2025!  
 + Apr 2025, Deligated to join the Program Committee board of IEEE 23rd International Symposium on Biomedical Imaging (ISBI 2026), which will be held in London, UK, April 8-11, 2026.  
 + Mar 2025, One paper, 'Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?' is accepted by CVPR2025.  
 + Feb 2025, Acceptance of an NHS-funded UK-rate full PhD studentship as <font color="#dd0000"> PI </font> (£45,000 external), the student is expected to start in Sep 2025.  
