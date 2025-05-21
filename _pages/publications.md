@@ -134,6 +134,10 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 # All publications  
 
 2025  
++ Health-LLM: Personalized Retrieval-Augmented Disease Prediction System  
+Qinkai Yu, Mingyu Jin, Dong Shu, Chong Zhang, Lizhou Fan, Wenyue Hua, Suiyuan Zhu, Yanda Meng, Zhenting Wang, Mengnan Du, Yongfeng Zhang  
+4th Workshop on NLP for Positive Impact  
+ACL2025  [paper](), [code]()  
 
 + Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading  
 Qinkai Yu, Wei Zhou, Hantao Liu, Yanyu Xu, Meng Wang, Yitian Zhao, Huazhu Fu, Xujiong Ye, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
