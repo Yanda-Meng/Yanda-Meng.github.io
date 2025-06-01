@@ -26,6 +26,7 @@ About Me
 
 News
 ====
++ May 2025. one paper, 'Enhancing Diagnostic Accuracy in Rare and Common Fundus Diseases with a Knowledge-Rich Vision-Language Model' is accepted by Nature Communication.  
 + May 2025, one paper, 'Health-LLM: Personalized Retrieval-Augmented Disease Prediction System' is accepted by 4th workshop on NLP for Postive Impact, which will be held in ACL2025 in Vienna.  
 + May 2025, Happy to be invited as an Associate Editor of [Frontiers in Medicine (Ophthalmology)](https://www.frontiersin.org/journals/medicine/sections/ophthalmology), IF=3.1.  
 + May 2025, Our Workshop on [Synergizing Multi-modal Agents and Large Foundation Models for Bioinformatics and Biomedicine](https://bibm-mafm.github.io/) is accepted by IEEE BIBM 2025.  
