@@ -26,6 +26,7 @@ About Me
 
 News
 ====
++ Jun 2025, Call for papers, our special issue is now online: Frontiers in Medicine, Nuclear Medicine Special Issue on [Fostering Trustworthy Artificial Intelligence in Medical Imaging](https://www.frontiersin.org/research-topics/71850/fostering-trustworthy-artificial-intelligence-in-medical-imaging).  
 + Jun 2025, After rebuttal, we have three more papers accepted by MICCAI2025 this year, which results in 7 papers in total acceptance out of 8 submissions!  
 + May 2025，one paper, 'Enhancing Diagnostic Accuracy in Rare and Common Fundus Diseases with a Knowledge-Rich Vision-Language Model' is accepted by Nature Communication.  
 + May 2025, one paper, 'Health-LLM: Personalized Retrieval-Augmented Disease Prediction System' is accepted by 4th workshop on NLP for Postive Impact, which will be held in ACL2025 in Vienna.  
