@@ -140,7 +140,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 
 2025  
 + Health-LLM: Personalized Retrieval-Augmented Disease Prediction System  
-Qinkai Yu, Mingyu Jin, Dong Shu, Chong Zhang, Lizhou Fan, Wenyue Hua, Suiyuan Zhu, Yanda Meng, Zhenting Wang, Mengnan Du, Yongfeng Zhang  
+Qinkai Yu, Mingyu Jin, Dong Shu, Chong Zhang, Lizhou Fan, Wenyue Hua, Suiyuan Zhu, **Yanda Meng**, Zhenting Wang, Mengnan Du, Yongfeng Zhang  
 4th Workshop on NLP for Positive Impact  
 ACL2025  [paper](), [code]()  
 
