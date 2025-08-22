@@ -15,9 +15,11 @@ Miss Wenhui Li (2025-)
 
 Miss Junya Ji (2025-)  
 
+Mr Yifan Xie (2025-)
+
 Miss Ming Yin (Co-supervised with Dr Zeyu Fu, 2024-)  
 
-Mr Zheng Gong (Co-supervised with Prof Xujiong Ye, 2025-)  
+Mr Zhihong Liu (Co-supervised with Prof Xujiong Ye, 2025-)  
 
 
 
