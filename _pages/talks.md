@@ -24,7 +24,9 @@ Mr Zhihong Liu (Co-supervised with Prof Xujiong Ye, 2025-)
 
 
 PhD Studentship opportunity:
-======
+======  
+(closed) 2025 Aug, [Fish&Chips: Fractional Flow Reserve-CT in Stable Heart Disease and Coronary Computed Tomography Angiography Helps Improves Patient care and Societal Cost](https://www.findaphd.com/phds/project/ai4heart-fractional-flow-reserve-ct-in-stable-heart-disease-and-coronary-computed-tomography-angiography-helps-improves-patient-care-and-societal-cost/?p186070=)  
+
 (closed) 2025 Jan, EPSRC DLA studentship, [Unveiling hidden patterns: Integrating Clinical Biomarkers and ECG Data with
 AI to combat cardiovascular disease](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Unveiling_hidden_patterns_Integrating_Clinical_Biomarkers_and_ECG_Data_with_AI_to_combat_cardiovascular_disease_EPSRC_DLA_Project_September_2025_Entry.pdf), the deadline to apply is 9th Feb 2025. Please email me your CV if you are interested.  
 
