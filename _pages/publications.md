@@ -159,12 +159,12 @@ ACL2025  [paper](), [code]()
 + tHPM-LDM: Integrating Individual Historical Record with Population Memory in Latent Diffusion-based Glaucoma Forecasting  
 Yuheng Fan, Jianyang Xie, Yimin Luo, Yanda Meng, Savita Madhusudhan, Gregory Lip, Li Cheng, Yalin Zheng, He Zhao  
 International Conference on Medical Image Computing and Computer-Assisted Intervention  
-**MICCAI 2025** (CCF-B) [paper](), [code]()  
+**MICCAI 2025** (CCF-B) [paper](), [code]() <font color="#dd0000">(Spotlighy).</font><br />  
 
 + Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation  
 Ming Yin, Fu Wang, Xujiong Ye, Yanda Meng, Zeyu Fu  
 International Conference on Medical Image Computing and Computer-Assisted Intervention  
-**MICCAI 2025** (CCF-B) [paper](), [code]()  
+**MICCAI 2025** (CCF-B) [paper](), [code]() <font color="#dd0000">(Oral).</font><br />  
 
 + Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading  
 Qinkai Yu, Wei Zhou, Hantao Liu, Yanyu Xu, Meng Wang, Yitian Zhao, Huazhu Fu, Xujiong Ye, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
@@ -184,7 +184,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 + GLCP: Global-to-Local Connectivity Preservation for Tubular Structure Segmentation  
 Feixiang Zhou, Zhuangzhi Gao, He Zhao, Jianyang Xie, Yanda Meng, Yitian Zhao, Gregory Lip, Yalin Zheng  
 International Conference on Medical Image Computing and Computer-Assisted Intervention  
-**MICCAI 2025** (CCF-B) [paper](), [code](). 
+**MICCAI 2025** (CCF-B) [paper](), [code](). <font color="#dd0000">(Oral).</font><br />  
 
 + Fairness-Aware vCDR-Controlled Generation for Glaucoma Diagnosis  
 Ziheng Wang, Shuran Yang, Wen Chen, Zhen Zhang, Mengyu Wang, Feixiang Zhou, Yu Tian, Meng Wang, Yitian Zhao, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
