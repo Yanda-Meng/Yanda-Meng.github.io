@@ -18,7 +18,7 @@ About Me
 +  Postdoctoral Research Associate (2022.11 - 2024.01) in the Eye and Vision Science Department, University of Liverpool, UK, advised by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).  
 + He has a PhD (2019.04-2022.11) in the Eye and Vision Science Department, University of Liverpool, UK, where he is supervised by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). He has an M.Sc (2017-2018) in the School of Computing, University of Leeds, UK, and a B.Eng (2013-2017) in the Software Engineering Department, Capital Normal University, China.
 + Yanda's current research mainly focuses on Medical Image Analysis, Foundation Models, Data-Efficient Deep Learning, Trustworthy AI, Geometric Deep Learning, etc. He has published more than 40 papers in peer-reviewed journals and conferences and first/corresponding-authored more than 20 publications in prestigious journals/conferences, such as AAAI, ICCV, ECCV, BMVC, MICCAI, IEEE-TMI, IEEE-TITS, MedIA, Diabetologia, etc. He serves as a reviewer for many journals/conferences such as CVPR, ICCV, ECCV, MICCAI, Medical Physics, AIM, CMIG, CBM, MedIA, IEEE-TMI, IEE-TIP, IEEE-TCSVT, IEEE-JBHI, etc. He is a guest editor for IEEE-JBHI, Mathematics, and Frontiers in Medicine.    
-+ Email address: y.m.meng@exeter.ac.uk  
++ Email address: yanda.meng@outlook.com  
 
 
 <font color="#dd0000">I seek self-motivated MRes and Ph.D. students. If you are interested in working with me, please send me an email about your background (CV, transcripts, etc)   </font>  
