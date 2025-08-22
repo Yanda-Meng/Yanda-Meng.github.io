@@ -139,6 +139,18 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 # All publications  
 
 2025  
++ Super-Resolution of OCTA via Multi-field-of-view Representation Learning  
+Hao, H., Leng, S., Meng, Y., Liu, Y., Zheng, Y., Fu, H., Zhang, J., Yi, Q., Liu, Y., Zhang, J., Zhao, Y.,  
+IEEE Journal of Biomedical and Health Informatics. (IEEE-JBHI，2025).  
+
++ Enhancing diagnostic accuracy in rare and common fundus diseases with a knowledge-rich vision-language model  
+Wang, M., Lin, T., Lin, A., Tham, Y.C., Liu, D., Wong, W., Thakur, S., Fenner, B., … Meng, Y., Chen, H., Fu, H. and Cheng, C.Y., 2025  
+Nature Communications, 16(1), p.5528.
+
++ MR2-Net: Retinal OCTA Image Stitching via Multi-Scale Representation Learning and Dynamic Location Guidance.  
+Mao, H., Ma, Y., Zhang, D., Meng, Y., Ma, S., Qiao, Y., Fu, H., Shan, C., Chen, D., Zhao, Y. and Zhang, J.,  
+IEEE Journal of Biomedical and Health Informatics, 29(1), pp.482-494.  
+
 + Health-LLM: Personalized Retrieval-Augmented Disease Prediction System  
 Qinkai Yu, Mingyu Jin, Dong Shu, Chong Zhang, Lizhou Fan, Wenyue Hua, Suiyuan Zhu, **Yanda Meng**, Zhenting Wang, Mengnan Du, Yongfeng Zhang  
 4th Workshop on NLP for Positive Impact  
