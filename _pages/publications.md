@@ -169,7 +169,7 @@ International Conference on Medical Image Computing and Computer-Assisted Interv
 + Parameterized Diffusion Optimization enabled Autoregressive Ordinal Regression for Diabetic Retinopathy Grading  
 Qinkai Yu, Wei Zhou, Hantao Liu, Yanyu Xu, Meng Wang, Yitian Zhao, Huazhu Fu, Xujiong Ye, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
 International Conference on Medical Image Computing and Computer-Assisted Intervention  
-**MICCAI 2025** (CCF-B) [paper](), [code]()  
+**MICCAI 2025** (CCF-B) [paper](), [code]() <font color="#dd0000">(Oral).</font><br />  
 
 + Robust Incomplete-Modality Alignment for Ophthalmic Disease Grading and Diagnosis via Labeled Optimal Transport  
 Qinkai Yu, Jianyang Xie, Yitian Zhao, Cheng Chen, Lijun Zhang, Liming Chen, Jun Cheng, Lu Liu, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
