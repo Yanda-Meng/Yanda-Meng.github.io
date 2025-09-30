@@ -26,6 +26,7 @@ About Me
 
 News
 ====
++ Sep 2025, One Frontiers in Medicine (Ophthalmology) special issue that I am serving as the guest editor is now available to submit, [Efficient Artificial Intelligence in Ophthalmic Imaging – Volume III](https://www.frontiersin.org/research-topics/74114/efficient-artificial-intelligence-in-ophthalmic-imaging---volume-iii), deadline <font color="#dd0000"> 27th March 2026. </font>  
 + Aug 2025, one paper 'Uncertainty Quantification for Multiple-Choice Questions is Just One-Token Deep' is accepted by CIKM 2025.  
 + Aug 2025, Glad to share that we have three papers as oral, one paper as spotlight, and one paper as Best-paper/ Young Scientist award final list in this year's MICCAI 2025.  
 + Jun 2025, Call for papers, our special issue is now online: Frontiers in Medicine, Nuclear Medicine Special Issue on [Fostering Trustworthy Artificial Intelligence in Medical Imaging](https://www.frontiersin.org/research-topics/71850/fostering-trustworthy-artificial-intelligence-in-medical-imaging).  
