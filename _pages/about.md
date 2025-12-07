@@ -19,14 +19,15 @@ About Me
 +  Postdoctoral Research Associate (2022.11 - 2024.01) in the Eye and Vision Science Department, University of Liverpool, UK, advised by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Dr. [Nicholas Beare](https://www.liverpool.ac.uk/life-course-and-medical-sciences/staff/nicholas-beare/).  
 + He has a PhD (2019.04-2022.11) in the Eye and Vision Science Department, University of Liverpool, UK, where he is supervised by Prof. [Yalin Zheng](http://pcwww.liv.ac.uk/~yzheng/) and Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/). He has an M.Sc (2017-2018) in the School of Computing, University of Leeds, UK, and a B.Eng (2013-2017) in the Software Engineering Department, Capital Normal University, China.
 + Yanda's current research mainly focuses on Medical Image Analysis, Foundation Models, Data-Efficient Deep Learning, Trustworthy AI, Geometric Deep Learning, etc. He has published more than 40 papers in peer-reviewed journals and conferences and first/corresponding-authored more than 20 publications in prestigious journals/conferences, such as AAAI, ICCV, ECCV, BMVC, MICCAI, IEEE-TMI, IEEE-TITS, MedIA, Diabetologia, etc. He serves as a reviewer for many journals/conferences such as CVPR, ICCV, ECCV, MICCAI, Medical Physics, AIM, CMIG, CBM, MedIA, IEEE-TMI, IEE-TIP, IEEE-TCSVT, IEEE-JBHI, etc. He is a guest editor for IEEE-JBHI, Mathematics, and Frontiers in Medicine.    
-+ Email address: yanda.meng@outlook.com  
++ Email address: yanda.meng@kaust.edu.sa 
 
 
-<font color="#dd0000">I seek self-motivated MRes and Ph.D. students. If you are interested in working with me, please send me an email about your background (CV, transcripts, etc)   </font>  
+<font color="#dd0000">I seek fully-funded, self-motivated MRes and PhD students. If you are interested in working with me, please send me an email about your background (CV, transcripts, etc)   </font>  
 
 
 News
 ====
++ Oct 2025, I have started my role at KAUST as an [assistant professor](https://www.kaust.edu.sa/en/study/faculty/yanda-meng).
 + Sep 2025, One Frontiers in Medicine (Ophthalmology) special issue that I am serving as the guest editor is now available to submit, [Efficient Artificial Intelligence in Ophthalmic Imaging – Volume III](https://www.frontiersin.org/research-topics/74114/efficient-artificial-intelligence-in-ophthalmic-imaging---volume-iii), deadline <font color="#dd0000"> 27th March 2026. </font>  
 + Aug 2025, one paper 'Uncertainty Quantification for Multiple-Choice Questions is Just One-Token Deep' is accepted by CIKM 2025.  
 + Aug 2025, Glad to share that we have three papers as oral, one paper as spotlight, and one paper as Best-paper/ Young Scientist award final list in this year's MICCAI 2025.  
