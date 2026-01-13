@@ -27,6 +27,7 @@ About Me
 
 News
 ====
++ Jan 2026, We have multiple papers accepted over the last two months, one in Medical Image Analysis (MedIA), one in IEEE Transactions on Image Processing (IEEE-TIP), one in Remote Sensing, and one in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 + Oct 2025, I have started my role at KAUST as an [assistant professor](https://www.kaust.edu.sa/en/study/faculty/yanda-meng).
 + Sep 2025, One Frontiers in Medicine (Ophthalmology) special issue that I am serving as the guest editor is now available to submit, [Efficient Artificial Intelligence in Ophthalmic Imaging – Volume III](https://www.frontiersin.org/research-topics/74114/efficient-artificial-intelligence-in-ophthalmic-imaging---volume-iii), deadline <font color="#dd0000"> 27th March 2026. </font>  
 + Aug 2025, one paper 'Uncertainty Quantification for Multiple-Choice Questions is Just One-Token Deep' is accepted by CIKM 2025.  
