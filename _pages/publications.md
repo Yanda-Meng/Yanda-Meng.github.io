@@ -16,8 +16,8 @@ author_profile: true
 # Selected publications (* means equal contribution, <sup>†</sup> means corresponding author/ senior author)  
 
 ### Journals  
-+ Integration of clinical data with scanned ECGs using deep learning methods for stroke risk prediction in Indian patients with atrial fibrillation: evidence from the KERALA-AF study
-Qinkai Yu, Jinbert L. Azariah, Z. Sajan Ahmad, Rajappan Anilkumar, Peter Calvert, Yang Chen, Yalin Zheng, **Yanda Meng<sup>†</sup>**, Bahuleyan Charantharayil Gopalan<sup>†</sup>, Gregory Y.H. Lip<sup>†</sup>.
++ Integration of clinical data with scanned ECGs using deep learning methods for stroke risk prediction in Indian patients with atrial fibrillation: evidence from the KERALA-AF study  
+Qinkai Yu, Jinbert L. Azariah, Z. Sajan Ahmad, Rajappan Anilkumar, Peter Calvert, Yang Chen, Yalin Zheng, **Yanda Meng<sup>†</sup>**, Bahuleyan Charantharayil Gopalan<sup>†</sup>, Gregory Y.H. Lip<sup>†</sup>.  
 **The Lancet Regional Health - Southeast Asia (2026 IF: 6.2, SCI 2 区)** [paper](), [code]().  
 
 + StealthMark: Harmless and Stealthy Ownership Verification for Medical Segmentation via Uncertainty-Guided Backdoors  
