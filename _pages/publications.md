@@ -13,16 +13,21 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-# Selected publications (* means equal contribution, <sup>†</sup> means corresponding author)  
+# Selected publications (* means equal contribution, <sup>†</sup> means corresponding author/ senior author)  
 
 ### Journals  
++ Integration of clinical data with scanned ECGs using deep learning methods for stroke risk prediction in Indian patients with atrial fibrillation: evidence from the KERALA-AF study
+Qinkai Yu, Jinbert L. Azariah, Z. Sajan Ahmad, Rajappan Anilkumar, Peter Calvert, Yang Chen, Yalin Zheng, **Yanda Meng<sup>†</sup>**, Bahuleyan Charantharayil Gopalan<sup>†</sup>, Gregory Y.H. Lip<sup>†</sup>.
+**The Lancet Regional Health - Southeast Asia (2026 IF: 6.2, SCI 2 区)** [paper](), [code]().  
+
 + StealthMark: Harmless and Stealthy Ownership Verification for Medical Segmentation via Uncertainty-Guided Backdoors  
 Qinkai Yu, Chong Zhang,  Gaojie Jin, Tianjin Huang, Wei Zhou, Wenhui Li, Xiaobo Jin, Bo Huang, Yitian Zhao, Guang Yang, Gregory Y.H. Lip, Yalin Zheng, Aline Villavicencio, **Yanda Meng<sup>†</sup>**  
 **IEEE Transactions on Image Processing (2026 IF: ~13.7, SCI 1区)** [paper](), [code]().  
 
 + Multi-Granularity Learning of Explicit Geometric Constraint and Contrast for Label-Efficient Medical Image Segmentation and Differentiable Clinical Function Assessment  
 **Yanda Meng**, Yuchen Zhang, Jianyang Xie, Jinming Duan, Martha Joddrell, Savita Madhusudhan, Tunde Peto, Yitian Zhao, Yalin Zheng.  
-**Medical Image Analysis (2024, IF:~ 10.9, SCI 1 区)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841524001087), [code](https://github.com/smallmax00/Multi_Granularity_Segmentation_Clinical_Function_Assessment)  
+**Medical Image Analysis (2024, IF:~ 10.9, SCI 1 区)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841524001087), [code](https://github.com/smallmax00/Multi_Granularity_Segmentation_Clinical_Function_Assessment)
+  
 + Bilateral Adaptive Graph Convolutional Network on CT based COVID-19 Diagnosis with Uncertainty-Aware Consensus-Assisted Multiple Instance Learning   
 **Yanda Meng**, Joshua Bridge, Cliff Addison, Manhui Wang, Cristin Merritt, Stu Franks, Maria Mackey, Steve Messenger, Renrong Sun, Thomas Fitzmaurice, Caroline McCann, Qiang Li, Yitian Zhao, Yalin Zheng.  
 **Medical Image Analysis (2023 IF:~ 13.828, SCI 1区)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841522003504?dgcid=rss_sd_all), [code](https://github.com/smallmax00/BAGCN-Covid19).
