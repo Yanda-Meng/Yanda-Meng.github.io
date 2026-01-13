@@ -16,6 +16,10 @@ author_profile: true
 # Selected publications (* means equal contribution, <sup>†</sup> means corresponding author)  
 
 ### Journals  
++ StealthMark: Harmless and Stealthy Ownership Verification for Medical Segmentation via Uncertainty-Guided Backdoors  
+Qinkai Yu, Chong Zhang,  Gaojie Jin, Tianjin Huang, Wei Zhou, Wenhui Li, Xiaobo Jin, Bo Huang, Yitian Zhao, Guang Yang, Gregory Y.H. Lip, Yalin Zheng, Aline Villavicencio, **Yanda Meng<sup>†</sup>**  
+**IEEE Transactions on Image Processing (2026 IF: ~13.7, SCI 1区)** [paper](), [code]().  
+
 + Multi-Granularity Learning of Explicit Geometric Constraint and Contrast for Label-Efficient Medical Image Segmentation and Differentiable Clinical Function Assessment  
 **Yanda Meng**, Yuchen Zhang, Jianyang Xie, Jinming Duan, Martha Joddrell, Savita Madhusudhan, Tunde Peto, Yitian Zhao, Yalin Zheng.  
 **Medical Image Analysis (2024, IF:~ 10.9, SCI 1 区)** [paper](https://www.sciencedirect.com/science/article/pii/S1361841524001087), [code](https://github.com/smallmax00/Multi_Granularity_Segmentation_Clinical_Function_Assessment)  
