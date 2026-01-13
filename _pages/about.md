@@ -27,6 +27,7 @@ About Me
 
 News
 ====
++ Jan 2026, There are multiple openings of fully funded visiting student (internship, free housing, flight ticket, medical insurance, plus 1000 USD/month for stipend) positions in my group. Get in touch.  
 + Jan 2026, I joined the editor board of [Thrombosis and Haemostasis](https://www.thieme.de/de/thrombosis-and-haemostasis/journal-information-121021.htm) (IF: 4.3, SCI 二区) as a section editor for AI and Machine Learning.  
 + Jan 2026, We have multiple papers accepted over the last two months, one in Medical Image Analysis (MedIA), one in IEEE Transactions on Image Processing (IEEE-TIP), one in Remote Sensing, and one in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 + Oct 2025, I have started my role at KAUST as an [assistant professor](https://www.kaust.edu.sa/en/study/faculty/yanda-meng).
