@@ -6,21 +6,24 @@ author_profile: true
 ---
 
 
-Current PhD Students:   
+Current Group Members:   
 ======
 
-[Mr Qinkai Yu](https://scholar.google.com/citations?user=91kKHIcAAAAJ&hl=en) (2024-)  
+[Mr Qinkai Yu](https://scholar.google.com/citations?user=91kKHIcAAAAJ&hl=en) (2024.11-)  Exeter-PhD  
 
-Miss Wenhui Li (2025-)  
+Miss Wenhui Li (2025.02-)  Exeter-PhD  
 
-Miss Junya Ji (2025-)  
+Miss Junya Ji (2025.06-)  Exeter-PhD  
 
-Mr Yifan Xie (2025-)
+Mr Yifan Xie (2025.11-) Exeter-PhD  
 
-Miss Ming Yin (Co-supervised with Dr Zeyu Fu, 2024-)  
+Mr Ziheng Wang (2026.02) Kaust-PhD  
 
-Mr Zhihong Liu (Co-supervised with Prof Xujiong Ye, 2025-)  
+Miss Jingyi Liu (2026.02) Kaust-PhD  
 
+Dr Sheng Zhou (2026.03) Kaust-Postdoc  
+
+Miss Tanisha Khan (2026.01) Kaust-MS  
 
 
 PhD Studentship opportunity:
