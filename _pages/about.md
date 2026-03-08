@@ -31,8 +31,8 @@ News
 + I am invited to serve as area chair for 17th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB).  
 + Feb 2026, One paper 'CP-IMoE: Collaborative Prompt-Guided Interactive Mixture-of-Experts for Incomplete Multimodal Learning' is accepted by CVPR2026 as a finding.  
 + Feb 2026, One paper 'Artifact-suppressed 3D Retinal Microvascular Segmentation via Multi-scale Topology Regulation' is accepted by Medical Image Analysis.  
-+Feb 2026, One paper 'Uncertainty-aware Cycle Diffusion Model for Fair Glaucoma Diagnosis. In Medical Imaging with Deep Learning' is accepted by MIDL 2026.  
-+Jan 2026, One paper 'Expanding Spatial Horizons for Dat-Constrained Medical Image Analysis.' is accepted by ICLR2026.  
++ Feb 2026, One paper 'Uncertainty-aware Cycle Diffusion Model for Fair Glaucoma Diagnosis. In Medical Imaging with Deep Learning' is accepted by MIDL 2026.  
++ Jan 2026, One paper 'Expanding Spatial Horizons for Dat-Constrained Medical Image Analysis.' is accepted by ICLR2026.  
 + Jan 2026, There are multiple openings of fully funded visiting student (internship, free housing, flight ticket, medical insurance, plus 1000 USD/month for stipend) positions in my group. Get in touch.  
 + Jan 2026, I joined the editor board of [Thrombosis and Haemostasis](https://www.thieme.de/de/thrombosis-and-haemostasis/journal-information-121021.htm) (IF: 4.3, SCI 二区) as a section editor for AI and Machine Learning.  
 + Jan 2026, We have multiple papers accepted over the last two months, one in Medical Image Analysis (MedIA), one in IEEE Transactions on Image Processing (IEEE-TIP), one in Lancet Regional Health- Southeast Asis, one in Remote Sensing, and one in the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
