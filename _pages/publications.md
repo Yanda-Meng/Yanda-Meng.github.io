@@ -66,12 +66,12 @@ Jiong Zhang, Chenggang Lu, Ran Song, Yalin Zheng, Huaying Hao, **Yanda Meng<sup>
 
 
 ### Conferences  
-+ Uncertainty-aware Cycle Diffusion Model for Fair Glaucoma Diagnosis
-Ziheng Wang, Shuran Yang, Yan Lin, Wenrui Zang, **Yanda Meng<sup>†</sup>**
++ Uncertainty-aware Cycle Diffusion Model for Fair Glaucoma Diagnosis  
+Ziheng Wang, Shuran Yang, Yan Lin, Wenrui Zang, **Yanda Meng<sup>†</sup>**  
 **MIDL 2026** [paper](), [code]()  
 
-+ CP-IMoE: Collaborative Prompt-Guided Interactive Mixture-of-Experts for Incomplete Multimodal Learning
-Jing Li, Dongbo Zhang, Yalin Zheng, **Yanda Meng<sup>†</sup>**
++ CP-IMoE: Collaborative Prompt-Guided Interactive Mixture-of-Experts for Incomplete Multimodal Learning  
+Jing Li, Dongbo Zhang, Yalin Zheng, **Yanda Meng<sup>†</sup>**  
 **CVPR 2026 Findings** [paper](), [code]()  
 
 + Fairness-Aware vCDR-Controlled Generation for Glaucoma Diagnosis  
