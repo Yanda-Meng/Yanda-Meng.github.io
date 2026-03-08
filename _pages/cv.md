@@ -12,7 +12,11 @@ redirect_from:
 
 Work Experience
 ======
-2024.02 - now:  
+2025.11 - now:  
+**Bioengineering Program, Biomedical Sciences Division, KAUST. (Assistant Professor)**   
+Medical Image Analysis, Computer Vision, AI for Healthcare.  
+
+2024.02 - 2025.11:  
 **Department of Computer Science, University of Exeter, UK. (Lecturer/Assistant Professor)**   
 Medical Image Analysis, Computer Vision, AI for Healthcare.  
 
